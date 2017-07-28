@@ -8,7 +8,7 @@ Previous weeknotes can be found [on the PDS blog](https://pds.blog.parliament.uk
 
 ### Recently...
 
-Probably the most exciting development has been the new website starting to surface links to data views. Previously the pages on the site have been generated from the data service API but the API hadn't been exposed to users. Still much work to do but its the first time the data service has poked its head above the waterline and its good to see.
+Probably the most exciting development has been the new website starting to surface links to data views. Previously the pages on the site have been generated from the data service API but the API hasn't been exposed to users. Still much work to do but its the first time the data service has poked its head above the waterline and it's good to see.
 
 Having been unceremoniously evicted from our meeting room we held our usual planning  day in the sunshine in St James's Park. Or at least the dappled shade. Much was discussed and it felt productive.
 
@@ -22,7 +22,7 @@ Robert took a look at the newly exposed data views and how they might support th
 
 Samu, Matthieu and Aidan had a meeting about [Google CSE](https://cse.google.com/cse/) where much was ironed out. 
 
-There was the usual Friday search meeting where people heard more about work with the Microsoft API, the next steps on taking search live and preparation for hearing more from Laurence on search design.
+There was the usual Friday search meeting where people heard more about work with the Microsoft API, the next steps on taking search live, and preparation for hearing more from Laurence on search design.
 
 Dia had a meeting with Dan and got feedback on the "data 101"" presentation. She also met with Aidan to plan the next steps on search and is starting to write first drafts of the search strategy and roadmap with Robert.
 
