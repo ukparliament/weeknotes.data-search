@@ -1,3 +1,10 @@
+After a brief hiatus we thought we should pick up on publishing weeknotes again.
+
+These roughly cover the last three weeks. A less tardy service will follow.
+
+Previous weeknotes can be found [on the PDS blog](https://pds.blog.parliament.uk/?s=%22Fortnight+notes%22)
+
+
 lizthomas [10:33 AM] 
 joined #data-week-notes
 
