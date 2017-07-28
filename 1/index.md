@@ -1,16 +1,32 @@
+## Week 1: 28-07-2017
+
 After a brief hiatus we thought we should pick up on publishing weeknotes again.
 
 These roughly cover the last three weeks. A less tardy service will follow.
 
-Previous weeknotes can be found [on the PDS blog](https://pds.blog.parliament.uk/?s=%22Fortnight+notes%22)
+Previous weeknotes can be found [on the PDS blog](https://pds.blog.parliament.uk/?s=%22Fortnight+notes%22).
+
+Recently...
+
+Having been unceremoniously evicted from our meeting room we held our usual planning data day in the sunshine in St James's Park. Or at least the dappled shade. Much was discussed and it felt productive.
+
+Dan, Ben, Sara, Saffiyah, Liz, and Matthieu visited the National Audit Office. Dan spoke about the new data service and search to their data analytics group and got some good leads on actual user needs for our data / API.
+
+Robert attended the "capability reset" meeting with Julie and others, where the revised pitch was discussed and slides were looked at. He also met with Colin to hear about how he's managing the Members' product on the beta website.
+
+Samu, Matthieu and Aidan had a meeting about Google CSE where much was ironed out. 
+
+There was the usual Friday search meeting where people heard more about work with the Microsoft API, the next steps on taking search live and preparation for hearing more from Laurenceg on search design.
 
 
-lizthomas [10:33 AM] 
-joined #data-week-notes
+I heard about data views in the #website-beta show and tell - and checked them out on Friday afternoon, bearing in mind the 'search types' discussed with @langsamu @nagd and @aidan. Also some mail support in reply to queries about Historic Hansard.
 
 
-brookr [4:05 PM] 
-It's 2017-W27. This week I attended the #capability 'reset' meeting with @juliebyrne and others, where the revised pitch was discussed and we looked at slides. I met with @cpattinson to hear about how he's managing the Members' product on the beta website. @langsamu @matthieu @aidan and I had a meeting about Google CSE where much was ironed out. Data day on Wednesday in St. James' Park was novel. We got through a lot, I think. I recovered from the heat by taking a day of leave on Thursday. Friday's #search weekly was good: people heard more about work with the Microsoft API, the next steps on taking search live and preparation for hearing more from @laurenceg-grinyer on search design next week. I heard about data views in the #website-beta show and tell - and checked them out on Friday afternoon, bearing in mind the 'search types' discussed with @langsamu @nagd and @aidan. Also some mail support in reply to queries about Historic Hansard.
+
+======
+
+
+
 
 
 nagd
@@ -31,9 +47,6 @@ Had a skype call with the ex general secretary of the co-operative party and @an
 ontologies for political blocs and formal body (committee) affiliation are now complete to best of our knowledge
 
 
-
-[8:33] 
-html versions are still wrong because the lode server is down
 
 
 
@@ -57,14 +70,6 @@ As I understand it, we now have a data and search team plant on Saffiyah's desk,
 
 
 
------ July 24th -----
-brookr
-[11:06 AM] 
-It was 2017-W29. I was on leave.
-
-
-sarareis [2:27 PM] 
-joined #data-week-notes
 
 
 
@@ -77,8 +82,7 @@ smethurst [9:54 AM]
 25/07 meeting at newspeak with @benwoodhams and @anya to map parliament data models to wikidata, democracy club and every politician. with sym roe (dc), andrew gray (wikidata), tony bowden (my society)
 
 
-dasbarrett [10:03 AM] 
-Dan, Ben, Sara, Saffiyah, Liz, and Matthieu went to the NAO. Dan spoke about the new data service and search to their data analytics group. Good leads on actual user needs for our data / API (for example committee membership)
+
 
 
 smethurst [10:05 AM] 
@@ -95,52 +99,9 @@ Finished changes to the election and political bloc models to better cope with c
 
 brookr
 [10:09 AM] 
-It's 2017-W30. I met with Samu and Matthieu on the search API and resurrecting a 'tech demo' on Azure, also spoke on medium-term search work and API content, met with the search team on current progress and next steps, wrote some PHP, met with Aidan on project delivery. I'm sure there's something else ... oh yes, podcast planning.
-
-
-smethurst [10:09 AM] 
-preparing to copy, paste and markdown
-
-
-[10:09] 
-you have the time it takes me to make tea and smoke a fag
-
-
-[10:09] 
-any more for any more?
-
-
-[10:10] 
-@channel
+It's 2017-W30. I met with Samu and Matthieu on the search API and resurrecting a 'tech demo' on Azure, also spoke on medium-term search work and API content, met with the search team on current progress and next steps, wrote some PHP, met with Aidan on project delivery. I'm sure there's something else ... oh yes, podcast planning
 
 
 juliebyrne [10:19 AM] 
 Wojciech helped me with the Developer Career path
 
-
-smethurst [10:21 AM] 
-Do we have a handy list of people > twitter links anywhere?
-
-
-juliebyrne [10:22 AM] 
-Don't think we do....not that organised
-
-
-smethurst [10:27 AM] 
-https://github.com/ukparliament/weeknotes/blob/master/people.tsv
-GitHub
-ukparliament/weeknotes
-Contribute to weeknotes development by creating an account on GitHub.
- 
-
-
-[10:27] 
-pull requests welcome
-
-
-[10:27] 
-or leave a comment
-
-
-[10:27] 
-@here
