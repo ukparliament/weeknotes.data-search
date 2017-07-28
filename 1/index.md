@@ -8,7 +8,7 @@ Previous weeknotes can be found [on the PDS blog](https://pds.blog.parliament.uk
 
 ### Recently...
 
-Probably the most exciting development has been the new website starting to surface links to data views. Previously the pages on the site have been generated from the data service API but the API hasn't been exposed to users. Still much work to do but its the first time the data service has poked its head above the waterline and it's good to see.
+Probably the most exciting development has been the new website starting to surface links to data views. Previously the pages on the site have been generated from the data service API but the API hasn't been exposed to users. Still much work to do but it's the first time the data service has poked its head above the waterline and it's good to see.
 
 Having been unceremoniously evicted from our meeting room we held our usual planning  day in the sunshine in St James's Park. Or at least the dappled shade. Much was discussed and it felt productive.
 
