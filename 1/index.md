@@ -8,7 +8,7 @@ Previous weeknotes can be found [on the PDS blog](https://pds.blog.parliament.uk
 
 ### Recently...
 
-Probably the most exciting development has been the new website starting to surface links to data views. Previously the pages on the site have been generated from the data service APIs but the API hadn't been exposed to users. Still much work to do but its the first time the data service has poked its head above the waterline and its good to see.
+Probably the most exciting development has been the new website starting to surface links to data views. Previously the pages on the site have been generated from the data service API but the API hadn't been exposed to users. Still much work to do but its the first time the data service has poked its head above the waterline and its good to see.
 
 Having been unceremoniously evicted from our meeting room we held our usual planning  day in the sunshine in St James's Park. Or at least the dappled shade. Much was discussed and it felt productive.
 
@@ -16,7 +16,7 @@ Dan, Ben, Sara, Saffiyah, Liz, and Matthieu visited the National Audit Office. D
 
 ### Search
 
-Lots more progress on search
+Lots more progress on search.
 
 Robert took a look at the newly exposed data views and how they might support the "search types" discussed with Samu, Dia, and Aidan. He also did some email support in reply to queries about Historic Hansard.
 
@@ -24,11 +24,11 @@ Samu, Matthieu and Aidan had a meeting about [Google CSE](https://cse.google.com
 
 There was the usual Friday search meeting where people heard more about work with the Microsoft API, the next steps on taking search live and preparation for hearing more from Laurence on search design.
 
-Dia had a meeting with Dan and got feedback on the "data 101"" presentation. She also met with Aidan to plan the next steps on search and is starting to write the first drafts of the search strategy and roadmap with Robert.
+Dia had a meeting with Dan and got feedback on the "data 101"" presentation. She also met with Aidan to plan the next steps on search and is starting to write first drafts of the search strategy and roadmap with Robert.
 
 Robert agreed the outline search go-live plan with Jamie, thought and wrote more about Opensearch elements and about extracting information from search result URLs and discussed search features with Ben, Samu, and Aidan.
 
-Robert also met with Samu and Matthieu on the search API and resurrecting a "tech demo" on Azure, spoke about medium-term search work and API content, wrote some PHP, and met with Aidan on project delivery. 
+He also met with Samu and Matthieu on the search API and resurrecting a "tech demo" on Azure, spoke about medium-term search work and API content, wrote some PHP, and met with Aidan on project delivery. 
 
 ### Data models
 
@@ -49,4 +49,4 @@ Julie struggled with the administrivia of setting up Andy Mabbett on the procure
 
 She also met with Wojciech who helped her with the developer career path.
 
-We also gained a data and search team plant which is currently on Saffiyah's desk sat in soil donated by Samu.
+And we gained a data and search team plant which is currently on Saffiyah's desk sat in soil donated by Samu.
