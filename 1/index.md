@@ -20,7 +20,7 @@ Lots more progress on search.
 
 Robert took a look at the newly exposed data views and how they might support the "search types" discussed with Samu, Dia, and Aidan. He also did some email support in reply to queries about Historic Hansard.
 
-Samu, Matthieu and Aidan had a meeting about [Google CSE](https://cse.google.com/cse/) where much was ironed out. 
+Samu, Matthieu, and Aidan had a meeting about [Google CSE](https://cse.google.com/cse/) where much was ironed out. 
 
 There was the usual Friday search meeting where people heard more about work with the Microsoft API, the next steps on taking search live, and preparation for hearing more from Laurence on search design.
 
