@@ -38,7 +38,7 @@ Robert attended a capability stand-up led by [Julie](https://twitter.com/julieto
 
 Ben went along to a cloud migration meeting and stayed long enough to establish his presence was not required.
 
-Nia and Ben went back through the "Data 101" presentation - our attempt to explain our work to internal stakeholders.
+Dia and Ben went back through the "Data 101" presentation - our attempt to explain our work to internal stakeholders.
 
 Matthieu continued investigations into cloud service billing.
 
@@ -48,7 +48,7 @@ Matthieu continued investigations into cloud service billing.
 
 At data day we worked on our plan for events and visits in which we will most certainly [leave the capitol](https://www.youtube.com/watch?v=GpMoRS_9bcM).
 
-Robert and Ben recorded a podcast episode with [Rob Grieg](https://twitter.com/Rob_Greig) which seemed to go pretty well and ended up with more audio than expected.
+Robert and Ben recorded a podcast episode with [Rob Greig](https://twitter.com/Rob_Greig) which seemed to go pretty well and ended up with more audio than expected.
 
 Dan went along to a data visualisation workshop run by [Jamie](https://twitter.com/oddtype) with assorted people from the House of Commons Library and select committee land. It was a really good session and felt like there's plenty of opportunity for collaboration and community building here. Michael sulked because he did not know this was happening.
 
