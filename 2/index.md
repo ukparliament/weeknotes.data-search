@@ -56,6 +56,10 @@ Raphael met with Luke from the Universal Credit team in the Department of Work a
 
 He spent Thursday at GDS as part of the data science accelerator programme where he completed the work around comparing two ways of vectorising text features into numeric features. 
 
+In other RShiny news, Liz organised a meeting with Andrew from the Ministry of Justice, who told us about their work on [latent semantic analysis](https://en.wikipedia.org/wiki/Latent_semantic_analysis) of Parliamentary questions. Which made Ben want to throw registered interests into vector spaces. [Source code here](https://github.com/moj-analytical-services/pq-tool).
+
+
+
 ### Analytics
 
 Liz and Robert met to chat about search related user research and analytics issues and what we might do to improve things.
