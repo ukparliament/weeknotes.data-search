@@ -16,9 +16,9 @@ There was also a meeting with [Matt](https://twitter.com/mattstutely) to talk th
 
 [Ben](https://twitter.com/benwoodhams) continued to work on documenting data integrity issues with particular focus on the Registers of Members' Interests. Conversations around registered interests, data models, and identifiers continued between Ben and [Michael](https://twitter.com/fantasticlife) over ping-pong, Slack, and cigarettes.
 
-Michael had a play with visualising co-occurrence of Lords members' interests.
+Michael had a play with visualising co-occurrence of Lords members' interests. [Interests co-occurrent by members is here](https://github.com/ukparliament/weeknotes.data-search/blob/master/assets/interests.pdf). Vice versa [here](https://github.com/ukparliament/weeknotes.data-search/blob/master/assets/members.pdf).
 
-[Raphael](https://twitter.com/raphaelleung), Angela, [Jianhan](https://twitter.com/jianhanzhu), and Matthieu continued exploratory work on the landscape of committees data. They restored database backups and tried to figure out details of the models. This was presented alongside [Anya](https://twitter.com/bitten_), Ben, [Silver](https://twitter.com/silveroliver) and Michael's work on [domain models](https://github.com/ukparliament/domain-models) and [ontologies](https://ukparliament.github.io/ontologies/) at the Tuesday show and tell.
+[Raphael](https://twitter.com/raphaelleung), Angela, [Jianhan](https://twitter.com/jianhanzhu), and Matthieu continued exploratory work on the landscape of committees data. They restored database backups and tried to figure out details of the models. This was presented alongside [Anya](https://twitter.com/bitten_), Ben, [Silver](https://twitter.com/silveroliver), and Michael's work on [domain models](https://github.com/ukparliament/domain-models) and [ontologies](https://ukparliament.github.io/ontologies/) at the Tuesday show and tell.
 
 They also met with Sadia and realised that that much of the committee information on the current website is only present in the CMS and not available as structured data. And realised that the database behind committee tracker provides mappings between identifiers in a variety of systems and should be a useful data source in future investigations. 
 
@@ -46,7 +46,7 @@ Matthieu continued investigations into cloud service billing.
 
 ### Community
 
-At data day we worked on our plan for events and visits in which we will most certainly [leave the capital](https://www.youtube.com/watch?v=GpMoRS_9bcM).
+At data day we worked on our plan for events and visits in which we will most certainly [leave the capitol](https://www.youtube.com/watch?v=GpMoRS_9bcM).
 
 Robert and Ben recorded a podcast episode with [Rob Grieg](https://twitter.com/Rob_Greig) which seemed to go pretty well and ended up with more audio than expected.
 
@@ -60,9 +60,9 @@ He spent Thursday at GDS as part of the data science accelerator programme where
 
 Liz and Robert met to chat about search related user research and analytics issues and what we might do to improve things.
 
-Sara started to look at analytics data from data.parliament and explore.data, focusing on pageviews and common user paths.
+Sara started to look at analytics data from the current open data service, focusing on pageviews and common user paths.
 
-She also had a chat with Liz and Wojciech about log data from members' pages on the [beta website](https://beta.parliament.uk) looking at how many users have downloaded MP's photos and if we could potentially use the log data for that.
+She also had a chat with Liz and Wojciech about log data from members' pages on the [beta website](https://beta.parliament.uk), looking at how many users have downloaded MP's photos and if we could potentially use the log data for that.
 
 ### Corporate data
 
@@ -70,13 +70,13 @@ Lew continued work on the Non-Cleared People / Github integration and the spread
 
 Noel has been working closely with the Learning and Development team to understand why some data issues happen and help them mitigate them.
 
-Mat has finished the Enterprise Portfolio Management Office database model.
+[Matias](https://twitter.com/matiasgermanico) has finished the Enterprise Portfolio Management Office database model.
 
 All the team have been working on installing BizTalk on their machines to test on them until the new environment is in place.
 
 ### Links
 
-Dan published [a post on his recent trip to North America](https://pds.blog.parliament.uk/2017/08/04/dude-wheres-my-data-pds-north-america/).
+Dan published [a post on his recent working trip to North America](https://pds.blog.parliament.uk/2017/08/04/dude-wheres-my-data-pds-north-america/).
 
 Robert spotted [a podcast episode from the Economist on state control of artificial intelligence in China](https://overcast.fm/+GfebProCA).
 
