@@ -11,7 +11,7 @@ The afternoon went well and gave us a chance to [show all our work from the last
 
 Dia, Robert and the rest of the search team held a workshop to help identify user interface development candidates for the next 3 months. The search backlog is now documented and the first sprint starts Monday.
 
-Dia also coordinated with the business systems team to plan how the new search service will go live.
+Dia also met with the business systems team to plan how the new search service will go live.
 
 
 
