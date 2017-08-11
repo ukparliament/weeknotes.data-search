@@ -27,7 +27,7 @@ Clerks in both houses are also checking the lay member data in MNIS.
 
 Sarah, [Aidan](https://twitter.com/aidan_morgan) and [Michael](https://twitter.com/fantasticlife) had a meeting with [Iain Collins](https://twitter.com/iaincollins) to discuss possible prototyping work on better interlinking written records with parliamentary A/V, hopefully looking at forced time alignment and speaker (voice box) recognition.
 
-[Tony](https://twitter.com/psychemedia) started work on [visualising the subject indexing data](https://twitter.com/psychemedia/status/895249165999120384) (provided by our colleagues in the Indexing and Data Management Section), looking at subject cooccurrence across parliamentary outputs. His [[working notes are here](https://github.com/psychemedia/parlihacks/blob/master/notebooks/Co-Occurring%20Tag%20Analysis.ipynb)].
+[Tony](https://twitter.com/psychemedia) started work on [visualising the subject indexing data](https://twitter.com/psychemedia/status/895249165999120384) (provided by our colleagues in the Indexing and Data Management Section), looking at subject cooccurrence across parliamentary outputs. His [working notes are here](https://github.com/psychemedia/parlihacks/blob/master/notebooks/Co-Occurring%20Tag%20Analysis.ipynb).
 
 
 
