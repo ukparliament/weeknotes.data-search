@@ -73,21 +73,21 @@ And the sad news that Ben's reached the end of his attachment and is off on holi
 
 Robert uncovered:
 
-[PyGraphistry is library to extract, transform, and visually explore big graphs
+* [PyGraphistry is library to extract, transform, and visually explore big graphs
 ](https://github.com/graphistry/pygraphistry/)
 
-[Peach family tree](https://twitter.com/tsukijiichiba/statuses/895564616398327808)
+* [Peach family tree](https://twitter.com/tsukijiichiba/statuses/895564616398327808)
 
-[Charity arcade machines for the Red Cross](https://twitter.com/mobcrush/statuses/897171365752705024)
+* [Charity arcade machines for the Red Cross](https://twitter.com/mobcrush/statuses/897171365752705024)
 
-[A blog post on the old chestnut, How buildings learn](http://www.gyford.com/phil/writing/2004/10/24/how_buildings_le.php)
+* [A blog post on the old chestnut, How buildings learn](http://www.gyford.com/phil/writing/2004/10/24/how_buildings_le.php)
 
 [Raphael](https://twitter.com/raphaelleung) found:
 
-[A handy AI and Machine Learning cheat sheet](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463)
+* [A handy AI and Machine Learning cheat sheet](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463)
 
-[An essay on data visualisation and histograms](https://tinlizzie.org/histograms/)
+* [An essay on data visualisation and histograms](https://tinlizzie.org/histograms/)
 
-[A D3 tag hierarchy visualisation tool](https://bl.ocks.org/lcyraphael/421f3f14854cb49a8fd199f9e326ecaa)
+* [A D3 tag hierarchy visualisation tool](https://bl.ocks.org/lcyraphael/421f3f14854cb49a8fd199f9e326ecaa)
 
-[An xdcd on statistics and data science](http://livefreeordichotomize.com/2016/12/15/hill-for-the-data-scientist-an-xkcd-story/)
+* [An xdcd on statistics and data science](http://livefreeordichotomize.com/2016/12/15/hill-for-the-data-scientist-an-xkcd-story/)
