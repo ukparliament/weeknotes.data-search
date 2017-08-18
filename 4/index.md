@@ -96,7 +96,7 @@ Raphael found:
 
 * [A D3 tag hierarchy visualisation tool](https://bl.ocks.org/lcyraphael/421f3f14854cb49a8fd199f9e326ecaa)
 
-* [An xdcd on statistics and data science](http://livefreeordichotomize.com/2016/12/15/hill-for-the-data-scientist-an-xkcd-story/)
+* [An xkcd story on statistics and data science](http://livefreeordichotomize.com/2016/12/15/hill-for-the-data-scientist-an-xkcd-story/)
 
 * [word2vec - an algorithm to transform words into vectors](http://p.migdal.pl/2017/01/06/king-man-woman-queen-why.html)
 
