@@ -2,7 +2,7 @@
 
 ### Community
 
-On Thursday we announced our 4th Parliament, data and democracy meetup, again at [Newspeak House](https://www.nwspk.com/). There'll be three speakers this time (four if you include our [Dan](twitter.com/dasbarrett)):
+On Thursday we announced our 4th Parliament, data and democracy meetup, again at [Newspeak House](https://www.nwspk.com/). There'll be three speakers this time (four if you include our [Dan](https://twitter.com/dasbarrett)):
 
 * [Anna Scott](https://twitter.com/Anna_D_Scott) from the [Open Data Institute](https://theodi.org/) on the impact of open data on democracies around the world.
 
@@ -16,9 +16,9 @@ If you're desperate enough to be reading this and anywhere in or around London y
 
 Tuesday was invite your friends to work day so [Michael](https://twitter.com/fantasticlife) invited [Nic Ferrier](https://twitter.com/nicferrier) to talk about (proper) agile, continuous delivery and testing (or not).
 
-Nic met with Robert in the [hotbed of activity](https://www.youtube.com/watch?v=QUYKSWQmkrg) that is the Millbank Canteen, then gave a talk to assorted developers and otherwise on how to do agile and continuous delivery with more emphasis on conversations and actually shipping software and less on the veneer of [ceremony](https://www.youtube.com/watch?v=H5UK40sSo8I).
+Nic met with Robert in the [hotbed of activity](https://www.youtube.com/watch?v=QUYKSWQmkrg) that is the Millbank Canteen, then gave a talk to assorted developers and otherwise on how to do agile and continuous delivery with more emphasis on conversations and actually shipping software, less on the veneer of [ceremony](https://www.youtube.com/watch?v=H5UK40sSo8I).
 
-Wednesday was Data Day which, given lots of people on holidays, was low on numbers but [high on suna and smiles](https://twitter.com/benwoodhams/status/897823501272309761). And generally [getting stuff done](https://twitter.com/benwoodhams/status/897825226586763264).
+Wednesday was Data Day which, given lots of people are on holiday, was low on numbers but [high on sun and smiles](https://twitter.com/benwoodhams/status/897823501272309761). And generally [getting stuff done](https://twitter.com/benwoodhams/status/897825226586763264).
 
 Matthieu and Liz spent some time tidying up our email distribution lists, shared email addresses, and SharePoint site. We are now data *and search*.
 
@@ -36,7 +36,7 @@ Ben also met with a Commons colleague to discuss their plans for building an [St
 
 [Chris](https://twitter.com/chrisalcockdev) integrated Northern Ireland postcode search into the Data Service. For now it's an an interim solution but Chris and [Aidan](https://twitter.com/aidan_morgan) are working on fixing things properly.
 
-[Jianhan](https://twitter.com/jianhanzhu) investigated accessing internal databases from the cloud data platform by setting up a database gateway and an on-premise data gateway on his machine to talk to local databases. The attempt was successful, and a logic app application was setup to read database record rows. He also tried to use a blueduck connection to access an Azure database on his machine, then connect that to Azure logic apps via the on-premise database gateway. This was also successful which proves that we can have a server with on-premise database gateway setup and connect to the cloud data platform.
+[Jianhan](https://twitter.com/jianhanzhu) investigated accessing internal databases from the cloud data platform by setting up a database gateway and an on-premise data gateway on his machine to talk to local databases. The attempt was successful, and a logic app application was set up to read database record rows. He also tried to use a blueduck connection to access an Azure database on his machine, then connect that to Azure logic apps via the on-premise database gateway. This was also successful which proves that we can have a server with on-premise database gateway setup and connect to the cloud data platform.
 
 Jianhan also continued to work with cleaning and filling gaps in Members Names Information Service (MNIS) committee data. We had had 24 unmatched current committees and we're now down to 17. We're still waiting for the Commons to get back with their mappings. 43 former committees are still unmatched and we need to work on this next.
 
@@ -54,7 +54,7 @@ Matthieu did the last round of tests on search before we switch to live.
 
 ### Measuring things
 
-Ben met with Liz took over show and tell to present on measuring civic value and how you might and whether you could.
+Ben and Liz took over show and tell to present on measuring civic value and how you might and whether you could.
 
 Matthieu worked on linking our dashboard software to our cloud insights data.
 
