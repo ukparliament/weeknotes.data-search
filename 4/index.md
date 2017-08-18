@@ -12,6 +12,8 @@ On Thursday we announced our 4th Parliament, data and democracy meetup, again at
 
 If you're desperate enough to be reading this and anywhere in or around London you can [sign up here](https://attending.io/events/parliament-data-and-democracy-meetup-4).
 
+[Raphael](https://twitter.com/raphaelleung) hosted a team of data analysts from the Department of Work and Pension Universal Credit data team on Tuesday. They also attended the show and tell. 
+
 ### Capability
 
 Tuesday was invite your friends to work day so [Michael](https://twitter.com/fantasticlife) invited [Nic Ferrier](https://twitter.com/nicferrier) to talk about (proper) agile, continuous delivery and testing (or not).
@@ -36,9 +38,13 @@ Ben also met with a Commons colleague to discuss their plans for building an [St
 
 [Chris](https://twitter.com/chrisalcockdev) integrated Northern Ireland postcode search into the Data Service. For now it's an an interim solution but Chris and [Aidan](https://twitter.com/aidan_morgan) are working on fixing things properly.
 
-[Jianhan](https://twitter.com/jianhanzhu) investigated accessing internal databases from the cloud data platform by setting up a database gateway and an on-premise data gateway on his machine to talk to local databases. The attempt was successful, and a logic app application was set up to read database record rows. He also tried to use a blueduck connection to access an Azure database on his machine, then connect that to Azure logic apps via the on-premise database gateway. This was also successful which proves that we can have a server with on-premise database gateway setup and connect to the cloud data platform.
+[Jianhan](https://twitter.com/jianhanzhu) investigated accessing internal databases from the cloud data platform by setting up a database gateway and an on-premise data gateway on his machine to talk to local databases. The attempt was successful, and a logic app application was set up to read database record rows.
 
 Jianhan also continued to work with cleaning and filling gaps in Members Names Information Service (MNIS) committee data. We had had 24 unmatched current committees and we're now down to 17. We're still waiting for the Commons to get back with their mappings. 43 former committees are still unmatched and we need to work on this next.
+
+Raphael met with [Liz Marley](https://twitter.com/greensideknits) from the Indexing and Data Management Section of the Commons Library to give an update on topic tagging project and the data toolkit.
+
+He also went to the [GDS](https://gds.blog.gov.uk/) data science accelerator on Thursday. The chat with Liz provided more context around the [current topic page term hierarchy](https://bl.ocks.org/lcyraphael/raw/421f3f14854cb49a8fd199f9e326ecaa/). He's now tweaked the approach to treat it as a multiclass classification problem.
 
 ### Search
 
@@ -82,7 +88,7 @@ Robert uncovered:
 
 * [A blog post on the old chestnut, How buildings learn](http://www.gyford.com/phil/writing/2004/10/24/how_buildings_le.php)
 
-[Raphael](https://twitter.com/raphaelleung) found:
+Raphael found:
 
 * [A handy AI and Machine Learning cheat sheet](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463)
 
@@ -91,3 +97,10 @@ Robert uncovered:
 * [A D3 tag hierarchy visualisation tool](https://bl.ocks.org/lcyraphael/421f3f14854cb49a8fd199f9e326ecaa)
 
 * [An xdcd on statistics and data science](http://livefreeordichotomize.com/2016/12/15/hill-for-the-data-scientist-an-xkcd-story/)
+
+* [word2vec: an algorithm that transforms words into vectors] (http://p.migdal.pl/2017/01/06/king-man-woman-queen-why.html
+
+
+
+
+
