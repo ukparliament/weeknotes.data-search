@@ -62,7 +62,7 @@ Sara added [data.parliament.uk](http://www.data.parliament.uk/) to the analytics
 
 Lewis completed the spreadsheet to XML pipeline allowing us to process spreadsheet data directly in the service bus. This is about to be used to process information from our service incident database allowing the performance analysts to get more information on cases.
 
-Project (and indeed programme) management office dashboards have been created allowing navigation from a general overview, to details on a programme to details on projects within a programme.
+Project (and indeed programme) management office dashboards have been created allowing navigation from a general overview, to details on a programme, to details on projects within a programme.
 
 Sara, Saffiyah and Matthieu had a good chat about the current dashboard software.
 
