@@ -17,7 +17,7 @@ There will be interesting talks, nice people and [free beer](https://www.howtoge
 
 ### Domain modelling
 
-[Anya](https://twitter.com/gansenthi) and [Michael](https://twitter.com/fantasticlife) went back to visit [Ganesh](https://twitter.com/gansenthi) at GDS. They chatted to a policy person about the flow of a policy from party manifesto through (possibly) to Parliament and (possibly) legislation. Came to the conclusion that what looks like a simple step flow on a diagram is probably some kind of insane Sankey diagram. So went to the pub.
+[Anya](https://twitter.com/bitten_) and [Michael](https://twitter.com/fantasticlife) went back to visit [Ganesh](https://twitter.com/gansenthi) at GDS. They chatted to a policy person about the flow of a policy from party manifesto through (possibly) to Parliament and (possibly) legislation. Came to the conclusion that what looks like a simple step flow on a diagram is probably some kind of insane [Sankey diagram](https://en.wikipedia.org/wiki/Sankey_diagram). So went to the pub.
 
 ### The URI is the thing
 
@@ -33,7 +33,7 @@ Michael spent time with [Colin](https://twitter.com/colinpattinson), Angela and 
 
 Mike had Alex, our new operations person, in and we talked to him about our work.
 
-[Jianhan](https://twitter.com/jianhanzhu) continued with experiments to pipe data from internal databases to our data store on the cloud. He set up a pipeline for House of Commons Library enquiry data. This allows for direct database access unlike most of our other data ingest processes that rely on the presence of an [OData API](http://www.odata.org/).
+[Jianhan](https://twitter.com/jianhanzhu) continued with experiments to pipe data from internal databases to our data store on the cloud. He set up a pipeline for House of Commons Library enquiry data. This allows for direct database access unlike most of our other data ingest processes that rely on the presence of an [OData API](http://www.odata.org/) [warning: clip art].
 
 Jianhan and Angela worked with colleagues from the House of Lords to further clean up committee data in the Members' Names Information Service (MNIS).
 
@@ -44,13 +44,13 @@ Raphael troubleshooted an issue with with the triple store workbench, the tool u
 
 ### Search
 
-Robert has an action-packed, if shightly short week. He met with [Dia]](https://twitter.com/DN78) and Rachel from the communications team to discuss comms for the search roll out. And again with Dia on updates to the search release timetable.
+Robert had an action-packed, if slightly short week. He met with [Dia](https://twitter.com/DN78) and Rachel from the communications team to discuss comms for the search roll out. And again with Dia on updates to the search release timetable.
 
-There was a good hour spent on planning the next search sprint and a meeting between Robert and Samu on future search development,
+There was a good hour spent on planning the next search sprint and a meeting between Robert and Samu on future search development.
 
 Robert worked with user research colleagues on search research questions.
 
- coordinated with the website team for the search move to live.
+Matthieu coordinated with the website team for the search move to live.
 
 
 
@@ -70,7 +70,7 @@ Sara, Saffiyah and Matthieu had a good chat about the current dashboard software
 
 ### Strolls
 
-Robert and Michael went for a long walking meeting round [Kew Gardens](https://www.kew.org/). Because they felt they deserved it. Much chat was had on data models and hypertext and search and browse and the making of websites. Being grumpy old men they agreed that everything was better in the old days when it was all more punk and before we got [cursed with professionalisation](https://www.youtube.com/watch?v=78S0yrMLfTU).
+Robert and Michael went for a long walking meeting round [Kew Gardens](https://www.kew.org/). Because they felt they deserved it. Much chat was had on data models and hypertext and search and browse and the making of websites. Being grumpy old men they agreed that everything was better in the old days when it was [all more punk](https://www.youtube.com/watch?v=78S0yrMLfTU) and before we got cursed with professionalisation.
 
 
 ### Things that caught our eye
@@ -81,7 +81,7 @@ Robert and Michael went for a long walking meeting round [Kew Gardens](https://w
 
 * [Some stuff on Microsoft's ventures into AI](https://www.pluralsight.com/blog/software-development/microsoft-ai-tools-2018?mkt_tok=eyJpIjoiTUdObE1EWXhZelZrTldKbSIsInQiOiJtMFwvV2dMYndnK3BpdVlTVjM0MnU3MWloQ3JqMEFvdm81TUpZbzNPTmVDZ09iR012Rlk5OCsraDF3MDl2REdrcGJRdURtWjhyd2JIQXg1NmJna3RGaGtOTVwvQ0N1aUlNYWQxRXJKOW1yUk8rSmszajAyeEFhbGpOMXRRM2lzQUZrIn0%3D&oid=&promo=&utm_campaign=nl-w-a-082317&utm_content=&utm_medium=email&utm_source=marketo&utm_term=&vid=7010a000002BeZdAAK). God, that's a terrible URL
 
-* [A new digital strategy for the National Archive](http://www.nationalarchives.gov.uk/about/our-role/plans-policies-performance-and-projects/our-plans/digital-strategy/)
+* [A new digital strategy for the National Archives](http://www.nationalarchives.gov.uk/about/our-role/plans-policies-performance-and-projects/our-plans/digital-strategy/)
 
 * [Some security guidance for obsolete platforms](https://www.ncsc.gov.uk/guidance/obsolete-platforms-security-guidance)
 
