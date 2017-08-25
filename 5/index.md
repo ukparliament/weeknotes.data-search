@@ -39,7 +39,7 @@ Jianhan and Angela worked with colleagues from the House of Lords to further cle
 
 And Jianhan and Michael had a chat about how we link up Select Committees to the Government departments they scrutinise. This was found to be hard.
 
-Raphael troubleshooted an issue with with the triple store workbench, the tool used by the website team to query the triple store.
+Raphael troubleshooted an issue with the triple store workbench, the tool used by the website team to query the triple store.
 
 
 ### Search
