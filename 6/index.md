@@ -40,7 +40,7 @@ Much was discussed including:
 
 All in all a good day. They did not seem to think we were idiots which, as a great man once said, is not nothing.
 
-[Dan](https://twitter.com/dasbarrett) and [Julie](https://twitter.com/julietouring) went to the National Archives to share experiences with Alec and Gwyn about change, setting up teams, ways of working, recruitment, development, and more. Their offices are really nice and did not have bed bugs. We were jealous.
+[Dan](https://twitter.com/dasbarrett) and [Julie](https://twitter.com/julietouring) went to the National Archives to share experiences with [Alec](https://twitter.com/alec_mulinder) and [Gwyn](https://twitter.com/gtvjones) about change, setting up teams, ways of working, recruitment, development, and more. Their offices are really nice and did not have bed bugs. We were jealous.
 
 Dan started his mission to attend the website team's [ceremonies](https://www.youtube.com/watch?v=H5UK40sSo8I) for the purpose of better communication.
 
