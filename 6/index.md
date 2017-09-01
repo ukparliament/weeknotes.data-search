@@ -48,6 +48,8 @@ In the joyous world of "long term financial planning" (no idea) Aidan started wo
 
 Aidan also met with Cybersecurity to finalise plans for penetration testing of the new data service.
 
+[Jianhan](https://twitter.com/jianhanzhu) wrote an evidence document and submitted it to the [Lords' Select Committee on Artificial Intelligence](http://www.parliament.uk/ai-committee) in response to their [call for evidence](http://www.parliament.uk/business/committees/committees-a-z/lords-select/ai-committee/publications/written-submission-form/).
+
 ### Domain modelling
 
 [Silver](https://twitter.com/silveroliver) and [Michael](https://twitter.com/fantasticlife) spent all day Tuesday turning select committee sketches into [Turtle](https://www.w3.org/TR/turtle/). [Anya](https://twitter.com/bitten_) popped in between meetings. The sprawling whiteboard sketches are now split into four more [fag packet sized models](http://smethur.st/posts/176135865): one for [people's affiliations with committees (members, chairs etc.)](https://ukparliament.github.io/ontologies/formal-body-affiliation/formal-body-affiliation-ontology.html), one for [the core business of select committees (inquiries and remit)](https://ukparliament.github.io/ontologies/formal-body/formal-body-ontology.html), one for [public submissions of evidence to committees](https://ukparliament.github.io/ontologies/submission/submission-ontology.html), and a more general purpose one for [events like visits, meetings, evidence sessions etc.](https://ukparliament.github.io/ontologies/submission/submission-ontology.html). They're still missing useful comments and probably don't make a lot of sense. This is a job for Anya and Michael next week.
