@@ -62,7 +62,7 @@ Liz wrote up some analysis for the user researchers based on a website survey of
 
 ### Corporate data
 
-[Matias](https://twitter.com/matiasgermanico) has been investigating how the Pass Office feed works to determine a "insert", "update" or "delete" in the hope of understanding how we can enhance the process.
+[Matias](https://twitter.com/matiasgermanico) has been investigating how the Pass Office feed determines an "insert", "update" or "delete", in the hope of understanding how we can enhance the process.
 
 He's also developed a new version of the Event Management System integration which moves invoices from events management into payment systems. The new version has more explicit error handling, allowing it to generate more useful error messages.
 
