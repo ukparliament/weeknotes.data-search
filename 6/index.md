@@ -60,6 +60,16 @@ At the end of the day [Colin](https://twitter.com/colinpattinson) came over to c
 
 Liz wrote up some analysis for the user researchers based on a website survey of the information people were looking for on members during dissolution and parliament.
 
+### Corporate data
+
+Matias has been investigating how the Pass Office feed works to determine a "insert", "update" or "delete" in the hope of understanding how we can enhance the process.
+
+He's also developed a new version of the Event Management System integration which moves invoices from events management into invoicing and payment systems. The new version has more explicit error handling allowing it to generate more useful error messages.
+
+David has been helping with extracting data from the building location database (what rooms there are and who's in them) before the system is retired.
+
+Noel has been analysing data on people records to determine if there are patterns to the issues we've spotted.
+
 ### Strolls
 
 There were no strolls this week :-(
