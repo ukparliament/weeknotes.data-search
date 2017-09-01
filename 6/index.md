@@ -48,7 +48,7 @@ In the joyous world of "long term financial planning" (no idea) Aidan started wo
 
 Aidan also met with Cybersecurity to finalise plans for penetration testing of the new data service.
 
-[Jianhan](https://twitter.com/jianhanzhu) wrote an evidence document and submitted it to the [Lords' Select Committee on Artificial Intelligence](http://www.parliament.uk/ai-committee) in response to their [call for evidence](http://www.parliament.uk/business/committees/committees-a-z/lords-select/ai-committee/publications/written-submission-form/).
+[Jianhan](https://twitter.com/jianhanzhu) wrote an evidence document and submitted it to the [Lords Select Committee on Artificial Intelligence](http://www.parliament.uk/ai-committee) in response to their [call for evidence](http://www.parliament.uk/business/committees/committees-a-z/lords-select/ai-committee/publications/written-submission-form/).
 
 ### Domain modelling
 
