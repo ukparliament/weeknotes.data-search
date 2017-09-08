@@ -59,7 +59,7 @@ Still no strolls this week :-(
 
 ### Things that caught our eye
 
-* ['Artificial intelligence, the next digital frontier?', discussion paper by McKinsey & Company (June 2017)](http://www.mckinsey.com/~/media/McKinsey/Industries/Advanced%20Electronics/Our%20Insights/How%20artificial%20intelligence%20can%20deliver%20real%20value%20to%20companies/MGI-Artificial-Intelligence-Discussion-paper.ashx)
+* ['Artificial intelligence, the next digital frontier?', discussion paper by McKinsey & Company (June 2017)](http://www.mckinsey.com/~/media/McKinsey/Industries/Advanced%20Electronics/Our%20Insights/How%20artificial%20intelligence%20can%20deliver%20real%20value%20to%20companies/MGI-Artificial-Intelligence-Discussion-paper.ashx) [PDF]
 
 
 
