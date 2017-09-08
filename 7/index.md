@@ -18,7 +18,7 @@ Robert and [Michael](https://twitter.com/fantasticlife) continued to chummer abo
 
 ### Capability
 
-We were joined by [Andy Mabbett](https://twitter.com/pigsonthewing) ([pigsonthewing](https://www.wikidata.org/wiki/User:Pigsonthewing/2017-09))on Tuesday and Wednesday for a workshop on the fundamentals of [Wikidata](https://www.wikidata.org) and [SPARQL](https://en.wikipedia.org/wiki/SPARQL). Assorted people from the Digital Service data and website teams and folks from the House of Commons Library came along.
+We were joined by [Andy Mabbett](https://twitter.com/pigsonthewing) ([pigsonthewing](https://www.wikidata.org/wiki/User:Pigsonthewing/2017-09)) on Tuesday and Wednesday for a workshop on the fundamentals of [Wikidata](https://www.wikidata.org) and [SPARQL](https://en.wikipedia.org/wiki/SPARQL). Assorted people from the Digital Service data and website teams and folks from the House of Commons Library came along.
 
 [Samu](https://twitter.com/langsamu) prepared those new to SPARQL by holding a [one hour introduction](https://twitter.com/langsamu/status/905163842589773824) on Monday.
 
@@ -28,11 +28,13 @@ On Tuesday [Dan](https://twitter.com/dasbarrett) brought his children into the o
 
 [Anya](https://twitter.com/bitten_), [Silver](https://twitter.com/silveroliver) and Michael spent Wednesday morning preparing slides for their [Euro IA](http://euroia.org/) talk on [Domain Driven Design in Parliament](http://euroia.org/sessions/domain-driven-design-at-uk-parliament). [Mike Atherton](https://twitter.com/mikeatherton) joined them in the afternoon to talk about the book he's writing on similar matters and give feedback on the presentation. Consensus was reached that part of the presentation sounded nutbag. They decided to change the presentation.
 
+Anya and Michael paid a visit to the Commons Journal Office to see how government departments, roles and positions are managed. It was... informative.
+
 ### Data platform
 
 [Jianhan](https://twitter.com/jianhanzhu) worked with Wojciech to set up a gateway for accessing on premise databases. The gateway provides a generic HTTP endpoint accepting parameters including table names, column names, and filters etc.
 
-He also had a chat with the Edwards [White](https://twitter.com/ewhitur) and McCarthy about getting committee inquiry data into new data platform. Current data is scattered across a variety of internal systems and the website CMS. As it currently stands, it seems hard to getting inquiry data into data platform.
+He also had a chat with the Edwards [White](https://twitter.com/ewhitur) and McCarthy about getting committee inquiry data into new data platform. Current data is scattered across a variety of internal systems and the website CMS. As it currently stands, it seems hard to get inquiry data into data platform.
 
 ### Measuring things
 
