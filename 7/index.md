@@ -40,6 +40,8 @@ Anya and Michael paid a visit to the Commons Journal Office to see how governmen
 
 He also had a chat with the Edwards [White](https://twitter.com/ewhitur) and McCarthy about getting committee inquiry data into new data platform. Current data is scattered across a variety of internal systems and the website CMS. As it currently stands, it seems hard to get inquiry data into data platform.
 
+Matthieu continued work on security accreditation.
+
 ### Measuring things
 
 [Matias](https://twitter.com/matiasgermanico) created a dashboard connection for the House of Commons Library's Enquiry database. This will be used by Liz, Sara and Saffiyah to produce better reports.
