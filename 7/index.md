@@ -18,18 +18,23 @@ Robert and [Dia](https://twitter.com/DN78) presented the new search at the websi
 
 We were joined by [Andy Mabbett](https://twitter.com/pigsonthewing) ([pigsonthewing](https://www.wikidata.org/wiki/User:Pigsonthewing/2017-09))on Tuesday and Wednesday for a workshop on the fundamentals of [Wikidata](https://www.wikidata.org) and [SPARQL](https://en.wikipedia.org/wiki/SPARQL). Assorted people from the Digital Service data and website teams and folks from the House of Commons Library came along.
 
-[Samu](https://twitter.com/langsamu) prepared those new to SPARQL by holding a [one hour introduction to the query language](https://twitter.com/langsamu/status/905163842589773824) on Monday.
+[Samu](https://twitter.com/langsamu) prepared those new to SPARQL by holding a [one hour introduction](https://twitter.com/langsamu/status/905163842589773824) on Monday.
 
 On Tuesday [Dan](https://twitter.com/dasbarrett) brought his children into the office to say hello. He also brought a pie. Which he had made.
 
 ### Domain modelling
 
-[Anya](https://twitter/bitten_), [Silver](https://twitter/silveroliver) and [Micheal](https://twitter/fantasticlife) spent Wednesday morning preparing slides for their [Euro IA](http://euroia.org/) talk on [Domain Driven Design in Parliament](http://euroia.org/sessions/domain-driven-design-at-uk-parliament). [Mike Atherton](https://twitter.com/mikeatherton) joined them in the afternoon to talk about the book he's writing on similar matters and give feedback on the presentation. Consensus was reached that part of the presentation sounded nutbag. They decided to change the presentation.
+[Anya](https://twitter.com/bitten_), [Silver](https://twitter.com/silveroliver) and [Michael](https://twitter.com/fantasticlife) spent Wednesday morning preparing slides for their [Euro IA](http://euroia.org/) talk on [Domain Driven Design in Parliament](http://euroia.org/sessions/domain-driven-design-at-uk-parliament). [Mike Atherton](https://twitter.com/mikeatherton) joined them in the afternoon to talk about the book he's writing on similar matters and give feedback on the presentation. Consensus was reached that part of the presentation sounded nutbag. They decided to change the presentation.
 
+### Data platform
+
+[Jianhan](https://twitter.com/jianhanzhu) worked with Wojciech to set up a gateway for accessing on premise databases. The gateway provides a generic HTTP endpoint accepting parameters including table names, column names, and filters etc.
+
+He also had a chat with the Edwards [White](https://twitter.com/ewhitur) and McCarthy about getting committee inquiry data into new data platform. Current data is scattered across a variety of internal systems and the website CMS. As it currently stands, it seems hard to getting inquiry data into data platform.
 
 ### Measuring things
 
-Matias created a dashboard connection for the House of Commons Library's Enquiry database. This will be used by Liz, Sara and Saffiyah to produce better reports.
+[Matias](https://twitter.com/matiasgermanico) created a dashboard connection for the House of Commons Library's Enquiry database. This will be used by Liz, Sara and Saffiyah to produce better reports.
 
 ### Corporate data
 
