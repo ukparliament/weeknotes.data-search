@@ -14,6 +14,8 @@ Matthieu worked with Usman and James from the website team to gently performance
 
 Robert and [Dia](https://twitter.com/DN78) presented the new search at the website show and tell. A feedback mechanism and tracking were set up. Dia orchestrated the internal and external communications including a [blog post which is free to read here](https://pds.blog.parliament.uk/2017/09/06/launching-the-new-search-service-on-parliament-uk/).
 
+Robert and [Michael](https://twitter.com/fantasticlife) continued to chummer about the misunderstanding that you fix search by fixing search. It's the web. You fix search by fixing browse. They feel there is a blog post here.
+
 ### Capability
 
 We were joined by [Andy Mabbett](https://twitter.com/pigsonthewing) ([pigsonthewing](https://www.wikidata.org/wiki/User:Pigsonthewing/2017-09))on Tuesday and Wednesday for a workshop on the fundamentals of [Wikidata](https://www.wikidata.org) and [SPARQL](https://en.wikipedia.org/wiki/SPARQL). Assorted people from the Digital Service data and website teams and folks from the House of Commons Library came along.
@@ -24,7 +26,7 @@ On Tuesday [Dan](https://twitter.com/dasbarrett) brought his children into the o
 
 ### Domain modelling
 
-[Anya](https://twitter.com/bitten_), [Silver](https://twitter.com/silveroliver) and [Michael](https://twitter.com/fantasticlife) spent Wednesday morning preparing slides for their [Euro IA](http://euroia.org/) talk on [Domain Driven Design in Parliament](http://euroia.org/sessions/domain-driven-design-at-uk-parliament). [Mike Atherton](https://twitter.com/mikeatherton) joined them in the afternoon to talk about the book he's writing on similar matters and give feedback on the presentation. Consensus was reached that part of the presentation sounded nutbag. They decided to change the presentation.
+[Anya](https://twitter.com/bitten_), [Silver](https://twitter.com/silveroliver) and Michael spent Wednesday morning preparing slides for their [Euro IA](http://euroia.org/) talk on [Domain Driven Design in Parliament](http://euroia.org/sessions/domain-driven-design-at-uk-parliament). [Mike Atherton](https://twitter.com/mikeatherton) joined them in the afternoon to talk about the book he's writing on similar matters and give feedback on the presentation. Consensus was reached that part of the presentation sounded nutbag. They decided to change the presentation.
 
 ### Data platform
 
@@ -36,6 +38,8 @@ He also had a chat with the Edwards [White](https://twitter.com/ewhitur) and McC
 
 [Matias](https://twitter.com/matiasgermanico) created a dashboard connection for the House of Commons Library's Enquiry database. This will be used by Liz, Sara and Saffiyah to produce better reports.
 
+Sara spent some time setting up queries on usage data of the website to attempt to identify user types.
+
 ### Corporate data
 
 Matias deployed an update to the events management system to improve the handling of issues.
@@ -44,8 +48,6 @@ Matias deployed an update to the events management system to improve the handlin
 ### Strolls
 
 Still no strolls this week :-(
-
-### Things that caught our eye
 
 
 
