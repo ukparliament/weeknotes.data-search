@@ -44,7 +44,7 @@ Anya and Michael paid a visit to the Commons Journal Office to see how governmen
 
 [Jianhan](https://twitter.com/jianhanzhu) worked with Wojciech to set up a gateway for accessing on premise databases. The gateway provides a generic HTTP endpoint accepting parameters including table names, column names, and filters etc.
 
-He also had a chat with the Edwards [White](https://twitter.com/ewhitur) and McCarthy about getting committee inquiry data into new data platform. Current data is scattered across a variety of internal systems and the website CMS. As it currently stands, it seems hard to get inquiry data into data platform.
+He also had a chat with the Edwards [White](https://twitter.com/ewhitur) and McCarthy about getting committee inquiry data into new data platform. Current data is scattered across a variety of internal systems and the website CMS. As it currently stands, it seems hard to get inquiry data into the data platform.
 
 Matthieu continued work on security accreditation.
 
