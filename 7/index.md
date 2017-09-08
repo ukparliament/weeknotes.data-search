@@ -28,7 +28,7 @@ On Tuesday [Dan](https://twitter.com/dasbarrett) brought his children into the o
 
 Robert met with [Julie](https://twitter.com/julietouring) on the future work of the Capability team.
 
-Dan sat in on some website team agile ceremonies, including committees retrospective and planning.
+Dan sat in on some website team agile [ceremonies](https://www.youtube.com/watch?v=LaiOgToofBo), including committees retrospective and planning.
 
 ### Community
 
