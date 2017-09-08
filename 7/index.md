@@ -28,6 +28,12 @@ On Tuesday [Dan](https://twitter.com/dasbarrett) brought his children into the o
 
 Robert met with [Julie](https://twitter.com/julietouring) on the future work of the Capability team.
 
+Dan sat in on some website team agile ceremonies, including committees retrospective and planning.
+
+### Community
+
+Dan met a delegation from Uganda and Namibia to talk about Hansard systems and the indexing thereof.
+
 ### Domain modelling
 
 [Anya](https://twitter.com/bitten_), [Silver](https://twitter.com/silveroliver) and Michael spent Wednesday morning preparing slides for their [Euro IA](http://euroia.org/) talk on [Domain Driven Design in Parliament](http://euroia.org/sessions/domain-driven-design-at-uk-parliament). [Mike Atherton](https://twitter.com/mikeatherton) joined them in the afternoon to talk about the book he's writing on similar matters and give feedback on the presentation. Consensus was reached that part of the presentation sounded nutbag. They decided to change the presentation.
