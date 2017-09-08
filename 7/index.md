@@ -14,15 +14,19 @@ Matthieu worked with Usman and James from the website team to gently performance
 
 Robert and [Dia](https://twitter.com/DN78) presented the new search at the website show and tell. A feedback mechanism and tracking were set up. Dia orchestrated the internal and external communications including a [blog post which is free to read here](https://pds.blog.parliament.uk/2017/09/06/launching-the-new-search-service-on-parliament-uk/).
 
+Robert met with [Samu](https://twitter.com/langsamu) on search API development and had more meetings on Friday including planning research and next sprint.
+
 Robert and [Michael](https://twitter.com/fantasticlife) continued to chummer about the misunderstanding that you fix search by fixing search. It's the web. You fix search by fixing browse. They feel there is a blog post here.
 
 ### Capability
 
 We were joined by [Andy Mabbett](https://twitter.com/pigsonthewing) ([pigsonthewing](https://www.wikidata.org/wiki/User:Pigsonthewing/2017-09)) on Tuesday and Wednesday for a workshop on the fundamentals of [Wikidata](https://www.wikidata.org) and [SPARQL](https://en.wikipedia.org/wiki/SPARQL). Assorted people from the Digital Service data and website teams and folks from the House of Commons Library came along.
 
-[Samu](https://twitter.com/langsamu) prepared those new to SPARQL by holding a [one hour introduction](https://twitter.com/langsamu/status/905163842589773824) on Monday.
+Samu prepared those new to SPARQL by holding a [one hour introduction](https://twitter.com/langsamu/status/905163842589773824) on Monday.
 
 On Tuesday [Dan](https://twitter.com/dasbarrett) brought his children into the office to say hello. He also brought a pie. Which he had made.
+
+Robert met with [Julie](https://twitter.com/julietouring) on the future work of the Capability team.
 
 ### Domain modelling
 
@@ -53,3 +57,5 @@ Still no strolls this week :-(
 
 
 
+
+  
