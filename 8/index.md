@@ -94,7 +94,7 @@ Liz started a search feedback and measures log to help inform decisions about fu
 
 ### Excellent customer service awards
 
-Mike compiled a CSV of data back to 2000 to help a PhD student from the [Federal University of Minas Gerais](https://en.wikipedia.org/wiki/Federal_University_of_Minas_Gerais) in Brazil with their thesis on gender equality representation in the British House of Commons.
+Mike compiled a CSV of data back to 2000 to help a PhD student from the [Federal University of Minas Gerais](https://en.wikipedia.org/wiki/Federal_University_of_Minas_Gerais) in Brazil with their thesis on gender equality representation in the House of Commons.
 
 ### Capability
 
