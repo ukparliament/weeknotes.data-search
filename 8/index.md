@@ -6,9 +6,9 @@ Last night was our [4th Parliament, data and democracy meetup](https://attending
 
 * [Our Dan](https://twitter.com/dasbarrett) on where [we're at with Data and Search](https://docs.google.com/presentation/d/1BA3APE7JjZ-jusuZjO_UMb6CwI5JI1cUnBctfIQK8TE/edit). And how bloody difficult everything is.
 
-* [Anna Scott](https://twitter.com/Anna_D_Scott) from the [ODI](https://theodi.org/) on [open data for democracy](https://docs.google.com/presentation/d/1zq_HuYESyLkiHYEfEdKUfiiKPQj1OFK8TFMVh8_bP7A/edit#slide=id.g2623662c47_0_57)
+* [Anna Scott](https://twitter.com/Anna_D_Scott) from the [ODI](https://theodi.org/) on [open data for democracy](https://docs.google.com/presentation/d/1zq_HuYESyLkiHYEfEdKUfiiKPQj1OFK8TFMVh8_bP7A/edit#slide=id.g2623662c47_0_57).
 
-* [Rachel Coldicutt](https://twitter.com/rachelcoldicutt) from [doteveryone](https://doteveryone.org.uk/) on [building a better internet and better technology culture](https://docs.google.com/presentation/d/1DUDG7cwGxyYTWQz8tSDuXYRP-WIVIeM3nukDtA1WXqQ/edit#slide=id.g262a9c6907_0_1452)
+* [Rachel Coldicutt](https://twitter.com/rachelcoldicutt) from [doteveryone](https://doteveryone.org.uk/) on [building a better internet and better technology culture](https://docs.google.com/presentation/d/1DUDG7cwGxyYTWQz8tSDuXYRP-WIVIeM3nukDtA1WXqQ/edit#slide=id.g262a9c6907_0_1452).
 
 * [Our Samu](https://twitter.com/langsamu) on the [new Parliament data platform](https://www.slideshare.net/UKParliData/a-new-data-platform-for-parliament-79810322/).
 
@@ -22,29 +22,27 @@ All told data day was a "punishing hell ride". Dan had a bit of a reversion and 
 
 On the plus side things were agreed:
 
-* we'll work with Ben to come up with a proposal for "Lords inflation" (don't ask)
+* we'll work with [Ben](https://twitter.com/benwoodhams) to come up with a proposal for "Lords inflation" (don't ask).
 
-* Anya and Michael will pick up the government departments, positions and incumbencies domain modelling in preparation for that being needed on member pages
+* [Anya](https://twitter.com/bitten_) and [Michael](https://twitter.com/fantasticlife) will pick up the government departments, positions and incumbencies domain modelling in preparation for that being needed on member pages.
 
 * we need a new approach for delivering links to MPs websites. A ridiculously simple feature made almost impossible by the brittleness of downstream systems. New work should include social media links.
 
-* we'll do any ongoing fixes / take downs for the new members' photos
-
-* [Aidan](https://twitter.com/aidan_morgan) will arrange a meeting with the Ordnance Survey to discuss long-standing issues with region, constituency and postcode data
+* [Aidan](https://twitter.com/aidan_morgan) will arrange a meeting with the Ordnance Survey to discuss long-standing issues with region, constituency and postcode data.
  
-* we'll work with the members website team to break down the stories for showing votes on member pages
+* we'll work with the members website team to break down the stories for showing votes on member pages.
 
-* we'll work with the committees website team to collaboratively design new data sources for information missing from existing systems
+* we'll work with the committees website team to collaboratively design new data sources for information missing from existing systems.
 
-* we'll prepare for committing to stable identifiers very, very soon
+* we'll prepare for committing to stable identifiers very, very soon.
 
-* we'll investigate the impact of removing upper case letters and vowels (to avoid [inadvertent swears](http://www.bbc.co.uk/programmes/b0110ck3)) would have on the length of identifiers. [Jianhan](https://twitter.com/jianhanzhu) is about to do maths
+* we'll investigate the impact of removing upper case letters and vowels (to avoid [inadvertent swears](http://www.bbc.co.uk/programmes/b0110ck3)) would have on the length of identifiers. [Jianhan](https://twitter.com/jianhanzhu) is about to do maths.
 
 ### Parliament in the area, we're international, we're continental
 
-Dan presented to a delegation from the [Lok Sabha](http://loksabha.nic.in/) (the lower house of India's bicameral Parliament). Mainly around data and search but also technology in general, and publications, and archives, and broadcasting. One of the delegates said Dan had "...a scholarly look, like Karl Marx" . This pleased Dan enourmously.
+Dan presented to a delegation from the [Lok Sabha](http://loksabha.nic.in/) (the lower house of India's bicameral Parliament). Mainly around data and search but also technology in general, and publications, and archives, and broadcasting. One of the delegates said Dan had "...a scholarly look, like Karl Marx" . This pleased Dan enormously.
 
-[Anya](https://twitter.com/bitten_) and [Michael](https://twitter.com/fantasticlife) met with [Rose Rees Jones](https://twitter.com/rosebotanic) who's doing a piece of work for the ODI around the challenges of adopting and proposing data standards. They grumbled a bit but it was very useful.
+Anya and Michael met with [Rose Rees Jones](https://twitter.com/rosebotanic) who's doing a piece of work for the ODI around the challenges of adopting and proposing data standards. They grumbled a bit but it was very useful.
 
 
 ### Domain modelling
@@ -60,7 +58,7 @@ He also went along with the website team who did a show and tell to House of Com
 
 Angela and [Raphael](https://twitter.com/raphaelleung) met with Jacqui Cooksey from the House of Commons to go through the current state of select committee data in the Members Names Information Service. They discussed possible solutions to tidying and ingesting the data. They also discussed data ownership and update frequencies for committee data currently only found in the website CMS.
 
-Samu, [Ben](https://twitter.com/langsamu) and Michael met to discuss an approach to "Lords inflation". This is both too difficult and too tedious to explain but there is a plan and it will establish a more firm footing for House of Lords member data.
+Samu, Ben and Michael met to discuss an approach to "Lords inflation". This is both too difficult and too tedious to explain but there is a plan and it will establish a more firm footing for House of Lords member data.
 
 Samu worked with Angela and [Ed](https://twitter.com/ewhitur) from the website team. He designed a database and data entry form for recording committee data. This will be further developed and maintained by Angela, and will be used to record data that's not available in existing committee systems.
 
