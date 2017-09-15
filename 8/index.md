@@ -108,17 +108,17 @@ Julie and Mike attended a DevOps Journey presentation by the British Medical Jou
 
 The general consensus was that:
 
-* There's a need to redesign the People Data service
+* There's a need to redesign the People Data service.
 
-* Current processes and workflows have to be reviewed
+* Current processes and workflows have to be reviewed.
 
-* Business teams need to understand that the data they produce has an impact on other parts of the organisation
+* Business teams need to understand that the data they produce has an impact on other parts of the organisation.
 
-* Data on source systems has to be consistent
+* Data on source systems has to be consistent.
 
-* A single identifier should be used wherever possible
+* A single identifier should be used wherever possible.
 
-* A new standard data model of a person should be created
+* A new standard data model of a person should be created.
 
 
 ### Strolls
