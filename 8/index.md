@@ -36,7 +36,7 @@ On the plus side things were agreed:
 
 * we'll prepare for committing to stable identifiers very, very soon.
 
-* we'll investigate the impact of removing upper case letters and vowels (to avoid [inadvertent swears](http://www.bbc.co.uk/programmes/b0110ck3)) would have on the length of identifiers. [Jianhan](https://twitter.com/jianhanzhu) is about to do maths.
+* we'll investigate the impact that removing upper case letters and vowels (to avoid [inadvertent swears](http://www.bbc.co.uk/programmes/b0110ck3)) would have on the length of identifiers. [Jianhan](https://twitter.com/jianhanzhu) is about to do maths.
 
 ### Parliament in the area, we're international, we're continental
 
