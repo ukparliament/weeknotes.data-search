@@ -137,7 +137,7 @@ No other strolls were reported.
 
 * [Calculating the average face of a UK Member of Parliament](https://medium.com/@puntofisso/i-calculated-the-average-face-of-a-uk-member-of-parliament-and-heres-what-i-found-37f31b72b5d9)
 
-* Catalogues and Context (a talk from Karen Coyle)[https://kcoyle.net/catcon.html]
+* [Catalogues and Context (a talk from Karen Coyle)](https://kcoyle.net/catcon.html)
 
 * [The Difference Between AI, Machine Learning, and Deep Learning?](https://blogs.nvidia.com/blog/2016/07/29/whats-difference-artificial-intelligence-machine-learning-deep-learning-ai/)
 
