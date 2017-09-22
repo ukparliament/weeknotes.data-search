@@ -12,7 +12,7 @@ But the conversation quickly split into two chunks:
 
 * that it's neither possible nor desirable to make all legislation legible to machines (given interpretation and case law and common law and the preference for being judged by humans please) *but* some basic regulations could probably be captured. Questions like, I would like to sell this type of thing, would I have to pay VAT? Also provenance between official regulations (like traffic speeds) and consumer end points (like sat navs) and what fuzziness exists in current gaps. Rachel's looking for the simplest thing in order to kick off some proof of concept work.
 
-* that if all legislation can't and shouldn't be made machine readable, it should at least be made more legible to citizens. And indeed lawyers. At the moment you can be looking at one piece of legislation that's been revised by a second piece of legislation and possibly a third and etc and have no idea what changes have been made without also reading all the revising legislation. Talk turned to hypertext and [transclusion](https://en.wikipedia.org/wiki/Transclusion) as is our wont and the idea of revisions being included in revised documents via hypertext transclusion. Rachel mentioned that New Zealand has an Act that functions almost as a glossary of terms; when any piece of legislation say X it means this. The UK does not have such a thing. We also chatted about [registers](https://gds.blog.gov.uk/2015/09/01/registers-authoritative-lists-you-can-trust/) as a kind of definition file that could be linked to and transcluded into legislation.
+* that if all legislation can't and shouldn't be made machine readable, it should at least be made more legible to citizens. And indeed lawyers. At the moment you can be looking at one piece of legislation that's been revised by a second piece of legislation and possibly a third and etc and have no idea what changes have been made without also reading all the revising legislation. Talk turned to hypertext and [transclusion](https://en.wikipedia.org/wiki/Transclusion) as is our wont and the idea of revisions being included in revised documents via hypertext transclusion. Rachel mentioned that New Zealand has an Act that functions almost as a glossary of terms; when any piece of legislation says X it means this. The UK does not have such a thing. We also chatted about [registers](https://gds.blog.gov.uk/2015/09/01/registers-authoritative-lists-you-can-trust/) as a kind of definition file that could be linked to and transcluded into legislation.
 
 It was probably the most interesting meeting of the week and we came up with a list of other people who would probably have good reckons: [Richard Pope](https://twitter.com/richardjpope), [Paul Downey](https://twitter.com/psd), [Libby Miller](https://twitter.com/libbymiller), [Jeni Tennison](https://twitter.com/jenit) and [Rachel Coldicutt](https://twitter.com/rachelcoldicutt).
 
@@ -22,7 +22,7 @@ On a similar theme, Robert spoke with the new Journal Office clerk on how we mig
 
 Dan continued to attend assorted agile [ceremonies](https://www.youtube.com/watch?v=Ss1MbL4NYf0) across the department. The main one this week was the technical difficulty vs value to users session led by [Colin](https://twitter.com/colinpattinson). Collective thinking is definitely developing but we still need to do some work to make sure 'work to be done' is aligned with the high level user needs that have been identified.
 
-Dan also went to [Emma](http://twitter.com/_allenemma)'s website road map delivery meeting. The main decision was to open up [the new website](https://beta.parliament.uk/) to [search bots](http://www.robotstxt.org/robotstxt.html) and the corresponding need to commit to stable ids in 'weeks' (said [Jamie](https://twitter.com/oddtype)). Dan is going to set up a meeting to explain why we can't really filter search our current web content.
+Dan also went to [Emma](http://twitter.com/_allenemma)'s website road map delivery meeting. The main decision was to open up [the new website](https://beta.parliament.uk/) to [search bots](http://www.robotstxt.org/robotstxt.html) and the corresponding need to commit to stable IDs in 'weeks' (said [Jamie](https://twitter.com/oddtype)). Dan is going to set up a meeting to explain why we can't really filter search our current web content.
 
 ### Domain modelling
 
@@ -55,7 +55,7 @@ There was a preliminary meeting with people from the Ordnance Survey on Thursday
 
 ### Data platform
 
-Samu implemented content encoding in the API that sits behind the new website. Data travelling from the data service to [the new website](https://beta.parliament.uk/) (and other public consumers) is now compressed, resulting in faster queries and an improved user experience.
+Samu implemented content encoding in the API that sits behind the new website. Data travelling from the data service to the new website (and other public consumers) is now compressed, resulting in faster queries and an improved user experience.
 
 Chris set up a local instance of [Webvowl](http://vowl.visualdataweb.org/webvowl.html) for use when the main site is down (which it frequently is).
 
