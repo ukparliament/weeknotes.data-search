@@ -16,7 +16,7 @@ But the conversation quickly split into two chunks:
 
 It was probably the most interesting meeting of the week and we came up with a list of other people who would probably have good reckons: [Richard Pope](https://twitter.com/richardjpope), [Paul Downey](https://twitter.com/psd), [Libby Miller](https://twitter.com/libbymiller), [Jeni Tennison](https://twitter.com/jenit) and [Rachel Coldicutt](https://twitter.com/rachelcoldicutt).
 
-On a similar theme, Robert spoke with the a clerk in the Journal Office about how we might move from document-first to information-first publishing.
+On a similar theme, Robert spoke with a clerk in the Journal Office about how we might move from document-first to information-first publishing.
 
 ### One world, one web, one team
 
