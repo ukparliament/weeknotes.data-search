@@ -4,8 +4,6 @@
 
 [Dan](https://twitter.com/dasbarrett) met with [Rob](https://twitter.com/fryford), [Henry](https://twitter.com/henryjameslau) and [Frank](https://twitter.com/frankman1000) from the [ONS](https://www.ons.gov.uk/) data visualisation team thanks to an invite from [Oli](https://twitter.com/olihawkins). All great stuff.
 
-There was a preliminary meeting with people from the Ordnance Survey on Thursday morning to talk through some of the problems we've been having around location data. Mainly the absence of Northern Ireland postcode data, some missing links between [NUTS regions](https://en.wikipedia.org/wiki/NUTS_statistical_regions_of_the_United_Kingdom) and constituencies, and [postcodes that span multiple constituencies](https://democracyclub.org.uk/blog/2017/03/20/4314-times-when-postcodes-arent-good-enough/).
-
 ### Parliament in the area, we're international, we're continental. But we're still south of Glasgow
 
 Dan, Robert, [Graham](https://twitter.com/grahampeek) and [Michael](https://twitter.com/fantasticlife) met with [Rachel Prosser](https://twitter.com/rachelprosser) from the New Zealand department for internal affairs to talk about "machine readable legislation". There was vague trepidation that this might turn into some kind of Skynet thing with legislation poking out, [AR](https://en.wikipedia.org/wiki/Augmented_reality) style into the world. Like a Matrix but powered by nannies.
@@ -53,12 +51,13 @@ Anya, Silver and Michael also spent some time tidying our slides for the [Euro I
 
 ### Data quality
 
+There was a preliminary meeting with people from the Ordnance Survey on Thursday morning to talk through some of the problems we've been having around location data. Mainly the absence of Northern Ireland postcode data, some missing links between [NUTS regions](https://en.wikipedia.org/wiki/NUTS_statistical_regions_of_the_United_Kingdom) and constituencies, and [postcodes that span multiple constituencies](https://democracyclub.org.uk/blog/2017/03/20/4314-times-when-postcodes-arent-good-enough/).
 
 ### Data platform
 
 Samu implemented content encoding in the API that sits behind the new website. Data travelling from the data service to [the new website](https://beta.parliament.uk/) (and other public consumers) is now compressed, resulting in faster queries and an improved user experience.
 
-Chris set up a local instance of [Webvowl](http://vowl.visualdataweb.org/webvowl.html) for use when theirs is down (which it frequently is).
+Chris set up a local instance of [Webvowl](http://vowl.visualdataweb.org/webvowl.html) for use when the main site is down (which it frequently is).
 
 [Jianhan](https://twitter.com/jianhanzhu) gave a presentation of his work on accessing on-premise databases from the data platform. He also created a spreadsheet of external website links for members and populated it with data from the web team. This will be ingested by the data platform and served to the new website (and beyond).
 
@@ -72,8 +71,7 @@ Robert is due to meet folks from the House of Commons Library to discuss their r
 
 ### Machines that do learning
 
-Raphael (and a bit of Ben) went along to [THINK AI for the Public Sector](http://www.thinkdigitalpartners.com/event/think-ai-publicsector/). Michael poured some scorn.
-
+[Raphael](https://twitter.com/raphaelleung) (and a bit of [Ben](http://twitter.com/benwoodhams)) went along to [THINK AI for the Public Sector](http://www.thinkdigitalpartners.com/event/think-ai-publicsector/). Michael poured some scorn.
 
 ### Measuring things
 
@@ -81,7 +79,7 @@ Liz showed a first draft workload report to one of the heads of section in the H
 
 Sara published a report on Search API performance. She also met with Lopa to discuss performance analytics and to make sure the data and search team can access beta and current website datasets.
 
-Tags have now been added to the website to track specific events (for example people choosing to revert to the old search). With these in place we can now follow every individual user journeys.
+Tags have now been added to the website to track specific events (for example people choosing to revert to the old search). With these in place we can now follow individual user journeys.
 
 ### Excellent customer service awards
 
