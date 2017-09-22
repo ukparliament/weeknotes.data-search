@@ -87,8 +87,7 @@ After spending a part of last week helping a political science PhD student from 
 
 Robert went along to [Julie](https://twitter.com/julietouring)’s capability reboot session which was much easier to understand than the search analysis. Especially thanks to the new improved Trello setup.
 
-He also attended an Inclusive Recruitment Masterclass all day on Wednesday. A man pretended to have one arm, in order to challenge his perceptions. 
-
+He also attended an Inclusive Recruitment Masterclass all day on Wednesday.
 
 ### Corporate data
 
