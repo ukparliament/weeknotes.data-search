@@ -109,3 +109,5 @@ No strolls were reported. Stroll harder. Stroll smarter. Be cold, if not bold.
 * [The Open Data Institute on why we need the Data Ethics Canvas](https://theodi.org/blog/why-we-need-the-data-ethics-canvas)
 
 * [Knowledge and the Shock of Hypermedia: Thoughts From ISKO UK 2017](https://16blue.me/2017/09/18/knowledge-and-the-shock-of-hypermedia-thoughts-from-isko-uk-2017/)
+
+* [That tweets may have enough indication of your mental health conditions isn't scary at all](https://www.aclweb.org/anthology/E/E17/E17-1015.pdf) [PDF]
