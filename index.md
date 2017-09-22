@@ -1,5 +1,6 @@
 ## UK Parliament data and search weeknotes
 
+* [Week 9: 22-09-2017](9)
 * [Week 8: 15-09-2017](8)
 * [Week 7: 08-09-2017](7)
 * [Week 6: 01-09-2017](6)
