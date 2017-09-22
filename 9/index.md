@@ -16,13 +16,13 @@ But the conversation quickly split into two chunks:
 
 It was probably the most interesting meeting of the week and we came up with a list of other people who would probably have good reckons: [Richard Pope](https://twitter.com/richardjpope), [Paul Downey](https://twitter.com/psd), [Libby Miller](https://twitter.com/libbymiller), [Jeni Tennison](https://twitter.com/jenit) and [Rachel Coldicutt](https://twitter.com/rachelcoldicutt).
 
-On a similar theme, Robert spoke with the new Journal Office clerk on how we might move from document-first to information-first publishing.
+On a similar theme, Robert spoke with the a clerk in the Journal Office about how we might move from document-first to information-first publishing.
 
 ### One world, one web, one team
 
 Dan continued to attend assorted agile [ceremonies](https://www.youtube.com/watch?v=Ss1MbL4NYf0) across the department. The main one this week was the technical difficulty vs value to users session led by [Colin](https://twitter.com/colinpattinson). Collective thinking is definitely developing but we still need to do some work to make sure 'work to be done' is aligned with the high level user needs that have been identified.
 
-Dan also went to [Emma](http://twitter.com/_allenemma)'s website road map delivery meeting. The main decision was to open up [the new website](https://beta.parliament.uk/) to [search bots](http://www.robotstxt.org/robotstxt.html) and the corresponding need to commit to stable IDs in 'weeks' (said [Jamie](https://twitter.com/oddtype)). Dan is going to set up a meeting to explain why we can't really filter search our current web content.
+Dan also went to [Emma](http://twitter.com/_allenemma)'s website road map delivery meeting. The main decision was to open up [the new website](https://beta.parliament.uk/) to [search bots](http://www.robotstxt.org/robotstxt.html) and the corresponding need to commit to stable IDs in 'weeks' (said [Jamie](https://twitter.com/oddtype)). Dan is going to set up a meeting to explain why we can't really filter search results for our current web content.
 
 ### Domain modelling
 
@@ -42,7 +42,7 @@ Michael and [Samu](https://twitter.com/langsamu) met with Colin and [Steve](http
 
 Michael met with [Ed](https://twitter.com/ewhitur) to chat about committee data and what we do next.
 
-Anya, Silver and Michael met Angela to check our modelling of select committees against the data in existing systems. We think we've captured everything worth capturing in the Committee Office Database (used in the House of Lords). We still need to check against Red Book (used in the House of Commons).
+Anya, Silver and Michael met Angela to check our modelling of select committees against the data in existing systems. We think we've captured everything worth capturing in the Committee Office Database (used in the House of Lords to keep track of inquiries and evidence sessions). We still need to check against Red Book (used in the House of Commons for similar purposes).
 
 Anya and Michael continued to revise the [first draft of the government department model](https://github.com/ukparliament/ontologies/blob/master/_government-department/government-department.png) with help from Chris Watson from the House of Commons Library. Michael also gave a quick presentation to the website team on where we're at with modelling government departments and positions and incumbencies and some of the data quality issues we're seeing.
 
@@ -65,9 +65,7 @@ Chris set up a local instance of [Webvowl](http://vowl.visualdataweb.org/webvowl
 
 The search product team spent some time analysing and clustering the feedback gathered since search went live.
 
-Robert helped with some new search ‘support’ issues. Most of his week was spent looking over the search feedback, being told how to do that and then that happening. There was a lot of comment and analysis. 
-
-Robert is due to meet folks from the House of Commons Library to discuss their requirements for search, particularly with regard to finding research briefings.
+Robert helped with some new search ‘support’ issues. Most of his week was spent looking over the search feedback, being told how to do that and then that happening. There was a lot of comment and analysis.
 
 ### Machines that do learning
 
@@ -111,3 +109,5 @@ No strolls were reported. Stroll harder. Stroll smarter. Be cold, if not bold.
 * [Knowledge and the Shock of Hypermedia: Thoughts From ISKO UK 2017](https://16blue.me/2017/09/18/knowledge-and-the-shock-of-hypermedia-thoughts-from-isko-uk-2017/)
 
 * [That tweets may have enough indication of your mental health conditions isn't scary at all](https://www.aclweb.org/anthology/E/E17/E17-1015.pdf) [PDF]
+
+* [Let's fund teams, not projects](https://defradigital.blog.gov.uk/2017/09/19/lets-fund-teams-not-projects/)
