@@ -80,6 +80,8 @@ Dia is also working on a feature list for search based on the feedback so far.
 
 [Tony](https://twitter.com/psychemedia) wrote an excellent post on [options for search result display](https://blog.ouseful.info/2017/09/29/contextualised-search-result-displays/).
 
+On Friday, Dia presented search work to the digital strategy board. It went well.
+
 ### Machines that do learning
 
 Raphael went along to the [GDS](https://gds.blog.gov.uk/) data accelerator course and learned about how hyperparameter tuning can help with the toolkit for the Indexing and Data Management Section. He also worked with Angela on her application to join the next cohort.
