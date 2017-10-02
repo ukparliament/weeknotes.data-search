@@ -94,6 +94,10 @@ Liz requested a session with the search product team to plan A/B testing for res
 
 [Matias](https://twitter.com/matiasgermanico) met with Charlotte (head of the Enterprise Portfolio Management Office) to review the dashboard / report work he's been doing with Sam. The main concerns were how to be sure the sources could be trusted, how we could reduce text displayed and how to display trends especially regarding dates. Matias suggested they provide 3 KPIs as examples so we can try to produce them with the current data set.
 
+### Documents from data
+
+Tony and Michael met with Gordon Clarke and Louanne Middleton from committee land to talk them through some of the work Tony's been doing around [reproducible research](https://simplystatistics.org/2014/06/06/the-real-reason-reproducible-research-is-important/) using [Jupyter Notebooks](http://jupyter.org/). This seemed to match at least some of their thinking. Tony is planning to build a demo of a committee report and a library briefing in this fashion.
+
 ### Did anybody say blockchain?
 
 To the best of my knowledge nobody said blockchain \o/
