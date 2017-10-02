@@ -56,15 +56,13 @@ Wojciech (working with [Matt Rayner](https://twitter.com/mattrayner) and Sarah A
 
 * Reduces our dependency on the website release schedule.
 
-Samu spent time with Séan Brazier to conduct a Service Assessment for the Integrated Workspace Management System (IWMS) project. This was the first session of a new format aiming to improve technology governance.
-
 A quote from one of the project documents made him stop for a second:
 
 "The current parliamentary estate measures approx. 222,000 square metres and consists of 34 buildings, properties and an underground car park. There is a total of 227 floors and 9651 rooms, when consolidated, across all of the buildings."
 
 ### Search
 
-Robert and Michael cobbled together a post on what we've done with the new search and why and assorted advantages and disadvantages. Anya added grammar. Silver removed a bit that was unintentionally rude to librarians. It's not published yet. Hopefully it will be soon.
+Michael and Robert wrote something about what we've done with the new search and why and assorted advantages and disadvantages. Anya added grammar. Silver removed a bit that was unintentionally rude to librarians.
 
 The search team have been looking at how we better label search results according to document type. From what was a vague idea we now have a working prototype. The work will be considered for production soon.
 
