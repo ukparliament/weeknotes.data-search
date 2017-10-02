@@ -2,11 +2,11 @@
 
 ### Community
 
-Wednesday saw a visit from [Benjy Stanton](https://twitter.com/benjystanton) of the [ONS](https://www.ons.gov.uk/). There was talk of potential collaboration on shared tools and lots of thoughts on a clubbing together of public sector organisations who publish stuff.
+Wednesday saw a visit from [Benjy Stanton](https://twitter.com/benjystanton) of the [ONS](https://www.ons.gov.uk/). There was talk of potential collaboration on shared tools and lots of thoughts on a clubbing together of public sector organisations who publish things.
 
 ### Dator day
 
-Wednesday was [dator day](https://twitter.com/fantasticlife/status/913833097355030528). For the first half of data day it took too long to agree website work and had a few unnecessarily disagreements. That said the outcome was constructive and we agreed some stuff:
+Wednesday was [dator day](https://twitter.com/fantasticlife/status/913833097355030528). For the first half it took too long to agree website work and there were a few unnecessarily disagreements. That said the outcome was constructive and we agreed some stuff:
 
 * To have a first iteration of government roles live on the website by the end of the next Members sprint.
 
@@ -30,9 +30,9 @@ Dan managed to make 3 website [stand ups](https://www.youtube.com/watch?v=cedNya
 
 ### Domain modelling
 
-Anya, Silver and Michael continued work on the government stuff. A [model is now published](https://ukparliament.github.io/ontologies/government-department/government-department-ontology.html). Feedback is, as ever welcome.
+Anya, Silver and Michael continued work on modelling government departments, positions and incumbencies. The [model is now published](https://ukparliament.github.io/ontologies/government-department/government-department-ontology.html). Feedback is, as ever welcome.
 
-Michael met with [Chris](https://twitter.com/chrisalcockdev) to pass on work so far around modelling government departments, positions and incumbencies. He also met with [Colin](https://twitter.com/colinpattinson) to run through much the same stuff.
+Michael met with [Chris](https://twitter.com/chrisalcockdev) to pass on work so far around the government model. He also met with [Colin](https://twitter.com/colinpattinson) to run through much the same stuff.
 
 ### Data quality
 
@@ -68,21 +68,21 @@ Robert and Michael cobbled together a post on what we've done with the new searc
 
 The search team have been looking at how we better label search results according to document type. From what was a vague idea we now have a working prototype. The work will be considered for production soon.
 
+To enable this [Raphael](https://twitter.com/raphaelleung) picked Ed McCarthy's brain to understand rules and exceptions around URL structures of publications which varies for current and archived materials.
+
 Robert helped [Dia](https://twitter.com/DN78) with preparing a presentation for the Digital Strategy Board.
 
 The team met with Fred to talk about library Research Briefings, particularly with regard to search. They came to the conclusion that it will take some time before we see most of what he described, but the broad aims were in line with those of the data service.
 
 Robert is also catching up with Archives and Library folks on plans for search in the medium term.
 
-Dia is also working on a feature list for search bases on the feedback so far.
+Dia is also working on a feature list for search based on the feedback so far.
 
 [Tony](https://twitter.com/psychemedia) wrote an excellent post on [options for search result display](https://blog.ouseful.info/2017/09/29/contextualised-search-result-displays/).
 
-[Raphael](https://twitter.com/raphaelleung) picked Ed McCarthy's brain to understand rules and exceptions around URL structures of publications which varies for current and archived materials.
-
 ### Machines that do learning
 
-Raphael went along to the [GDS](https://gds.blog.gov.uk/) data accelerator course and learned about how hyperparameter tuning can help with the toolkit for the Indexing and Data Management Section. He also with Angela on her application to join the next cohort 
+Raphael went along to the [GDS](https://gds.blog.gov.uk/) data accelerator course and learned about how hyperparameter tuning can help with the toolkit for the Indexing and Data Management Section. He also with Angela on her application to join the next cohort.
 
 ### Measuring things
 
