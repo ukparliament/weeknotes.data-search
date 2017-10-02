@@ -30,7 +30,7 @@ Dan managed to make 3 website [stand ups](https://www.youtube.com/watch?v=cedNya
 
 ### Domain modelling
 
-Anya, Silver and Michael continued work on modelling government departments, positions and incumbencies. The [model is now published](https://ukparliament.github.io/ontologies/government-department/government-department-ontology.html). Feedback is, as ever welcome.
+Anya, Silver and Michael continued work on modelling government departments, positions and incumbencies. The [model is now published](https://ukparliament.github.io/ontologies/government-department/government-department-ontology.html). Feedback is, as ever, welcome.
 
 Michael met with [Chris](https://twitter.com/chrisalcockdev) to pass on work so far around the government model. He also met with [Colin](https://twitter.com/colinpattinson) to run through much the same stuff.
 
