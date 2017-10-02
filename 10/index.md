@@ -6,7 +6,7 @@ Wednesday saw a visit from [Benjy Stanton](https://twitter.com/benjystanton) of 
 
 ### Dator day
 
-Wednesday was [dator day](https://twitter.com/fantasticlife/status/913833097355030528). For the first half it took too long to agree website work and there were a few unnecessarily disagreements. That said the outcome was constructive and we agreed some stuff:
+Wednesday was [dator day](https://twitter.com/fantasticlife/status/913833097355030528). For the first half it took too long to agree website work and there were a few unnecessary disagreements. That said the outcome was constructive and we agreed some stuff:
 
 * To have a first iteration of government roles live on the website by the end of the next Members sprint.
 
@@ -82,7 +82,7 @@ Dia is also working on a feature list for search based on the feedback so far.
 
 ### Machines that do learning
 
-Raphael went along to the [GDS](https://gds.blog.gov.uk/) data accelerator course and learned about how hyperparameter tuning can help with the toolkit for the Indexing and Data Management Section. He also with Angela on her application to join the next cohort.
+Raphael went along to the [GDS](https://gds.blog.gov.uk/) data accelerator course and learned about how hyperparameter tuning can help with the toolkit for the Indexing and Data Management Section. He also worked with Angela on her application to join the next cohort.
 
 ### Measuring things
 
@@ -96,7 +96,7 @@ Liz requested a session with the search product team to plan A/B testing for res
 
 ### Documents from data
 
-Tony and Michael met with Gordon Clarke and Louanne Middleton from committee land to talk them through some of the work Tony's been doing around [reproducible research](https://simplystatistics.org/2014/06/06/the-real-reason-reproducible-research-is-important/) using [Jupyter Notebooks](http://jupyter.org/). This seemed to match at least some of their thinking. Tony is planning to build a demo of a committee report and a library briefing in this fashion.
+Tony and Michael met with Gordon Clarke and Luanne Middleton from committee land to talk them through some of the work Tony's been doing around [reproducible research](https://simplystatistics.org/2014/06/06/the-real-reason-reproducible-research-is-important/) using [Jupyter Notebooks](http://jupyter.org/). This seemed to match at least some of their thinking. Tony is planning to build a demo of a committee report and a library briefing in this fashion.
 
 ### Did anybody say blockchain?
 
