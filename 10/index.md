@@ -56,6 +56,8 @@ Wojciech (working with [Matt Rayner](https://twitter.com/mattrayner) and Sarah A
 
 * Reduces our dependency on the website release schedule.
 
+Samu spent time with Sean Brazier to conduct a Service Assessment for the Integrated Workspace Management System (IWMS) project. This was the first session of a new format aiming to improve technology governance.
+
 A quote from one of the project documents made him stop for a second:
 
 "The current parliamentary estate measures approx. 222,000 square metres and consists of 34 buildings, properties and an underground car park. There is a total of 227 floors and 9651 rooms, when consolidated, across all of the buildings."
