@@ -50,7 +50,7 @@ Wojciech (working with [Matt Rayner](https://twitter.com/mattrayner) and Sarah A
 
 * Saves us money by using the cheapest cloud computing resources available.
 
-* Introduces architectural improvements that makes our live easier for importing data.
+* Introduces architectural improvements that makes our lives easier for importing data.
 
 * Makes it easier and faster for us to switch between versions of applications.
 
