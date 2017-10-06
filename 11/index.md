@@ -26,11 +26,9 @@ Aidan, Wojciech, [Chris](https://twitter.com/chrisalcockdev) and Michael spent T
 
 * Missing links between some constituencies and the [NUTS regions](https://en.wikipedia.org/wiki/NUTS_statistical_regions_of_the_United_Kingdom) they're contained in. This is now being fixed.
 
-* Lack of postcode data for Northern Ireland. We still have a problem here since none of the OS datasets containing Northern Ireland postcodes are available as APIs. See below....
+* Lack of postcode data for Northern Ireland. We still have a problem here since none of the OS datasets containing Northern Ireland postcodes are available as APIs. This lead to an interesting discussion about data dumps vs APIs in the context of licencing. That if we can directly use OS APIs we won't have to store the data in our platform. If we rely on data dumps we would have to store the data which would mean we'd need to partition the store to only expose data with an [Open Parliament Licence](https://www.parliament.uk/site-information/copyright-parliament/open-parliament-licence/).
 
 * Postcodes that span more than one constituency (occasionally referred to here as 'grey zones'), a problem very well described in this [post by Sym](https://democracyclub.org.uk/blog/2017/03/20/4314-times-when-postcodes-arent-good-enough/). The OS has done some analysis and found that of the 1.7 million postcodes, about 24,000 span more than one parliamentary constituency. Restricting that to addresses classified in [AddressBase Plus](https://www.ordnancesurvey.co.uk/business-and-government/products/addressbase-products.html) as residential, excluding non-postal addresses, and including only those addresses derived from [PAF](http://www.royalmail.com/business/services/marketing/data-optimisation/paf), reduces that to around 5600 postcodes out of 1.48 million current residential postcodes (0.38%). For this set of 5600 postcodes there are around 96,000 residential addresses (0.36% of 26 million residential addresses). We also found, out of the postcodes which span parliamentary constituencies, 72,000 individual addresses fall into the same parliamentary constituency as the codepoint for their postcode. And 24,000 don't. Just less than 0.1% of all residential addresses.
-
-There was also an interesting discussion about data dumps vs APIs in the context of licencing. That if we can directly use OS APIs we won't have to store the data in our platform. If we rely on data dumps we would have to store the data which would mean we'd need to partition the store to only expose data with an [Open Parliament Licence](https://www.parliament.uk/site-information/copyright-parliament/open-parliament-licence/).
 
 Discussions continue on how we might join the [Public Sector Mapping Agreement](https://www.ordnancesurvey.co.uk/business-and-government/public-sector/mapping-agreements/public-sector-mapping-agreement.html).
 
@@ -40,13 +38,13 @@ Chris fixed the incumbency naming clash allowing us to progress with modelling v
 
 Aidan completed the procurement of the licence for the triple store.
 
-Dan and Aidan met with Steve Wise from the House of Commons Library to discuss the data toolkit and project funding
+Dan and Aidan met with Steve Wise from the House of Commons Library to discuss the data toolkit and project funding.
 
 ### Search
 
 Robert drowned in a sea of admin-esoterica this week. Monday was a revisiting of the contributions of product and delivery management to the search work, some updates on Archives requirements, learning more about search feedback and analysis. 
 
-[Raphael](https://twitter.com/raphaelleung) showed Robert the search ‘hints’ work to decorate search results with document types.
+[Raphael](https://twitter.com/raphaelleung) showed Robert the search ‘hints’ work to decorate search results with document types. This was great.
 
 ### Capability
 
