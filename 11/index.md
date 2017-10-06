@@ -8,7 +8,7 @@ Wojciech and Mike met up with [Dan Leedham](https://twitter.com/danleedham) from
 
 ### One world, one web, one team
 
-Aidan and Dan continued to take it in turns to attend website [stand ups](https://www.youtube.com/watch?v=fgXqDmhECxc) though Dan only managed to make one this week. Because circumstances. He did go to a website backlog review session though, and then sat in on a really great session on ideas to improve the pages based on feedback from user testing.
+[Aidan](https://twitter.com/aidan_morgan) and Dan continued to take it in turns to attend website [stand ups](https://www.youtube.com/watch?v=fgXqDmhECxc) though Dan only managed to make one this week. Because circumstances. He did go to a website backlog review session though, and then sat in on a really great session on ideas to improve the pages based on feedback from user testing.
 
 Aidan went to more website stand ups than Dan across both the 'members' and 'committees' teams.
 
