@@ -18,7 +18,7 @@ Aidan went to more website stand ups than Dan across both the 'members' and 'com
 
 They also spent some time adding first draft comments to the [event ontology](https://ukparliament.github.io/ontologies/event/event-ontology.html). Feedback, as ever, more than welcome.
 
-Anya, [Silver](https://twitter.com/silveroliver) and Michael were interviewed by [Susan Halford](https://twitter.com/susanjhalford) and [Mark Weal](https://twitter.com/mark_weal) from the [Web Science Institute](https://www.southampton.ac.uk/wsi/index.page) who are conducting research into the 'Everyday Practices of Semantic Linked Data'. We talked about our approach to domain modelling and ontology development. Michael had a rant. It was cathartic.
+Anya, [Silver](https://twitter.com/silveroliver), [Ben](https://twitter.com/benwoodhams) and Michael were interviewed by [Susan Halford](https://twitter.com/susanjhalford) and [Mark Weal](https://twitter.com/mark_weal) from the [Web Science Institute](https://www.southampton.ac.uk/wsi/index.page) who are conducting research into the 'Everyday Practices of Semantic Linked Data'. We talked about our approach to domain modelling and ontology development. Michael had a rant. It was cathartic.
 
 ### Data quality
 
@@ -28,7 +28,7 @@ Aidan, Wojciech, [Chris](https://twitter.com/chrisalcockdev) and Michael spent T
 
 * Lack of postcode data for Northern Ireland. We still have a problem here since none of the OS datasets containing Northern Ireland postcodes are available as APIs. This lead to an interesting discussion about data dumps vs APIs in the context of licencing. If we can directly use OS APIs we won't have to store the data in our platform. If we rely on data dumps we would have to store the data which would mean we'd need to partition the store to only expose data with an [Open Parliament Licence](https://www.parliament.uk/site-information/copyright-parliament/open-parliament-licence/).
 
-* Postcodes that span more than one constituency (occasionally referred to here as 'grey zones'), a problem very well described in this [post by Sym](https://democracyclub.org.uk/blog/2017/03/20/4314-times-when-postcodes-arent-good-enough/). The OS has done some analysis and found that of the 1.7 million postcodes, about 24,000 span more than one parliamentary constituency. Restricting that to addresses classified in [AddressBase Plus](https://www.ordnancesurvey.co.uk/business-and-government/products/addressbase-products.html) as residential, excluding non-postal addresses, and including only those addresses derived from [PAF](http://www.royalmail.com/business/services/marketing/data-optimisation/paf), reduces that to around 5600 postcodes out of 1.48 million current residential postcodes (0.38%). For this set of 5600 postcodes there are around 96,000 residential addresses (0.36% of 26 million residential addresses). We also found, out of the postcodes which span parliamentary constituencies, 72,000 individual addresses fall into the same parliamentary constituency as the codepoint for their postcode. And 24,000 don't. Just less than 0.1% of all residential addresses.
+* Postcodes that span more than one constituency (occasionally referred to here as 'grey zones'), a problem very well described in this [post by Sym](https://democracyclub.org.uk/blog/2017/03/20/4314-times-when-postcodes-arent-good-enough/). The OS has done some analysis and found that of the 1.7 million postcodes, about 24,000 span more than one parliamentary constituency. Restricting that to addresses classified in [AddressBase Plus](https://www.ordnancesurvey.co.uk/business-and-government/products/addressbase-products.html) as residential, excluding non-postal addresses, and including only those addresses derived from [PAF](http://www.royalmail.com/business/services/marketing/data-optimisation/paf), reduces that to around 5,600 postcodes out of 1.48 million current residential postcodes (0.38%). For this set of 5,600 postcodes there are around 96,000 residential addresses (0.36% of 26 million residential addresses). We also found, out of the postcodes which span parliamentary constituencies, 72,000 individual addresses fall into the same parliamentary constituency as the codepoint for their postcode. And 24,000 don't. Just less than 0.1% of all residential addresses.
 
 Discussions continue on how we might join the [Public Sector Mapping Agreement](https://www.ordnancesurvey.co.uk/business-and-government/public-sector/mapping-agreements/public-sector-mapping-agreement.html).
 
@@ -48,11 +48,11 @@ Robert drowned in a sea of admin-esoterica this week. Monday was a revisiting of
 
 ### Capability
 
-Robert went along to a really quite animated meeting and discussion with Julie’s capability group.
+Robert went along to a really quite animated meeting and discussion with [Julie](https://twitter.com/julietouring)’s capability group.
 
 ### Did anybody say blockchain?
 
-Samu came closest to saying blockchain when he slacked a link to an article about [turning electricity into money](https://spectrum.ieee.org/computing/networks/why-the-biggest-bitcoin-mines-are-in-china). He made a dextrous dive to his right and pulled off an audacious save just before the ball crossed the line. Well done Samu.
+[Samu](https://twitter.com/langsamu) came closest to saying blockchain when he slacked a link to an article about [turning electricity into money](https://spectrum.ieee.org/computing/networks/why-the-biggest-bitcoin-mines-are-in-china). He made a dextrous dive to his right and pulled off an audacious save just before the ball crossed the line. Well done Samu.
 
 ### Strolls
 
