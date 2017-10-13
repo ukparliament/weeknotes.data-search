@@ -30,7 +30,7 @@ Wednesday was the all staff briefing. [Dia](https://twitter.com/DN78) talked thr
 
 ### One world, one web, one team
 
-[Matt](https://twitter.com/mattrayner), the backend lead for the website team, gave a talk about the architecture of the [beta.parliament.uk](https://beta.parliament.uk) [Rails](https://en.wikipedia.org/wiki/Ruby_on_Rails) application. Most of the data and search team went along to find out our data becomes web pages.
+[Matt](https://twitter.com/mattrayner), the backend lead for the website team, gave a talk about the architecture of the [beta.parliament.uk](https://beta.parliament.uk) [Rails](https://en.wikipedia.org/wiki/Ruby_on_Rails) application. Most of the data and search team went along to find out how our data becomes web pages.
 
 Dan gave [Jamie](https://twitter.com/oddtype) and [Jeanette](https://twitter.com/clementgraphics) moral support at the digital portfolio board where they presented work on the new website. Dan had a cameo with a live demo of current website search. Jeanette helpfully drove the tabs.
 
@@ -74,7 +74,7 @@ Sara and Liz met with Elise from the House of Commons Library to talk about some
 
 Aidan, Liz, Dia, Jamie, Trine and Lopa met to discuss tools and next steps in establishing the ability to run A/B tests for search.
 
-Sara began setting up the analysis for A/B testing the display of document URLs in the search results page. This involves creating the measures we want to track and defining baselines to be compared to the test results.
+Sara began setting up the analysis for A/B testing the display of document URLs in the search results page. This involves creating the measures we want to track and defining baselines to compare to the test results.
 
 ### Machines that do learning
 
