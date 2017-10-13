@@ -8,7 +8,7 @@ Chris from business systems came along for the first time. [Dan](https://twitter
 
 We agreed we'll:
 
-* Focus technical work on stable identifiers to make it easier for other people to work with our data and open up beta.parliament.uk to search crawlers.
+* Focus technical work on stable identifiers to make it easier for other people to work with our data and open up [beta.parliament.uk](https://beta.parliament.uk/) to search crawlers.
 
 * Provide assistance to Angela with the interim data source for committees.
 
