@@ -2,7 +2,7 @@
 
 ### Dator day
 
-Data day #33 happened. The room was... bijou. The planning session with the website team session was constructive. Much, much better than last time. Really much better.
+Data day #33 happened. The room was... bijou. The planning with the website team session was constructive. Much, much better than last time. Really much better.
 
 Chris from business systems came along for the first time. [Dan](https://twitter.com/dasbarrett) came to grudgingly accept [it's not like the old days anymore](https://www.youtube.com/watch?v=8BJvVV-fnls). Robert tried handwriting. Michael came [dressed as his granddad](https://www.google.co.uk/search?q=clegg+last+of+the+summer+wine&source=lnms&tbm=isch&sa=X&ved=0ahUKEwio76K2v-3WAhVH1RoKHeUlDBoQ_AUICigB&biw=1252&bih=764).
 
