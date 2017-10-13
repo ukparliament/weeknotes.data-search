@@ -44,7 +44,7 @@ Anya and Michael met with Ben, [Colin](https://twitter.com/colinpattinson) and [
 
 ### Data quality
 
-[Chris](https://twitter.com/chrisalcockdev) has been working on a Lords' inflation tool (still don't ask) for Ben. It started life as a massively over engineered Sharepoint / Access odyssey and ending up as a single page spreadsheet.
+[Chris](https://twitter.com/chrisalcockdev) has been working on a Lords' inflation tool (still don't ask) for Ben. It started life as a massively over engineered Sharepoint / Access odyssey and ended up as a single page spreadsheet.
 
 Michael spent some time with Angela running through the Red Book database and trying to document it. Red Book is the system used by the House of Commons to manage Select Committee data. From work so far it looks to be a similar shape to the Committee Office Database (a similar system used in the House of Lords) with evidence sessions belonging to zero or one inquiries and inquiries belonging to zero or one committees. More work is needed. 
 
