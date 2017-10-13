@@ -58,7 +58,7 @@ The Member photo import to the data platform has been deployed and is now runnin
 
 The search product team had their first retrospective and planning for sprint 5. [Caroline](https://twitter.com/carolinekippler) helped out. The team went through the backlog and agreed on the prioritised items.
 
-To anticipate possible new search features, work has been done to categorise Parliamentary material published on the web by inferring attributes from the huge variety of inconsistently structured URLs. The work is generally referred to as search hints. [Raphael](https://twitter.com/raphaelleung) has been working on search hints. This was set up by Samu and Raphael has been adding regular expression rules to capture currently indexed Parliamentary sites. At time of writing there are over 1,000 rules. Exclamation mark here.
+To anticipate possible new search features, work has been done to categorise Parliamentary material published on the web by inferring attributes from the huge variety of inconsistently structured URLs. The work is generally referred to as search hints. [Raphael](https://twitter.com/raphaelleung) has continued the work initiated by Samu and has been adding regular expression rules to capture currently indexed Parliamentary sites. At time of writing there are over 1,000 rules. Exclamation mark here.
 
 Raphael took Dia through search hints. Dia was happy and impressed.
 
@@ -80,7 +80,7 @@ Sara began setting up the analysis for A/B testing the display of document URLs 
 
 Back in September, Jianhan submitted evidence to the House of Lords [Select Committee on Artificial Intelligence](http://www.parliament.uk/ai-committee). All the written evidence is [now published](http://www.parliament.uk/business/committees/committees-a-z/lords-select/ai-committee/publications/). Jianhan's contribution [is here](http://data.parliament.uk/writtenevidence/committeeevidence.svc/evidencedocument/artificial-intelligence-committee/artificial-intelligence/written/69472.html).
 
-Phil from IDMS went with Raphael to the GDS accelerator graduation / wrap-up event. He's planning to pass on notes to the data science people in the library. Raphael thought his presentation went okay. He's writing a PDS blog post and there'll be a GDS blog post in a few months to see where the projects ended up. 
+[Phil](https://twitter.com/philbgorman) from the Indexing and Data Management Section of the House of Commons Library went with Raphael to the GDS accelerator graduation / wrap-up event. He's planning to pass on notes to the data science people in the library. Raphael thought his presentation went okay. He's writing a PDS blog post and there'll be a GDS blog post in a few months to see where the projects ended up. 
 
 Angela from the website development team has been accepted on to the next data accelerator. 
 
