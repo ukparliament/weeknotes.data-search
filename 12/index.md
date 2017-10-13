@@ -74,7 +74,7 @@ Sara and Liz met with Elise from the House of Commons Library to talk about some
 
 Aidan, Liz, Dia, Jamie, Trine and Lopa met to discuss tools and next steps in establishing the ability to run A/B tests for search.
 
-Sara began setting up the analysis for A/B testing the display of document URLs in the search results page. This involves creating the measures we want to track and defining baselines to be compare to the test results.
+Sara began setting up the analysis for A/B testing the display of document URLs in the search results page. This involves creating the measures we want to track and defining baselines to be compared to the test results.
 
 ### Machines that do learning
 
