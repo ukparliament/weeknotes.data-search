@@ -8,11 +8,11 @@ Chris from business systems came along for the first time. [Dan](https://twitter
 
 We agreed we'll:
 
-* focus technical work on stable identifiers to make it easier for other people to work with our data and open up beta.parliament.uk to search crawlers.
+* Focus technical work on stable identifiers to make it easier for other people to work with our data and open up beta.parliament.uk to search crawlers.
 
 * Provide assistance to Angela with the interim data source for committees.
 
-* Provide assistance to [Ben](https://twitter.com/benwoodhams) with Lord's inflation (don't ask).
+* Provide assistance to [Ben](https://twitter.com/benwoodhams) with Lords' inflation (don't ask).
 
 * Do whatever data and search work is required around Northern Ireland postcodes and constituencies.
 
@@ -38,13 +38,13 @@ Dan went to one website stand up this week, and a backlog review session. [Aidan
 
 ### Domain modelling
 
-[Anya](https://twitter.com/bitten_), [Silver](https://twitter.com/silveroliver) and Michael spent Tuesday turning last week's [Written Questions and Answers domain model](https://github.com/ukparliament/domain-models/blob/master/Written%20questions/written-questions.pdf) into a [first pass data model](https://ukparliament.github.io/ontologies/written-question-and-answer/written-question-and-answer-ontology.html). They spent some time with Sally Carter, the House of Lords gatekeeper for written answers and the proposed model seemed to make sense. It's quite different from how things work at the moment but would have the advantages of saving effort, reducing errors, having fewer documents and more linky data, and making a better more linky website. Time will tell.
+[Anya](https://twitter.com/bitten_), [Silver](https://twitter.com/silveroliver) and Michael spent Tuesday turning last week's [Written Questions and Answers domain model](https://github.com/ukparliament/domain-models/blob/master/Written%20questions/written-questions.pdf) into a [first pass data model](https://ukparliament.github.io/ontologies/written-question-and-answer/written-question-and-answer-ontology.html). They spent some time with Sally Carter, the House of Lords gatekeeper for written answers, and the proposed model seemed to make sense. It's quite different from how things work at the moment but would have the advantages of saving effort, reducing errors, having fewer documents and more linky data, and making a better, more linky website. Time will tell.
 
 Anya and Michael met with Ben, [Colin](https://twitter.com/colinpattinson) and [Ed](https://twitter.com/ewhitur) to prioritise which bits of the domain model they should be working on next. The results are in the [Doing, Doing next and To do columns on Trello](https://trello.com/b/Z1nrm0Vr/parliament-ontology).
 
 ### Data quality
 
-[Chris](https://twitter.com/chrisalcockdev) has been working on a Lords inflation tool (still don't ask) for Ben. It started life as a massively over engineered Sharepoint / Access odyssey and ending up with a single page spreadsheet.
+[Chris](https://twitter.com/chrisalcockdev) has been working on a Lords' inflation tool (still don't ask) for Ben. It started life as a massively over engineered Sharepoint / Access odyssey and ending up as a single page spreadsheet.
 
 Michael spent some time with Angela running through the Red Book database and trying to document it. Red Book is the system used by the House of Commons to manage Select Committee data. From work so far it looks to be a similar shape to the Committee Office Database (a similar system used in the House of Lords) with evidence sessions belonging to zero or one inquiries and inquiries belonging to zero or one committees. More work is needed. 
 
@@ -58,13 +58,13 @@ The Member photo import to the data platform has been deployed and is now runnin
 
 The search product team had their first retrospective and planning for sprint 5. [Caroline](https://twitter.com/carolinekippler) helped out. The team went through the backlog and agreed on the prioritised items.
 
-[Raphael](https://twitter.com/raphaelleung) has been working on search hints (displaying additional metadata alongside search results). This was set up by Samu and Raphael has been adding regular expression rules to capture currently indexed Parliamentary sites. At time of writing there are over 1,000 rules. Exclamation mark here.
+To anticipate possible new search features, work has been done to categorise Parliamentary material published on the web by inferring attributes from the huge variety of inconsistently structured URLs. The work is generally referred to as search hints. [Raphael](https://twitter.com/raphaelleung) has been working on search hints. This was set up by Samu and Raphael has been adding regular expression rules to capture currently indexed Parliamentary sites. At time of writing there are over 1,000 rules. Exclamation mark here.
 
 Raphael took Dia through search hints. Dia was happy and impressed.
 
 Robert, Samu and Raphael also met to chat about the progress on search hints. All is on target. Robert met with Liz in preparation for analysis on search once the beta is officially included in the public index. Robert also met with Lopa to hear more about “webmaster” things and beta preparation.
 
-Robert and Colin met to chat about Members and search, A pleasant time was had.
+Robert and Colin met to chat about Members and search. A pleasant time was had.
 
 ### Measuring things
 
@@ -80,13 +80,13 @@ Sara began setting up the analysis for A/B testing the display of document URLs 
 
 Back in September, Jianhan submitted evidence to the House of Lords [Select Committee on Artificial Intelligence](http://www.parliament.uk/ai-committee). All the written evidence is [now published](http://www.parliament.uk/business/committees/committees-a-z/lords-select/ai-committee/publications/). Jianhan's contribution [is here](http://data.parliament.uk/writtenevidence/committeeevidence.svc/evidencedocument/artificial-intelligence-committee/artificial-intelligence/written/69472.html).
 
-Phil from IDMS went with Raphael to the GDS accelerator graduation / wrap-up event. He's planning to pass on notes to the data science people in the library. Raphael thought his presentation was okay. He's writing a PDS blog post and there'll be a GDS blog post in a few months to see where the projects ended up. 
+Phil from IDMS went with Raphael to the GDS accelerator graduation / wrap-up event. He's planning to pass on notes to the data science people in the library. Raphael thought his presentation went okay. He's writing a PDS blog post and there'll be a GDS blog post in a few months to see where the projects ended up. 
 
 Angela from the website development team has been accepted on to the next data accelerator. 
 
 ### Capability
 
-Robert and Dan had a chat about our using the GDS digital academy as part of Julie’s capability work. Both training and recruitment were covered.
+Robert and Dan had a chat about using the GDS digital academy as part of Julie’s capability work. Both training and recruitment were covered.
 
 ### Aidan's truly terrible week
 
