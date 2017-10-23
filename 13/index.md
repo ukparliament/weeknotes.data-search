@@ -28,7 +28,7 @@ You can never have too much [ceremony](https://www.youtube.com/watch?v=a1FpFiQzM
 
 ### Domain modelling
 
-Anya and Michael finished adding comments to the [published models](http://odcamp.org.uk/tag/belfast/). If you're reading this it's fairly safe to assume you might be interested in reading them. Please do and shout on the [mailing list](mailto:uk-parliament-data@googlegroups.com) if anything looks wrong or wonky.
+Anya and Michael finished adding comments to the [published models](https://ukparliament.github.io/ontologies/). If you're reading this it's fairly safe to assume you might be interested in reading them. Please do and shout on the [mailing list](mailto:uk-parliament-data@googlegroups.com) if anything looks wrong or wonky.
 
 They also met with [Oli](https://twitter.com/olihawkins) to talk through the [proposed schema for election candidates and results](https://github.com/alphagov/open-standards/issues/42) and check how well it maps to [our election model](https://ukparliament.github.io/ontologies/election/election-ontology.html). All seems good with the usual caveats about Labour / Co-op and turnout calculations.
 
