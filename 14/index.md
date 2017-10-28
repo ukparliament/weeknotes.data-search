@@ -2,7 +2,7 @@
 
 ### [Quiet as a mouse](https://www.youtube.com/watch?v=4f6wzGpFKUQ)
 
-For reasons that have never been explained to me, Parliament holidays appear to run from November to October. So lots of people were using up leave. For those with sprogs, it was also half term. So pretty much the office was empty, weeknotes are parched and I'm typing for completeness.
+For reasons that have never been explained to me, Parliament holidays appear to run from November to October. So lots of people were using up leave. For those with sprogs, it was also half term. Pretty much the office was empty, weeknotes are parched and I'm typing for completeness.
 
 ### Parliament in the area, we’re international, we’re continental. Confined to base
 
