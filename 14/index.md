@@ -14,7 +14,7 @@ The search bit of the Data and Search extravaganza seemed to surprise no-one, wh
 
 Robert's been trying to work out how to make the description text of search results a little less mad. A lot of that is learning how our newly-established processes for data gathering and testing work. He thinks he does now understand most of it, but a lot is being built right now. 
 
-The search team had some pretty serious agile [ceremony](https://www.youtube.com/watch?v=4uJXbQfSzz0) stuff going on. It took some time, but at least one person thought it went well.
+The search team had some pretty serious agile [ceremony](https://www.youtube.com/watch?v=4uJXbQfSzz0) (christ, that's awful) stuff going on. It took some time, but at least one person thought it went well.
 
 Robert spoke with Colin again on Members and related matters. He imagines he came across as rather old-fashioned.
 
