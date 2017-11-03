@@ -2,7 +2,7 @@
 
 ### Driller killers
 
-This week's weeknotes are brought to you the letter D for drilling and the number [3](https://www.youtube.com/watch?v=dLBx3g8cowY). Some people are trying to "fix" our building. This seems to involve a lot of drilling. And hammering. The relentless drilling started on Monday morning and thankfully stopped by about 10.30am. Then it started again. And didn't stop. If you're planning on visiting us maybe bring ibuprofen.
+This week's weeknotes are brought to you by the letter D for drilling and the number [3](https://www.youtube.com/watch?v=dLBx3g8cowY). Some people are trying to "fix" our building. This seems to involve a lot of drilling. And hammering. The relentless drilling started on Monday morning and thankfully stopped by about 10.30am. Then it started again. And didn't stop. If you're planning on visiting us maybe bring ibuprofen.
 
 In unrelated news someone in the office managed to catch a mouse in a plastic cup. So maybe also bring a cat.
 
