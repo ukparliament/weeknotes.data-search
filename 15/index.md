@@ -52,7 +52,7 @@ Finally we need to buy something a bit complicated. Jaie the finance sorcerer wa
 
 Raphael returned from holiday and started work on integrating search hints into the API. 
 
-Robert did a lot of standing this week. And some forgetting. The search sprint planning was a select group and went fine.
+Robert did a lot of standing this week. And some forgetting. The search backlog review and sprint planning attracted a select group and went fine.
 
 Liz educated Robert on various matters concerning search and showed him the insights application, which he found very useful.
 
