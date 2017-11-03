@@ -40,7 +40,7 @@ Jamie was interviewed by them and enjoyed reflecting on our work with external p
 
 He also met with one of the project managers to learn about plans for new business systems around legislation and read Fred's report on 'discovery' for Library [Research Briefings](https://researchbriefings.parliament.uk/). Which was apparently both punchy and clear. There was a lot about search and some interesting proposals for solutions. 
 
-Sticking with Dan, he went along to the website product roadmap meeting. There is a lot on and it's good to have some search work coming from the product team. He's asked Ed Ricketts (user engagement) to help with the planning for future events.
+Sticking with Dan, he went along to the website product roadmap meeting. There is a lot on and it's good to have some search work coming from the product team. He's asked [Ed](https://twitter.com/zolacolor) from the user engagement team to help with the planning for future events.
 
 Finally we need to buy something a bit complicated. Jaie the finance sorcerer was unbelievably helpful in under an hour. Progress then. More generally buying stuff is looking up. And we should get more self sufficient, thanks to Liz. 
 
