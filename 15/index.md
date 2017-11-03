@@ -58,7 +58,7 @@ Liz educated Robert on various matters concerning search and showed him the insi
 
 As ever Robert spoke to colleagues within PDS and in the business about stuff like computers and Parliament. Friday was meetings with Hansard, the House of Commons Library, Data and Search, and a review of search feedback led by Liz. Mail and calendar were less well attended to.
 
-Something happened with the migration of the Search and Indexing triple store to the cloud but no-one seems very sure if it was good or bad.
+Mike has been working on the migration of the Search and Indexing triple store to the cloud. The good news is that all the systems we'd not previously tested worked with the new set-up. The bad news is that the network port, which needed to be open for new content to reach the search index, was closed. He's raised a high priority issue with the network team for this to be opened. In the meantime, changes have been rolled back, but once the port is opened we'll be able to change over in a matter of minutes.
 
 ### Measuring things
 
