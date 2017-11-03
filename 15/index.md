@@ -1,51 +1,101 @@
-## Week 14: 27-10-2017
+## Week 15: 03-11-2017
 
-### [Quiet as a mouse](https://www.youtube.com/watch?v=4f6wzGpFKUQ)
+### Driller killers
 
-For reasons that have never been explained to me, Parliament holidays appear to run from November to October. So lots of people were using up leave. For those with sprogs, it was also half term. Pretty much the office was empty, weeknotes are parched and I'm typing for completeness.
+This week's weeknotes are brought to you the letter D for drilling and the number [3](https://www.youtube.com/watch?v=dLBx3g8cowY). Some people are trying to "fix" our building. This seems to involve a lot of drilling. And hammering. The relentless drilling started on Monday morning and thankfully stopped by about 10.30am. Then it started again. And didn't stop. If you're planning on visiting us maybe bring ibuprofen.
 
-### Parliament in the area, we’re international, we’re continental. Confined to base
+In unrelated news someone in the office managed to catch a mouse in a plastic cup. So maybe also bring a cat.
 
-Probably lots of people went to places. But they were not work related. Looking at Twitter, [Raphael](https://twitter.com/raphaelleung) appears to be at [MozFest](https://mozillafestival.org/) but he's not reported into the weeknotes channel. I'm scraping the barrel here.
+Health and Safety wise, we are golden.
+
+In foot shooting news we also managed to accidentally trigger a denial of service attack on ourselves. So that's an achievement unlocked.
+
+### Data Day
+
+Wednesday was [data day](https://twitter.com/dasbarrett/status/925781371712430081). Which was kinda nice. A bit like the old days.
+
+[Jamie](https://twitter.com/oddtype) came along and we discussed:
+
+* Some ingoing issues with Members’ website and social media links.
+
+* Further work on search, starting to surface the 'hints' functionality (displaying labels for document types in the first instance).
+
+* Continued work on government departments and answering bodies. There'd been some confusion here over what had been done. There is now less confusion.
+
+* Work on how to approach ‘oral contributions’. We'd agreed at a session [Colin](https://twitter.com/colinpattinson) ran to start with oral questions. Now we need to start thinking about what we would do after that. And how. We agreed that we would approach this work using the Order Paper (for both Houses) to categorise items of business first.
+
+### Community
+
+Tuesday saw a visit by [Susan Halford](https://www.southampton.ac.uk/socsci/about/staff/sjh3.page) and [Mark Weal](http://www.ecs.soton.ac.uk/people/mjw) from the [Web Science Institute](https://www.southampton.ac.uk/wsi/index.page). They're doing some research around "The Everyday Practices of Semantic Linked Data" using Parliament as a case study.
+
+Jamie was interviewed by them and enjoyed reflecting on our work with external people knowing they would understand many of the tech and social / ethical points being made. Lots of dotted lines were drawn between BBC and Royal Opera House experiences.
+
+[Chris](https://twitter.com/chrisalcockdev) also spoke to Susan and Mark on Tuesday and found it fun and interesting. Particularly the questions that he didn't know the answer to or the positions he couldn't meaningfully justify.
+
+[Raphael](https://twitter.com/raphaelleung) gave feedback on some external data visualisation training materials. He also went along to both [StackTech3](https://gdstechnology.blog.gov.uk/2017/09/18/come-and-join-us-at-stacktech-3-in-october/) and [an event about use cases of open data standards organised by the Open Data Services Co-operative](https://www.eventbrite.co.uk/e/data-standards-for-social-impact-tickets-38779898721#).
+
+### One world, one web, one team
+
+[Dan](https://twitter.com/dasbarrett) had a bit of a lax week on the ceremony front. He sat in on a bit of the user research review which he liked.
+
+He also met with one of the project managers to learn about plans for new business systems around legislation and read Fred's report on 'discovery' for Library [Research Briefings](https://researchbriefings.parliament.uk/). Which was apparently both punchy and clear. There was a lot about search and some interesting proposals for solutions. 
+
+Sticking with Dan, he went along to the website product roadmap meeting. There is a lot on and it's good to have some search work coming from the product team. He's asked Ed Ricketts (user engagement) to help with the planning for future events.
+
+Finally we need to buy something a bit complicated. Jaie the finance sorcerer was unbelievably helpful in under an hour. Progress then. More generally buying stuff is looking up. And we should get more self sufficient, thanks to Liz. 
+
+### Domain modelling
+
+[Anya](https://twitter.com/bitten_) and [Michael](https://twitter.com/fantasticlife) tried to add comments to their work around [types of committees](https://ukparliament.github.io/ontologies/formal-body/formal-body-ontology.html) but it did not quite meet the Ed McCarthy test. They'll try again next week.
 
 ### Search
 
-The search bit of the Data and Search extravaganza seemed to surprise no-one, which we're counting as a success. 
+Raphael returned from holiday and started work on integrating search hints into the API. 
 
-Robert's been trying to work out how to make the description text of search results a little less mad. A lot of that is learning how our newly-established processes for data gathering and testing work. He thinks he does now understand most of it, but a lot is being built right now. 
+Robert did a lot of standing this week. And some forgetting. The search sprint planning was a select group and went fine.
 
-The search team had some pretty serious agile [ceremony](https://www.youtube.com/watch?v=4uJXbQfSzz0) (christ, that's awful) stuff going on. It took some time, but at least one person thought it went well.
+Liz educated Robert on various matters concerning search and showed him the insights application, which he found very useful.
 
-Robert spoke with Colin again on Members and related matters. He imagines he came across as rather old-fashioned.
+As ever Robert spoke to colleagues within PDS and in the business about stuff like computers and Parliament. Friday was meetings with Hansard, the House of Commons Library, Data and Search, and a review of search feedback led by Liz. Mail and calendar were less well attended to.
 
-Robert also met with colleagues in other departments on search and related matters. 
-
-There was some work on finding out how to set up a Microsoft equivalent of the Google Webmaster account. We think we're nearer to making that happen. 
-
-[Dia](https://twitter.com/DN78), Jo and Robert met to chat about search result presentation and the forthcoming hints. A deal of not-immediately-visible work has been done in the search team, establishing infrastructure and skills.
-
-### Capability
-
-Robert spoke with [Julie](https://twitter.com/julietouring) on how we might progress the [GDS Digital Academy](https://www.gov.uk/government/groups/digital-academy) stuff.
-
-Robert also got updated on the latest news in the service review work and lined up with a new-to-him colleague for a review. He spoke with his service review partner on how they're going to run it: questions, approach, records and so on. 
-
-### Coffee
-
-There is a note in the weeknotes Slack channel from Robert. It says:
-
-"By the way, if anyone wants to talk to me, I'm always very willing to take a half hour and buy you a nice coffee."
-
-I'm not sure if this invite was intended for people in the office, or if anyone is free to take up this offer. Either way, the author would encourage you to take time out to take caffeine with Robert. It is "always worthwhile" (TM).
+Something happened with the migration of the Search and Indexing triple store to the cloud but no-one seems very sure if it was good or bad.
 
 ### Measuring things
 
-Liz, [Franny](https://twitter.com/eff_shaped), [Laurence](https://twitter.com/laurencegrinyer) and Dia met to discuss Laurence's design for displaying links to PDFs from search results. Liz wrote up a first draft for the analysis, research and testing of display hints for document types in general. This involves finding out how many downloads we are currently getting, whether it varies by device type (mobile users being of interest), ideas around why people want PDFs / certain document types and whether content is dictating that, and what might happen as a result of including document type hints. Will downloads reduce, or perhaps increase, depending on the user goal?
+Sara has defined the baselines for the measures we are going to track during the A / B testing of search. She used [power analysis](https://www.statmethods.net/stats/power.html) to estimate the sample size and duration of the experiment.
+
+Liz showed some initial work on House of Commons Library workloads to the heads of sections. Making the model available to them to work with will allow greater flexibility over reporting, hopefully reducing time taken to report standard measures and ad-hoc requests, as well as providing greater opportunity for analysis. The reporting demonstrated information which they can currently run and export from the built in fixed reporting structure, as well as examples of alternative views and measures. The group seemed OK with this approach to reporting and the flexibility it provides. The model will be expanded to include members information and Research Briefings data.
+
+Liz also spoke with Fred about supporting the next phase of Research Briefings work, and will keep in touch with him about tying together the data on briefings with the existing data on workloads.
+
+[Samu](https://twitter.com/langsamu) whizzed up a neat solution to not having regex support in dashboard queries. He's built a way of processing search terms and grouping them according to criteria we specify. Liz is very happy about this and would like to say thank you again Samu.
+
+The House of Commons board were positive about a paper [Matias](https://twitter.com/matiasgermanico) and Dan contributed to and now we have to make some dashboards.
+
+### Corporate data
+
+Matias finally went live with a data integration that ties the ticketing system for Parliamentary visits to the finance system. The integration itself was developed in 2015 and the code was live but various hiccups meant we'd never turned it on. He made minor changes and deployed the new code. It is now working.
 
 ### Machines that do learning
 
-There was no one around to teach the machines anything so they took a rest week.
+Ignorant or lazy. We're not sure.
+
+### Capability
+
+Robert joined Julie for a capability planning session.
+
+### Strolls
+
+Robert and Michael took a couple of strolls around Westminster. None of the world was put to rights.
 
 ### Things that caught our eye
 
-There appears to be a general feeling of ennui with the internet this week.
+* [Government open data: what’s the pay off?](https://medium.swirrl.com/government-open-data-whats-the-pay-off-ef6ab87025cc)
+
+* [The State of ML and Data Science 2017](https://www.kaggle.com/surveys/2017)
+
+* [A somewhat chilling proof of concept for fake news](https://www.youtube.com/watch?v=u1fxu5RrM4w)
+
+* [Pulling back the curtain on IT procurement](https://18f.gsa.gov/2017/10/11/pulling-back-the-curtain-on-it-procurement/)
+
+* [How do we measure differences?](https://juliasilge.shinyapps.io/power-app/)
