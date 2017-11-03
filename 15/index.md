@@ -16,7 +16,7 @@ Wednesday was [data day](https://twitter.com/dasbarrett/status/92578137171243008
 
 [Jamie](https://twitter.com/oddtype) came along and we discussed:
 
-* Some ingoing issues with Members’ website and social media links.
+* Some ongoing issues with Members’ website and social media links.
 
 * Further work on search, starting to surface the 'hints' functionality (displaying labels for document types in the first instance).
 
