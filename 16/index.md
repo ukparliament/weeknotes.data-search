@@ -2,7 +2,7 @@
 
 ### [Leave the Capitol](https://www.youtube.com/watch?v=GpMoRS_9bcM)
 
-A reminder that our [5th Parliament, data and democracy meetup](https://attending.io/events/parliament-data-and-democracy-meetup-5) is on Wednesday 6th Decemeber, this time at [ODI Leeds](http://leeds.theodi.org/).
+A reminder that our [5th Parliament, data and democracy meetup](https://attending.io/events/parliament-data-and-democracy-meetup-5) is on Wednesday 6th December, this time at [ODI Leeds](http://leeds.theodi.org/).
 
 More in the way of interesting talks, nice people and [free beer](https://en.wiktionary.org/wiki/free_as_in_beer). Come along. Bring a friend.
 
