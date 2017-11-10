@@ -10,19 +10,19 @@ More in the way of interesting talks, nice people and [free beer](https://en.wik
 
 [Data day](https://twitter.com/dasbarrett/status/928304905697288192) was something of a curate's egg. [Dan](https://twitter.com/dasbarrett) thought it mostly good. Quite frankly Robert found it... challenging.
 
-The new post-data day 'Dan and the developers' session was good. They went through work to do, context, and future plans.
+The new post data day 'Dan and the developers' session was good. They went through work to do, context, and future plans.
 
 The 'work that Data and Search are doing for the website' bit was the smoothest yet. Also definitely more than 10% of the team's time. Some things were agreed:
 
 * Dan and [Jamie](https://twitter.com/oddtype) need to have a conversation with [Emma](https://twitter.com/_allenemma) about uptime and support.
 
-* Dan and Jamie need to have a chat about the technical approach to managing and publishing "content".
+* Dan and Jamie need to have a chat about the technical approach to managing and publishing 'content'.
  
 * We need to decide on how we model committee staff.
 
-* A user need for the bulk download of member photos has emerged. Data and Search have volunteered to do the work required.
+* A user need for the bulk download of Member photos has emerged. Data and Search have volunteered to do the work required.
 
-* We'll continue to prioritise work on divisions and written and oral questions and answers for the members' activity work.
+* We'll continue to prioritise work on divisions and written and oral questions and answers for the Members' activity work.
  
 ### Community
 
@@ -36,15 +36,15 @@ In Ceremony Watch, Dan went to one stand-up this week. [Aidan](https://twitter.c
 
 Dan and Aidan covered all of the Members website product team 'Members activity' 'discovery day'. Dan enjoyed it and thought the energy levels were good. Michael also attended.
 
-There was a brief look at other Parliamentary websites. Dan thought is was funny how they all tended to blur into one and liked the attitude of trying to do something different and better. 
+There was a brief look at other Parliamentary websites. Dan thought it was funny how they all tended to blur into one and liked the attitude of trying to do something different and better. 
 
 ### Domain modelling
 
-[Anya](https://twitter.com/bitten_) and Michael took a second shot at adding comments to the [Formal Body model](https://ukparliament.github.io/ontologies/formal-body/formal-body-ontology.html). This time it seemed to pass the Ed McCarthy test. It still needs to get checked by House of Commons people. And someone needs to decide if House of Commons general committees are similar enough to House of Lords non-select committees to treat as the same thing. At least in the data model.
+[Anya](https://twitter.com/bitten_) and Michael took a second shot at adding comments to the [Formal Body model](https://ukparliament.github.io/ontologies/formal-body/formal-body-ontology.html). This time it seemed to pass the Ed McCarthy test. It still needs to get checked by House of Commons people. And someone needs to decide if House of Commons General Committees are similar enough to House of Lords non-select committees to treat as the same thing. At least in the data model.
 
 Anya and Michael also visited Sally Carter in the House of Lords Hansard office to see how they deal with written questions and answers.
 
-Dan had a good talk with Matt Stutely (head of business systems) about the House of Commons [Register of Members' Financial Interests](https://www.parliament.uk/mps-lords-and-offices/standards-and-financial-interests/parliamentary-commissioner-for-standards/registers-of-interests/register-of-members-financial-interests/). Dan's feeling pretty positive about this. More to follow.
+Dan had a good talk with Matt Stutely (Head of Business Systems Applications) about the House of Commons [Register of Members' Financial Interests](https://www.parliament.uk/mps-lords-and-offices/standards-and-financial-interests/parliamentary-commissioner-for-standards/registers-of-interests/register-of-members-financial-interests/). Dan's feeling pretty positive about this. More to follow.
 
 Ed wrote a 'data principles for business systems’ document in preparation for working on the new bicameral committee business system in the new year.
 
@@ -52,11 +52,11 @@ Ed wrote a 'data principles for business systems’ document in preparation for 
 
 The stable identifier work is now done. So the little strings of text at the end of URLs will no longer change when the data platform gets rebuilt. [The web will thank us](https://www.w3.org/Provider/Style/URI).
 
-Government positions are now live in the data platform and on [beta.parliament.uk](https://beta.parliament.uk) Pages for government departments and answering bodies should follow shortly but we need to import the data first.
+Government positions are now live in the data platform and on [beta.parliament.uk](https://beta.parliament.uk). Pages for government departments and answering bodies should follow shortly but we need to import the data first.
 
 Opposition positions will also be needed at some point in the not too distant future. Data day meeting notes suggest the data modelling work is done here. It isn't but should be shortly.
 
-The first iteration of the ‘search hints’ capability (decorating search results with document types) will be available via the API shortly. The target is for the first changes to website search to be implemented by the end of November.
+The first iteration of the ‘search hints’ capability will be available via the API shortly. The target is for the first changes to website search to be implemented by the end of November.
 
 [Ben](https://twitter.com/benwoodhams) has continued to work on Lords' inflation (still don't ask) which is almost complete. The data will be imported into the data platform and made available to the beta website shortly.
 
@@ -64,9 +64,9 @@ The first iteration of the ‘search hints’ capability (decorating search resu
 
 This week Robert has been mainly having visions about search. [Dia](https://twitter.com/DN78) and Robert continued to work on defining the vision and goals. The team are trying to ensure that the 'vision' for search doesn’t stray too far from the Digital Strategy. It seem to be... going fine. 
 
-Robert spoke with Joe from the content team about search description text and how to improve it. He thinks he may have learned how to "measure success".
+Robert spoke with Joe from the content team about search description text and how to improve it. He thinks he may have learned how to 'measure success'.
 
-Robert also found the usual post-it shuffling ceremonies a little more useful. Which is nice. He also spoke with Jamie on metadata for search spiders on the beta website and is currently working on a note for Jamie’s team on “writing for machines”. Notably this is a note, with very particular goals, not a technical document or backgrounder. It’ll go past Joe in content and anyone else who’s interested before next week.
+Robert also found the usual post-it shuffling ceremonies a little more useful. Which is nice. He also spoke with Jamie on metadata for search spiders on the beta website and is currently working on a note for Jamie’s team on “writing for machines”. Notably this is a note, with very particular goals, not a technical document or backgrounder. It’ll go past Joe in Content and anyone else who’s interested before next week.
 
 A/A testing, which the team wanted to perform before commencing the A/B testing for the display of URLs on search results, has begun. The test is designed to ensure that the analysis tool is communicating with the website.
 
@@ -80,11 +80,11 @@ Anya got back with some observations on Parliamentary Search performance since t
 
 > working fine – no error messages today
 
-It's worth noting that before the migration there were error messages every day.
+Anya says, "It's worth noting that before the migration there were error messages every day."
 
 ### Measuring things
 
-Liz met with [Liz Marley](https://twitter.com/greensideknits) from the House of Commons Library to discuss search terms and vocabulary analysis. This is information they've been wanting to get their hands on for a while to feedback into their work on maintaining and developing the vocabulary. Liz is interested in finding [differences between parliamentary language and search users language](https://en.wikipedia.org/wiki/Folksonomy#Folksonomy_vs._taxonomy). Assorted Lizes talked about the structure of the data that's available in ontology manager (which for the pedantry record is a taxonomy manager, goddam), how often it's updated and how we might approach the analysis by prioritising based on what people are looking for.
+Liz met with [Liz Marley](https://twitter.com/greensideknits) from the House of Commons Library to discuss search terms and vocabulary analysis. This is information they've been wanting to get their hands on for a while to feedback into their work on maintaining and developing the [vocabulary](http://www.data.parliament.uk/dataset/thesauri). Liz is interested in finding [differences between parliamentary language and search users language](https://en.wikipedia.org/wiki/Folksonomy#Folksonomy_vs._taxonomy). Assorted Lizes talked about the structure of the data that's available in Ontology Manager (which for the pedantry record is a taxonomy manager, goddam), how often it's updated and how we might approach the analysis by prioritising based on what people are looking for.
 
 Sara got in contact with Matt Upson from GDS to talk about using [machine learning to categorise user feedback from surveys](https://dataingovernment.blog.gov.uk/2016/12/20/using-machine-learning-to-classify-user-comments-on-gov-uk/). A proper chat will be scheduled.
 
@@ -94,7 +94,7 @@ Wojciech wrote Liz a function to decode search terms. Liz says thank you Wojciec
 
 Wojciech also helped Saffiyah to automate an API call to collect data on surveys and help drill into the House of Commons Library enquiries database.
 
-Liz met with Rosie from the House of Commons Library communications team. Rosie has been working on website analytics for research briefings, providing feedback to producers on how their briefings are viewed. They discussed plans to join together the research briefings database, web analytics and research tracking data and share the model created so library staff can more easily use the information. Rosie had questions on how to serve the different reporting needs of different people with one model, something Matt and Liz talked with Krzystztof about last week.
+Liz met with Rosie from the House of Commons Library communications team. Rosie has been working on website analytics for [research briefings](https://researchbriefings.parliament.uk/), providing feedback to producers on how their briefings are viewed. They discussed plans to join together the research briefings database, web analytics and research tracking data and share the model created so library staff can more easily use the information. Rosie had questions on how to serve the different reporting needs of different people with one model, something Matt and Liz talked with Krzystztof about last week.
 
 Ben and Michael had a meeting with [Edward Wood](https://twitter.com/edwardwood99) from the House of Commons Library to chat about analytics and privacy.
 
@@ -114,9 +114,7 @@ Robert and Michael took another stroll around Westminster. Nothing was resolved 
 
 ### What's Samu reading?
 
-Samu read [The Hollow Men II: Some reflections on Westminster and Whitehall dysfunction](https://dominiccummings.com/2014/10/30/the-hollow-men-ii-some-reflections-on-westminster-and-whitehall-dysfunction/) by Dominic Cummings. He wasn't quite convinced that Dominic could be described as a sober critic, but thought the writing was good and eerily relevant to our work life. E.g. "This connection between core skills and the nightmare world of 'HR' is vital but practically ignored in all analyses of the civil service [...]"
-
-He also read the [Programmers' Handbook for Manchester Electronic Computer Mark II](http://www.alanturing.net/turing_archive/archive/m/m01/M01-001.html) by Alan Turing (though not all of it), which he found fascinating. It shows that iterative development was not invented recently: "At the time of writing, comparatively little programming has been done with the Mark II machine. It is hoped to issue supplements consisting of particular routines from time to time." Samu has the feeling it explains why we use the slash (/) so extensively in computing. Turing chose / to stand for the 00000 teleprinter code, which means "no effect". You can imagine lots of all-zero sequences in machine code. There's also a [transcript here](http://curation.cs.manchester.ac.uk/computer50/www.computer50.org/kgill/mark1/RobertTau/turing.html).
+Samu read the [Programmers' Handbook for Manchester Electronic Computer Mark II](http://www.alanturing.net/turing_archive/archive/m/m01/M01-001.html) by Alan Turing (though not all of it), which he found fascinating. It shows that iterative development was not invented recently: "At the time of writing, comparatively little programming has been done with the Mark II machine. It is hoped to issue supplements consisting of particular routines from time to time." Samu has the feeling it explains why we use the slash (/) so extensively in computing. Turing chose / to stand for the 00000 teleprinter code, which means "no effect". You can imagine lots of all-zero sequences in machine code. There's also a [transcript here](http://curation.cs.manchester.ac.uk/computer50/www.computer50.org/kgill/mark1/RobertTau/turing.html).
 
 ### Things that caught our eye
 
