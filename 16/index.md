@@ -72,7 +72,7 @@ A/A testing, which the team wanted to perform before commencing the A/B testing 
 
 Dia will be presenting at [Product People on Monday](https://www.eventbrite.co.uk/e/product-people-november-2017-meet-up-in-london-tickets-38719744799) which the product management team at PDS are hosting.
 
-Anya got back with some observations on Parliamentary Search performance since the migration to the cloud:
+Anya got back with some observations on the performance of Parliamentary Search (a search service available to internal users only) since the migration to the cloud:
 
 > I’ve noticed that it is quicker at retrieving search results, so much so that the first couple of times I used search this morning I hadn’t realised that the previous search results had been replaced with new ones.
 
