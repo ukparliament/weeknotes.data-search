@@ -52,7 +52,7 @@ Ed wrote a 'data principles for business systems’ document in preparation for 
 
 The stable identifier work is now done. So the little strings of text at the end of URLs will no longer change when the data platform gets rebuilt. [The web will thank us](https://www.w3.org/Provider/Style/URI).
 
-Government positions are now live in the data platform and on [beta.parliament.uk](beta.parliament.uk) Pages for government departments and answering bodies should follow shortly but we need to import the data first.
+Government positions are now live in the data platform and on [beta.parliament.uk](https://beta.parliament.uk) Pages for government departments and answering bodies should follow shortly but we need to import the data first.
 
 Opposition positions will also be needed at some point in the not too distant future. Data day meeting notes suggest the data modelling work is done here. It isn't but should be shortly.
 
@@ -94,7 +94,7 @@ Wojciech wrote Liz a function to decode search terms. Liz says thank you Wojciec
 
 Wojciech also helped Saffiyah to automate an API call to collect data on surveys and help drill into the House of Commons Library enquiries database.
 
-Liz met with Rosie from the House of Commons Library communications team. Rosie has been working on website analytics for research briefings, providing feedback to producers on how their briefings are viewed. We discussed plans to join together the research briefings database, web analytics and research tracking data and share the model created so they can more easily use the information. Rosie had questions on how to serve the different reporting needs of different people with one model, something Matt and Liz talked with Krzystztof about last week.
+Liz met with Rosie from the House of Commons Library communications team. Rosie has been working on website analytics for research briefings, providing feedback to producers on how their briefings are viewed. They discussed plans to join together the research briefings database, web analytics and research tracking data and share the model created so library staff can more easily use the information. Rosie had questions on how to serve the different reporting needs of different people with one model, something Matt and Liz talked with Krzystztof about last week.
 
 Ben and Michael had a meeting with [Edward Wood](https://twitter.com/edwardwood99) from the House of Commons Library to chat about analytics and privacy.
 
