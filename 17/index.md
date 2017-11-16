@@ -32,13 +32,17 @@ In Ceremony Watch (TM) Dan, [Aidan](http://twitter.com/aidan_morgan) and Michael
 
 Dan met with Bryony, Callum, and Jenna from the Members' activity website product team to talk about existing data and systems. Robert also met with them to chat about the [They Work For You API](https://www.theyworkforyou.com/api/). And related matters. It says here.
 
+On Thursday Chris, Mike, and Wojciech also met Jenna and Bryony to discuss Members' activities discovery work.
+
+Team:Samu worked with the Business Systems team to help them launch a new application. Mike made sure the data is correctly structured and that all the data pushing and pulling from the new system into [data.parliament](http://www.data.parliament.uk/) and our Indexing and Search application is correct.
+
 ### Domain modelling
 
 Anya, Silver and Michael continued to peer at questions and answers. What was a written question and answer model for Parliamentary Questions is now an attempt to cover both [oral and written PQs as well as urgent questions and business questions](https://ukparliament.github.io/ontologies/question-and-answer/question-and-answer-ontology.html). It still needs idiot / sanity checking.
 
 ### Data platform
 
-
+On Wednesday Samu met with [Jamie](https://twitter.com/oddtype) and [Matt](https://twitter.com/mattrayner) for a technical meeting with a vendor we're assessing for providing content management as a service to the new website. Jamie led the discussion with the vendor's solution architect. Samu thinks it's looking really good and he's excited about integrating 'content' to our data offering.
 
 ### Search
 
