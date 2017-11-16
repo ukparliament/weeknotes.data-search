@@ -60,6 +60,8 @@ Raphael met with [Laurence](https://twitter.com/laurencegrinyer), [Franny](https
 
 Robert caught up with Dia, went to a search team retrospective and sprint planning, and met with the Content team to work out how we work with the new search console. Or whatever it’s called. Robert's Massive Dell was not running Windows 10 and apparently wanted to be. Some time was spent watching cogs turn. In other technology related news we repeatedly lost part of the internet.
 
+Michael continued to chummer that the best way to improve search is to spend the time making the right [resources addressable](https://en.wikipedia.org/wiki/Web_resource) and improving browse and [crawlability](https://en.wikipedia.org/wiki/Web_crawler). He has a strong feeling that the search roadmap and the browse roadmap need to be better aligned because they are not different things.
+
 ### Measuring things
 
 Robert went along to an introduction to research methods session run by Franny. He strongly believes in life-long learning.
