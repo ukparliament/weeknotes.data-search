@@ -4,7 +4,7 @@
 
 Another reminder that our [5th Parliament, data and democracy meetup](https://attending.io/events/parliament-data-and-democracy-meetup-5) is on Wednesday 6th December, this time at [ODI Leeds](http://leeds.theodi.org/).
 
-Speakers this time are our [Dan](https://twitter.com/dasbarrett), [Cristina Leston-Bandeira](https://twitter.com/estrangeirada) (Professor of Politics at the University of Leeds), Tom Forth (Head of Data at ODI Leeds) and [Edward Wood](https://twitter.com/edwardwood99) (Director of Research in the House of Commons Library).
+Speakers this time are our [Dan](https://twitter.com/dasbarrett), [Cristina Leston-Bandeira](https://twitter.com/estrangeirada) (Professor of Politics at the University of Leeds), [Tom Forth](https://twitter.com/thomasforth) (Head of Data at ODI Leeds) and [Edward Wood](https://twitter.com/edwardwood99) (Director of Research in the House of Commons Library).
 
 More in the way of interesting talks, nice people and [free beer](https://en.wiktionary.org/wiki/free_as_in_beer). Come along. Bring a friend.
  
@@ -14,7 +14,7 @@ On Wednesday [Anya](https://twitter.com/bitten_), [Liz](https://twitter.com/gree
 
 They also spoke about longer term plans to map non-taxonomic Parliamentary things to Wikidata. Eventually we'd like to see Wikidata carrying identifiers and linking to Parliamentary concepts (taxonomic and non-taxonomic), the Parliament website publishing [sameAs](http://schema.org/sameAs) links to Wikidata, and users able to lookup Parliamentary things from Wikidata IDs (see the [lookup url pattern here](https://github.com/ukparliament/ontologies/blob/master/urls.csv)). It will all help to make the Parliament website more interlinked and more interoperable with the wider web. Which is a good thing.
 
-On Tuesday Anya, [Silver](https://twitter.com/silveroliver), [Samu](https://twitter.com/langsamu), [Chris](https://twitter.com/chrisalcockdev) and [Raphael](raphaelleung) met with [Jonathan](https://twitter.com/jonathantweed) and [Alice](https://twitter.com/superprotta) from the [Wellcome Trust](https://wellcome.ac.uk/), [Nicholas](https://twitter.com/njh) from the BBC and [Andy](https://twitter.com/mr_dudders) from the [ONS](https://www.ons.gov.uk/). They chatted about publishing open data in general, about [JSON-LD](https://en.wikipedia.org/wiki/JSON-LD) in particular, and about spotting publishing patterns even where underlying technology is very different.
+On Tuesday Anya, [Silver](https://twitter.com/silveroliver), [Samu](https://twitter.com/langsamu), [Chris](https://twitter.com/chrisalcockdev) and [Raphael](https://twitter.com/raphaelleung) met with [Jonathan](https://twitter.com/jonathantweed) and [Alice](https://twitter.com/superprotta) from the [Wellcome Trust](https://wellcome.ac.uk/), [Nicholas](https://twitter.com/njh) from the BBC and [Andy](https://twitter.com/mr_dudders) from the [ONS](https://www.ons.gov.uk/). They chatted about publishing open data in general, about [JSON-LD](https://en.wikipedia.org/wiki/JSON-LD) in particular, and about spotting publishing patterns even where the underlying technology is very different.
 
 Dan committed the team to looking at [Deposited Papers](https://www.parliament.uk/depositedpapers) after some [constructive criticism](https://twitter.com/owenboswarva/status/929715010498125825) on social media from [Owen Boswarva](https://twitter.com/owenboswarva).
 
@@ -54,7 +54,7 @@ On Monday PDS hosted the Product People event. Dia presented the new website sea
 
 Liz presented her work analysing search feedback at the Data and Search show and tell. Dia gave an introduction.
 
-Raphael met with Laurence, Franny, and Joe from the search product team to discuss hints. He answered questions around some of the technical constraints and checked with Samu, Matt, Uzman and Robert before deploying hints to both branches of the Search API. It all works as expected and nothing's broken. At least nothing that anyone's noticed. Search hints should be surfacing on the website fairly soon.
+Raphael met with [Laurence](https://twitter.com/laurencegrinyer), [Franny](https://twitter.com/eff_shaped), and Joe from the search product team to discuss hints. He answered questions around some of the technical constraints and checked with Samu, Matt, Uzman and Robert before deploying hints to both branches of the Search API. It all works as expected and nothing's broken. At least nothing that anyone's noticed. Search hints should be surfacing on the website fairly soon.
 
 Robert caught up with Dia, went to a search team retrospective and sprint planning, and met with the Content team to work out how we work with the new search console. Or whatever it’s called. Robert's Massive Dell was not running Windows 10 and apparently wanted to be. Some time was spent watching cogs turn. In other technology related news we repeatedly lost part of the internet.
 
