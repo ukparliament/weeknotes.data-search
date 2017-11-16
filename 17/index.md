@@ -18,6 +18,8 @@ On Tuesday Anya, [Silver](https://twitter.com/silveroliver), [Samu](https://twit
 
 Dan committed the team to looking at [Deposited Papers](https://www.parliament.uk/depositedpapers) after some [constructive criticism](https://twitter.com/owenboswarva/status/929715010498125825) on social media from [Owen Boswarva](https://twitter.com/owenboswarva).
 
+Chris and Raphael wrote a post about our [recent trip to Open Data Camp in Belfast](https://pds.blog.parliament.uk/2017/11/15/open-data-camp-in-belfast/). It's good, you should read it.
+
 ### Corpcomms
 
 Dan and [Julie](https://twitter.com/julietouring) would like it to be known they're putting more effort into Yammer. I don't know either.
