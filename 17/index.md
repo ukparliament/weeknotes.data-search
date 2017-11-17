@@ -4,7 +4,7 @@
 
 Another reminder that our [5th Parliament, data and democracy meetup](https://attending.io/events/parliament-data-and-democracy-meetup-5) is on Wednesday 6th December, this time at [ODI Leeds](http://leeds.theodi.org/).
 
-Speakers this time are our [Dan](https://twitter.com/dasbarrett), [Cristina Leston-Bandeira](https://twitter.com/estrangeirada) (Professor of Politics at the University of Leeds), [Tom Forth](https://twitter.com/thomasforth) (Head of Data at ODI Leeds) and [Edward Wood](https://twitter.com/edwardwood99) (Director of Research in the House of Commons Library).
+Speakers lined up are our [Dan](https://twitter.com/dasbarrett), [Cristina Leston-Bandeira](https://twitter.com/estrangeirada) (Professor of Politics at the University of Leeds), [Tom Forth](https://twitter.com/thomasforth) (Head of Data at ODI Leeds) and [Edward Wood](https://twitter.com/edwardwood99) (Director of Research in the House of Commons Library).
 
 More in the way of interesting talks, nice people and [free beer](https://en.wiktionary.org/wiki/free_as_in_beer). Come along. Bring a friend.
  
