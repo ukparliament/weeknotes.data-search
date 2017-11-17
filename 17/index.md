@@ -106,7 +106,7 @@ Nope. Or not in my earshot.
 
 On Monday, Dan and Robert went for a stroll around Westminster and spoke about search and work and life.
 
-Anya, Robert and Michael took the opportunity of being in Cambridge to stroll round the [Botanical Gardens](http://www.botanic.cam.ac.uk/Botanic/Home.aspx). Which was most pleasant.
+Anya, Robert and Michael took the opportunity of being in Cambridge to stroll round the [Botanical Gardens](http://www.botanic.cam.ac.uk/Botanic/Home.aspx). Which was [most pleasant](https://twitter.com/bitten_/status/931552786671472640).
 
 ### Things that caught our eye
 
