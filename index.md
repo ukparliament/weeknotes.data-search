@@ -1,5 +1,6 @@
 ## UK Parliament data and search weeknotes
 
+* [Week 17: 17-11-2017](17)
 * [Week 16: 10-11-2017](16)
 * [Week 15: 03-11-2017](15)
 * [Week 14: 27-10-2017](14)
