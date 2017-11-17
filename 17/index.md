@@ -42,7 +42,7 @@ On Thursday Chris, Mike, and Wojciech also met Jenna and Bryony to discuss Membe
 
 Team:Samu worked with the Business Systems team to help them launch a new application. Mike made sure the data is correctly structured and that all the data pushing and pulling from the new system into [data.parliament](http://www.data.parliament.uk/) and our Indexing and Search application is correct.
 
-Aidan spent his first day sitting with the Indexing and Data Management Section in the House of Commons Library. He's planning to work there for a day a week helping to plan future.
+Aidan spent his first day sitting with the Indexing and Data Management Section in the House of Commons Library. He's planning to work there for a day a week helping to plan future work.
 
 Aidan also did some procurement stuff. Which is what business people call buying things. Although it seems to be harder for business people than normal people. Oddly.
 
