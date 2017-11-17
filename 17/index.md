@@ -10,7 +10,7 @@ More in the way of interesting talks, nice people and [free beer](https://en.wik
  
 ### Community
 
-On Wednesday [Anya](https://twitter.com/bitten_), [Liz](https://twitter.com/greensideknits), Robert and [Michael](https://twitter.com/fantasticlife) took a trip to Cambridge to meet [Andrew Gray](https://twitter.com/generalising). They plotted and sketched on how we might align the [Parliament Thesuri](http://www.data.parliament.uk/dataset/thesauri) to [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page) concepts. There is now a plan to give Andrew a spreadsheet of the thesauri ID(s), the preferred term, any scope notes, the class of the thing (person, organisation, something else), any non-preferred terms and the number of times the concept has been used to tag content. Andrew will then run an auto-match script against Wikidata and Liz and team will check and add Wikidata identifiers against our taxonomic concepts. Andrew will then take approved matches and add Thesauri IDs to Wikidata.
+On Wednesday [Anya](https://twitter.com/bitten_), [Liz](https://twitter.com/greensideknits), Robert and [Michael](https://twitter.com/fantasticlife) took a trip to Cambridge to meet [Andrew Gray](https://twitter.com/generalising). They plotted and sketched on how we might align the [Parliament Thesauri](http://www.data.parliament.uk/dataset/thesauri) to [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page) concepts. There is now a plan to give Andrew a spreadsheet of the thesauri ID(s), the preferred term, any scope notes, the class of the thing (person, organisation, something else), any non-preferred terms and the number of times the concept has been used to tag content. Andrew will then run an auto-match script against Wikidata and Liz and team will check and add Wikidata identifiers against our taxonomic concepts. Andrew will then take approved matches and add thesauri IDs to Wikidata.
 
 They also spoke about longer term plans to map non-taxonomic Parliamentary things to Wikidata. Eventually we'd like to see Wikidata carrying identifiers and linking to Parliamentary concepts (taxonomic and non-taxonomic), the Parliament website publishing [sameAs](http://schema.org/sameAs) links to Wikidata, and users able to lookup Parliamentary things from Wikidata IDs (see the [lookup url pattern here](https://github.com/ukparliament/ontologies/blob/master/urls.csv)). It will all help to make the Parliament website and data more interlinked and more interoperable with the wider web. And in a spirit of enlightened self-interest, establishing equivalence between Parliamentary things and Wikidata things will couple us to the [Google Knowledge Graph](https://en.wikipedia.org/wiki/Knowledge_Graph) which uses Wikidata for descriptions of core concepts. So Parliamentary material should be more discoverable via web search. At some unspecified date in the future. Given we're making a website and not a CD-ROM, this is a good thing.
 
@@ -40,7 +40,7 @@ Dan met with Bryony, Callum, and Jenna from the Members' activity website produc
 
 On Thursday Chris, Mike, and Wojciech also met Jenna and Bryony to discuss Members' activities discovery work.
 
-Team:Samu worked with the Business Systems team to help them launch a new application. Mike made sure the data is correctly structured and that all the data pushing and pulling from the new system into [data.parliament](http://www.data.parliament.uk/) and our Indexing and Search application is correct.
+Team:Samu worked with the Business Systems team to help them launch a new application. Mike, [Phil](https://twitter.com/philbgorman) and Liz made sure the data is correctly structured and that all the data pushing and pulling from the new system into [data.parliament](http://www.data.parliament.uk/) and our Indexing and Search application is correct.
 
 Aidan spent his first day sitting with the Indexing and Data Management Section in the House of Commons Library. He's planning to work there for a day a week helping to plan future work.
 
@@ -52,15 +52,21 @@ Anya, Silver and Michael continued to peer at questions and answers. What was a 
 
 ### Data platform
 
-On Wednesday Samu met with [Jamie](https://twitter.com/oddtype) and [Matt](https://twitter.com/mattrayner) for a technical meeting with a vendor we're assessing for providing content management as a service to the new website. Jamie led the discussion with the vendor's solution architect. Samu thinks it's looking really good and he's excited about integrating 'content' to our data offering.
+On Wednesday, Samu met with [Jamie](https://twitter.com/oddtype) and [Matt](https://twitter.com/mattrayner) for a technical meeting with a vendor we're assessing for providing content management as a service to the new website. Jamie led the discussion with the vendor's solution architect. Samu thinks it's looking really good and he's excited about integrating 'content' to our data offering.
+
+[Jianhan](https://twitter.com/jianhanzhu) worked on an [OData](https://en.wikipedia.org/wiki/Open_Data_Protocol) service for the data platform API. He wrote code to map OData query options to [SPARQL queries](https://en.wikipedia.org/wiki/SPARQL) and return data to be consumed by users. The OData service is generic with all classes and their inheritances generated programmatically from underlying data models.
 
 ### Search
+
+#### Parliamentary material search
 
 We went live last week with the migrated search systems which were shifted from our old cloud provider to our new one. We took advantage of the opportunity to, where possible, move to [PaaS](https://en.wikipedia.org/wiki/Platform_as_a_service) solutions such as containers. We also updated web servers, operating systems, etc.
  
 The move is showing cost savings of over 90%. Which is not to be sniffed at. We were also surprised by the performance improvement, which stands at around 2-3 times as fast. We now have control over things we previously didn't such as networking and security, and have access to metrics and monitoring which means we can pursue things like automated solutions to common problems.
 
-Alex, Mike and Samu spent some time investigating an error report for Parliamentary Search (a search service available to internal users only) where searching between two dates ignores the 'from' part of the date filter. Making it half-useless. Unfortunately they couldn’t find any quick workarounds or hacks so they queried the index directly and exported the search results for the user as a short term fix. Samu realised that it would be possible for us to create something to query the index as a longer term workaround.
+Alex, Mike and Samu spent some time investigating an error report from an external user for the [Parliamentary material search](http://search-material.parliament.uk/). Searching between two dates ignores the 'from' part of the date filter. Making it half-useless. Unfortunately they couldn’t find any quick workarounds or hacks so they queried the index directly and exported the search results for the user as a short term fix. Samu realised that it would be possible for us to create something to query the index as a longer term workaround.
+
+#### Web search
 
 On Monday PDS hosted the Product People event. Dia presented the new website search and demoed the [dungerous doogs](https://beta.parliament.uk/search?q=dungerous+doogs) query. It went well.
 
@@ -75,6 +81,8 @@ Michael continued to chummer that the best way to improve search is to spend the
 ### Measuring things
 
 Robert went along to an introduction to research methods session run by Franny. He strongly believes in life-long learning.
+
+Liz met with Alison Penman to chat about how workload reporting for House of Commons Library enquiries could be used to replace some of her monthly reporting tasks. Saving many hours of her time. And how real-time reporting might be able to be used 'live' in meetings rather than having to prepare separate reports for each team.
 
 Saffiyah did some work in our new analysis tool looking at downloads for search sessions and some other parameters. She also met with Joe Foster to discuss the House of Common Library Enquiries database.
 
@@ -96,7 +104,7 @@ Nope. Or not in my earshot.
 
 ### Strolls
 
-On Monday Dan and Robert went for a stroll around Westminster and spoke about search and work and life.
+On Monday, Dan and Robert went for a stroll around Westminster and spoke about search and work and life.
 
 Anya, Robert and Michael took the opportunity of being in Cambridge to stroll round the [Botanical Gardens](http://www.botanic.cam.ac.uk/Botanic/Home.aspx). Which was most pleasant.
 
@@ -112,4 +120,9 @@ Anya, Robert and Michael took the opportunity of being in Cambridge to stroll ro
 
 * [Nemawashi](https://en.wikipedia.org/wiki/Nemawashi)
 
+* [Computer says no: why making AIs fair, accountable and transparent is crucial](https://www.theguardian.com/science/2017/nov/05/computer-says-no-why-making-ais-fair-accountable-and-transparent-is-crucial)
+
 * [The Buzzcocks - What Do I Get?](https://www.youtube.com/watch?v=-EEPvXlTUnU)
+
+
+
