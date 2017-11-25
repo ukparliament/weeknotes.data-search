@@ -82,11 +82,11 @@ Sara has been analysing application insights data, particularly the photo API re
 
 Aidan got approval for an ADSL line for the team, to help support development and DevOps activities.
 
-### Did the machines learn owt
+### Did the machines learn owt?
 
 Did they heck.
 
-### Did anyone say blockchain
+### Did anyone say blockchain?
 
 Nope. Unlike the machines, we're not thick.
 
