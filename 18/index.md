@@ -70,7 +70,7 @@ Angela and Michael continued with the autopsy of Red Book (a database used by th
 
 ### Search
 
-[Dia](https://twitter.com/DN78) worked on the first draft of the search strategy, vision and the goals. The plan is to align them to [Parliament's digital strategy](https://www.parliament.uk/mps-lords-and-offices/offices/bicameral/parliamentary-digital-service/digital-strategy-for-parliament/).
+[Dia](https://twitter.com/DN78) worked on the first draft of the search strategy, vision and the goals. The plan is to align them to [Parliament's Digital Strategy](https://www.parliament.uk/mps-lords-and-offices/offices/bicameral/parliamentary-digital-service/digital-strategy-for-parliament/).
 
 Michael wrote [a post about our general approach to search](http://smethur.st/posts/176135866). And browse. S'ok. If reading this is your thing you should read that. Definitely.
 
