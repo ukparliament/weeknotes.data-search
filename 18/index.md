@@ -66,7 +66,7 @@ Angela and Michael continued with the autopsy of Red Book (a database used by th
 
 [Ben](https://twitter.com/benwoodhams) has almost completed work on Lords' Inflation (still really don't ask). Expect floating baronesses over Westminster shortly. The next step is to get a seal of approval from [David Beamish](https://en.wikipedia.org/wiki/David_Beamish). Chris has been working on extensions within the platform but needs the final go ahead from Ben before proceeding with work to import the data.
 
-[Raphael](https://twitter.com/raphaelleung) worked on running the [Berlin SPARQL Benchmark (BSBM)](http://wifo5-03.informatik.uni-mannheim.de/bizer/berlinsparqlbenchmark/spec/), which measures the performance of storage systems that expose SPARQL endpoints.  He's testing it against endpoints set up on our services, building on Matthieu's performance testing. He'd like to find out the key variables (specifically different inference rulesets) that affect the performance of the triplestore setups that are available to us. He's using non-Parliamentary data from a recognized benchmark. He spelt recognised wrong.
+[Raphael](https://twitter.com/raphaelleung) worked on running the [Berlin SPARQL Benchmark (BSBM)](http://wifo5-03.informatik.uni-mannheim.de/bizer/berlinsparqlbenchmark/spec/), which measures the performance of storage systems that expose SPARQL endpoints.  He's testing it against endpoints set up on our services, building on Matthieu's performance testing. He'd like to find out the key variables (specifically different inference rulesets) that affect the performance of the triplestore setups that are available to us. He's using non-Parliamentary data from a recognised benchmark.
 
 ### Search
 
