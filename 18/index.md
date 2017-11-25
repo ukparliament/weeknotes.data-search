@@ -76,10 +76,6 @@ Michael wrote [a post about our general approach to search](http://smethur.st/po
 
 Sara has been analysing application insights data, particularly the photo API requests. Samu and Matthieu made changes to the tracking code on the website that enables sharing analytics across subdomains. Which, in the case of photos, are served from api.parliament.uk. Once the tracking code is changed, we will be able to correlate page views with photo requests. We can then track if an API call was made from the beta website or from external users.
 
-### Capability
-
-Aidan got approval for an ADSL line for the team, to help support development and DevOps activities.
-
 ### Did the machines learn owt?
 
 Did they heck.
