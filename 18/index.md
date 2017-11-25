@@ -38,8 +38,6 @@ People from the website team came along and some stuff was agreed:
 
 * Michael needs to chat with [Ed](https://twitter.com/ewhitur) and Angela about modelling committee staff and associated privacy concerns.
 
-* The old website search will be turned off in the next two weeks.
-
 * Work will continue on making Deposited Papers searchable. Letting search bots into selected bits of data.parliament will be the first step.
 
 ### Corpcomms
