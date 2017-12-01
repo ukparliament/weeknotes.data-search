@@ -16,9 +16,9 @@ Dan didn't get to follow up on the multiple international leads he got in Geneva
 
 Robert popped out to see [Libby Miller](https://twitter.com/libbymiller). Libby made a [terrible music box](https://twitter.com/libbymiller/status/931570611536703488). Robert supplied the box. 
 
-Michael met with Edward Wood and a PhD student from [King's](https://www.kcl.ac.uk/index.aspx) who's looking at social media engagement with Parliament. Several proxies were discussed.
+[Michael](https://twitter.com/fantasticlife) met with Edward Wood and a PhD student from [King's](https://www.kcl.ac.uk/index.aspx) who's looking at social media engagement with Parliament. Several proxies for engagement were discussed.
 
-Anya and Michael met with [Stephen Betts](https://twitter.com/stephenbetts) from the NYPL to talk about libraries and archives and [searching and browsing](http://smethur.st/posts/176135866). Dan popped by to say hello.
+[Anya](https://twitter.com/bitten_) and Michael met with [Stephen Betts](https://twitter.com/stephenbetts) from the [NYPL](https://www.nypl.org) to talk about libraries and archives and [searching and browsing](http://smethur.st/posts/176135866). Dan popped by to say hello.
 
 ### Corpcomms
 
@@ -30,15 +30,15 @@ Nobody knows mate.
 
 ### One world, one web, one team
 
-Aidan and Dan were both low on ceremony attendance this week. Because of circumstances. Michael went to several. [Pazuzu](https://en.m.wikipedia.org/wiki/Pazuzu) was still un-summoned. [Cthulhu](https://en.wikipedia.org/wiki/Cthulhu) popped by but just sat there yawning.
+[Aidan](https://twitter.com/aidan_morgan) and Dan were both low on ceremony attendance this week. Because of circumstances. Michael went to several. [Pazuzu](https://en.m.wikipedia.org/wiki/Pazuzu) was still un-summoned. [Cthulhu](https://en.wikipedia.org/wiki/Cthulhu) popped by but just sat there yawning.
 
 Michael gave his talk on web and information architecture to a variety of designers and product managers and etc. Many [clouds got yelled at](http://i0.kym-cdn.com/photos/images/original/001/044/247/297.png).
 
-Anya and Michael gave the website team an update on progress with the question and answer model. It seemed to go quite well. Anya has offered to show a couple of the developers the Q&A system.
+Anya and Michael gave the website team an update on progress with the [question and answer model]((https://ukparliament.github.io/ontologies/question-and-answer/question-and-answer-ontology.html). It seemed to go quite well. Anya has offered to give a couple of the team a tour round the Q&A system.
 
 ### Domain modelling
 
-Anya and Michael continued to tidy up the [domain model for Questions](https://ukparliament.github.io/ontologies/question-and-answer/question-and-answer-ontology.html). And indeed answers.
+Anya and Michael continued to tidy up the domain model for Questions. And indeed answers.
 
 On Thursday they were joined by Ned who was very helpful arounds questions of declarations of interest and 'tabling' in general. Thanks Ned. They've now pulled out [tabling into a separate model](https://ukparliament.github.io/ontologies/tabling/tabling-ontology.html). Though it's still in need of comments.
 
@@ -48,21 +48,21 @@ Angela and Michael did a little more work autopsying the House of Commons commit
 
 ### Data platform
 
-Alex wrote a couple of scripts to aid the task of manually processing missing Oral or Written Parliamentary Questions. Currently a lot of questions aren't being automatically processed every day due to a date issue within the question files. After having some issues at first, Samu helped to make the code more functional, and after a (nearly) complete rewrite the scripts were ready for every-day use.
+[Alex](https://twitter.com/alexedwardh) wrote a couple of scripts to aid the task of manually processing missing Oral or Written Parliamentary Questions. Currently a lot of questions aren't being automatically processed due to a date issue within the question files. After having some issues at first, [Samu](https://twitter.com/langsamu) helped to make the code more functional, and after a (nearly) complete rewrite the scripts were ready for every-day use.
 
 The first script works by scraping our public [Oral](https://publications.parliament.uk/pa/cm/cmfutoral/futoral.htm) and [Written](http://www.parliament.uk/business/publications/written-questions-answers-statements/written-questions-answers/?page=1&max=100) data sources to find the relevant UINs for a specific date. These UINs are then sent in JSON form with some other identifying data to [MyJSON.com](http://myjson.com/) (a public JSON store + API). The second script then accesses this JSON data and compares the UIN values against those in the private RDF feed. It then automatically downloads and renames the missing RDF files, ready for processing.
 
-Jianhan continued working on the [OData](http://www.odata.org/) service which now supports most of OData query options.
+[Jianhan](https://twitter.com/jianhanzhu) continued working on the [OData](http://www.odata.org/) service which now supports most of OData query options.
 
-Raphael continued with the [Berlin SPARQL benchmark tests](http://wifo5-03.informatik.uni-mannheim.de/bizer/berlinsparqlbenchmark/). He contacted the triplestore vendor to confirm some behaviour that was causing issues in the test. 
+[Raphael](https://twitter.com/raphaelleung) continued with the [Berlin SPARQL benchmark tests](http://wifo5-03.informatik.uni-mannheim.de/bizer/berlinsparqlbenchmark/). He contacted the triplestore vendor to confirm some behaviour that was causing issues in the test. 
 
-Chris gave Robert an education of assorted graph issues.
+[Chris](https://twitter.com/chrisalcockdev) gave Robert an education on assorted graph issues.
 
 ### Search
 
-Dia and Robert wrote a first draft of 'a strategy note for search’ which they're trying to align with the [Digital Strategy](https://www.parliament.uk/mps-lords-and-offices/offices/bicameral/parliamentary-digital-service/digital-strategy-for-parliament/).
+[Dia](https://twitter.com/DN78) and Robert wrote a first draft of 'a strategy note for search’ which they're trying to align with the [Digital Strategy](https://www.parliament.uk/mps-lords-and-offices/offices/bicameral/parliamentary-digital-service/digital-strategy-for-parliament/).
 
-Jamie, Robert and Michael met to chat about search and browse and URLs and subsidiary resources and stuff.
+[Jamie](https://twitter.com/oddtype), Robert and Michael met to chat about search and browse and URLs and subsidiary resources and stuff.
 
 The first step in making [Deposited Papers](https://www.parliament.uk/depositedpapers) searchable happened.
 
@@ -72,7 +72,7 @@ Sara spent time analysing the A/B testing results for search. The analysis softw
 
 ### Corporate data
 
-Mat helped the finance team with the integration of the backend of the new online shop with sales processing.
+[Mat](https://twitter.com/matiasgermanico) helped the finance team with the integration of the backend of the new online shop with sales processing.
 
 He met with Sam Jones and provided all the details on the EPMO (something about enterprise and projects and management and offices) dashboard.
 
@@ -84,7 +84,7 @@ Mat raised the fact that the House of Lords finance system does not have any int
 
 ### Capability
 
-Julie, Sara, Mattieu, Chris and Dan went along to the Silicon Milkroundabout recruitment event. Lots of people registered an interest. Julie would like to say thank you to all who helped.
+[Julie](https://twitter.com/julietouring), Sara, Mattieu, Chris and Dan went along to the Silicon Milkroundabout recruitment event. Lots of people registered an interest. Julie would like to say thank you to all who helped.
 
 Julie and Aidan started the Dynamic Purchasing framework conversation.
 
@@ -94,7 +94,7 @@ Not strictly speaking.
 
 Raphael started a series of write ups on the [NLP](https://en.wikipedia.org/wiki/Natural_language_processing) and supervised learning aspects of the data toolkit.
 
-Michael tried to understand how much learning the machines might have done but the whole conversation turned into a taxonomy of data science and MI.
+Michael tried to understand how much learning the machines might have done but the whole conversation turned into a taxonomy of data science and ML.
 
 I think it's safe to say the singularity will not start here.
 
