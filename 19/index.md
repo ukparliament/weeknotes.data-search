@@ -56,7 +56,7 @@ Angela and Michael did a little more work autopsying the House of Commons commit
 
 ### Search
 
-#### Parliamentary material search
+#### Parliamentary search
 
 [Alex](https://twitter.com/alexedwardh) wrote a couple of scripts to aid the task of manually processing missing oral and written parliamentary questions. Currently a lot of questions aren't being automatically processed due to a date issue within the question files. After having some issues at first, [Samu](https://twitter.com/langsamu) helped to make the code more functional, and after a (nearly) complete rewrite the scripts were ready for every day use.
 
@@ -72,7 +72,7 @@ The first step in making [Deposited Papers](https://www.parliament.uk/depositedp
 
 ### Measuring things
 
-Sara spent time analysing the A/B testing results for search. The analysis software has limitations when it comes to calculating certain statistical measures (median absolute deviation for example) or statistical tests (t-tests, power analysis). That said it allows you to run [R scripts](https://docs.microsoft.com/en-us/power-bi/desktop-r-scripts) which means we can do the analysis in a single environment. Apparently this is good.
+Sara spent time analysing the A/B testing results for search. The analysis software has limitations when it comes to calculating certain statistical measures (median absolute deviation for example) or statistical tests (t-tests, power analysis). That said, it allows you to run [R scripts](https://docs.microsoft.com/en-us/power-bi/desktop-r-scripts) which means we can do the analysis in a single environment. Apparently this is good.
 
 ### Corporate data
 
