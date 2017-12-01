@@ -38,7 +38,7 @@ Anya and Michael gave the website team an update on progress with the [question 
 
 ### Domain modelling
 
-Anya and Michael continued to tidy up the domain model for Questions. And indeed answers.
+Anya and Michael continued to tidy up the domain model for questions. And indeed answers.
 
 On Thursday they were joined by Ned who was very helpful around questions of declarations of interest and 'tabling' in general. Thanks Ned. They've now pulled out [tabling into a separate model](https://ukparliament.github.io/ontologies/tabling/tabling-ontology.html). Though it's still in need of comments.
 
@@ -48,10 +48,6 @@ Angela and Michael did a little more work autopsying the House of Commons commit
 
 ### Data platform
 
-[Alex](https://twitter.com/alexedwardh) wrote a couple of scripts to aid the task of manually processing missing Oral or Written Parliamentary Questions. Currently a lot of questions aren't being automatically processed due to a date issue within the question files. After having some issues at first, [Samu](https://twitter.com/langsamu) helped to make the code more functional, and after a (nearly) complete rewrite the scripts were ready for every-day use.
-
-The first script works by scraping our public [Oral](https://publications.parliament.uk/pa/cm/cmfutoral/futoral.htm) and [Written](http://www.parliament.uk/business/publications/written-questions-answers-statements/written-questions-answers/?page=1&max=100) data sources to find the relevant UINs for a specific date. These UINs are then sent in JSON form with some other identifying data to [MyJSON.com](http://myjson.com/) (a public JSON store + API). The second script then accesses this JSON data and compares the UIN values against those in the private RDF feed. It then automatically downloads and renames the missing RDF files, ready for processing.
-
 [Jianhan](https://twitter.com/jianhanzhu) continued working on the [OData](http://www.odata.org/) service which now supports most of OData query options.
 
 [Raphael](https://twitter.com/raphaelleung) continued with the [Berlin SPARQL benchmark tests](http://wifo5-03.informatik.uni-mannheim.de/bizer/berlinsparqlbenchmark/). He contacted the triplestore vendor to confirm some behaviour that was causing issues in the test. 
@@ -59,6 +55,14 @@ The first script works by scraping our public [Oral](https://publications.parlia
 [Chris](https://twitter.com/chrisalcockdev) gave Robert an education on assorted graph issues.
 
 ### Search
+
+#### Parliamentary material search
+
+[Alex](https://twitter.com/alexedwardh) wrote a couple of scripts to aid the task of manually processing missing oral and written parliamentary questions. Currently a lot of questions aren't being automatically processed due to a date issue within the question files. After having some issues at first, [Samu](https://twitter.com/langsamu) helped to make the code more functional, and after a (nearly) complete rewrite the scripts were ready for every day use.
+
+The first script works by scraping our public [Oral](https://publications.parliament.uk/pa/cm/cmfutoral/futoral.htm) and [Written](http://www.parliament.uk/business/publications/written-questions-answers-statements/written-questions-answers/?page=1&max=100) data sources to find the relevant UINs for a specific date. These UINs are then sent in JSON form with some other identifying data to [MyJSON.com](http://myjson.com/) (a public JSON store + API). The second script then accesses this JSON data and compares the UIN values against those in the private RDF feed. It then automatically downloads and renames the missing RDF files, ready for processing.
+
+#### Web search
 
 [Dia](https://twitter.com/DN78) and Robert wrote a first draft of 'a strategy note for search’ which they're trying to align with the [Digital Strategy](https://www.parliament.uk/mps-lords-and-offices/offices/bicameral/parliamentary-digital-service/digital-strategy-for-parliament/).
 
