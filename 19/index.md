@@ -34,13 +34,13 @@ Nobody knows mate.
 
 Michael gave his talk on web and information architecture to a variety of designers and product managers and etc. Many [clouds got yelled at](http://i0.kym-cdn.com/photos/images/original/001/044/247/297.png).
 
-Anya and Michael gave the website team an update on progress with the [question and answer model]((https://ukparliament.github.io/ontologies/question-and-answer/question-and-answer-ontology.html). It seemed to go quite well. Anya has offered to give a couple of the team a tour round the Q&A system.
+Anya and Michael gave the website team an update on progress with the [question and answer model](https://ukparliament.github.io/ontologies/question-and-answer/question-and-answer-ontology.html). It seemed to go quite well. Anya has offered to give a couple of the team a tour round the Q&A system.
 
 ### Domain modelling
 
 Anya and Michael continued to tidy up the domain model for Questions. And indeed answers.
 
-On Thursday they were joined by Ned who was very helpful arounds questions of declarations of interest and 'tabling' in general. Thanks Ned. They've now pulled out [tabling into a separate model](https://ukparliament.github.io/ontologies/tabling/tabling-ontology.html). Though it's still in need of comments.
+On Thursday they were joined by Ned who was very helpful around questions of declarations of interest and 'tabling' in general. Thanks Ned. They've now pulled out [tabling into a separate model](https://ukparliament.github.io/ontologies/tabling/tabling-ontology.html). Though it's still in need of comments.
 
 Anya and Michael also met with Robert to talk through work on the questions and answers domain model.
 
