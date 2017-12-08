@@ -2,7 +2,7 @@
 
 ### International, continental, Leeeeeds
 
-[Anya](https://twitter.com/bitten_), [Ben](https://twitter.com/benwoodhams), [Michael](https://twitter.com/fantasticlife) and [Dan](https://twitter.com/dasbarrett) went to Leeds for the 5th in our continuing series of Parliament, Data and Democracy meetups. In all honesty the turnout was... not great. On the other hand the speakers were great and Dan did not have a meltdown. And the conversation was the best yet and the most relevant to the whole 'working with our users' thing.
+[Anya](https://twitter.com/bitten_), [Ben](https://twitter.com/benwoodhams), [Michael](https://twitter.com/fantasticlife) and [Dan](https://twitter.com/dasbarrett) went to Leeds for the 5th in our continuing series of Parliament, Data and Democracy meetups. In all honesty the turnout was... not great. On the other hand the speakers *were* great and Dan did not have a meltdown. And the conversation was the best yet and the most relevant to the whole 'working with our users' thing.
 
 Thanks to [Cristina](https://twitter.com/estrangeirada), [Nicole](https://twitter.com/mm16nn), [Tom](https://twitter.com/thomasforth) and [Edward](https://twitter.com/edwardwood99). And second thanks to Tom for introducing us to [a very nice pub](https://twitter.com/WhitelocksLeeds).
 
