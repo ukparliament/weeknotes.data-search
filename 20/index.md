@@ -30,7 +30,7 @@ We're not sure but we're beginning to think the poor bloke might be trapped in t
 
 ### One world, one web, one team
 
-On Wednesay, [Matius](https://twitter.com/matiasgermanico) and [Samu](https://twitter.com/langsamu) attended a workshop about enterprise architecture, [CRM](https://en.wikipedia.org/wiki/Customer_relationship_management) and modern data practices.
+On Wednesay, [Matias](https://twitter.com/matiasgermanico) and [Samu](https://twitter.com/langsamu) attended a workshop about enterprise architecture, [CRM](https://en.wikipedia.org/wiki/Customer_relationship_management) and modern data practices.
 
 Samu also met with Jenna and [Jamie](https://twitter.com/oddtype) from the web team. Together they designed the model and process for getting content from our headless CMS into the data platform and onto the website. In the first instance for the Guide to Procedure project. [Chris](https://twitter.com/chrisalcockdev) chipped in later and added valuable insights.
 
