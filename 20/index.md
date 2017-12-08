@@ -12,6 +12,14 @@ Sara gave a [talk](http://www.ucl.ac.uk/medical-image-computing/seminars/mark-gr
 
 Michael had a meeting with [Paul Seaward](https://twitter.com/pseaward1) at the [History of Parliament Trust](http://historyofparliamentonline.org). Although that was more of a side-project thing. The view was admired. Satsumas were served. Thanks Paul.
 
+### Excellent customer service badges
+
+Go to Mike helping some more researchers and students use our data. We had a student working on a dissertation who needed debates on Sexual Offences Acts from 1861-2003 which brought us into the realm of data that predates our systems. We had a source of these called [Historic Hansard](http://hansard.millbanksystems.com/) that has the data but doesn’t have a sophisticated search function. To work around that we leveraged the site: operator that can be used by Google and Bing to allow the user to search the site more easily. We also provided advice concerning some of the arcane parliamentary language. In this case when searching for debates about an act you should refer to the act as a bill as well, as up until the legislation is passed all debates will refer to the bill rather than the act. On a related note - we’ve agreed with our colleagues in the Indexing and Data Management Section of the House of Commons Library to share our communications with external users of Parliamentary data. It’s a great way of us learning some of the business knowledge of IDMS and IDMS getting extra information on how external users search Parliamentary materials.
+
+### data.parliament migration
+ 
+We've made some great progress on the migration of the external data.parliament components to our new cloud provider. We now have a working copy to start testing with, and hope to have the new version running in parallel with the old version by Christmas. Although the new version will not yet be publicly available. The savings are pretty astounding and we hope to have removed at least one bottleneck in the data flow.
+
 ### Corpcomms
 
 Several members of the team posted words to Yammer. It's not yet clear if any trees fell in woods.
@@ -49,6 +57,16 @@ Sara and Raphael had a chat about nonparametric significance tests.
 ### Measuring things
 
 At least according to Slack no things got measured. Which is unusual. Maybe we're approaching a more Zen-like acceptance of existence. Or finally learning the lessons of quantum mechanics.
+
+### Corporate data
+
+Matias has been testing the new integration on the HR system. Implementation will happen as soon as we're happy with the testing.
+
+Matias had a meeting with the stakeholders on the asset management integration project. They're now starting to work on testing the chosen data fields and ensuring they meet the requirements. They've also been looking at CostCentre (no idea) feeds to check they expose everything needed to build the integration.
+
+Matias has also continued work on generating dashboard reports from JIRA.
+
+There was some other stuff involving words like Cherwell and HardCat but I have no idea how to turn it into English.
 
 ### Capability
 
