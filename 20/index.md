@@ -14,11 +14,11 @@ Michael had a meeting with [Paul Seaward](https://twitter.com/pseaward1) at the 
 
 ### Excellent customer service badges
 
-Go to Mike helping some more researchers and students use our data. We had a student working on a dissertation who needed debates on Sexual Offences Acts from 1861-2003 which brought us into the realm of data that predates our systems. We had a source of these called [Historic Hansard](http://hansard.millbanksystems.com/) that has the data but doesn’t have a sophisticated search function. To work around that we leveraged the site: operator that can be used by Google and Bing to allow the user to search the site more easily. We also provided advice concerning some of the arcane parliamentary language. In this case when searching for debates about an act you should refer to the act as a bill as well, as up until the legislation is passed all debates will refer to the bill rather than the act. On a related note - we’ve agreed with our colleagues in the Indexing and Data Management Section of the House of Commons Library to share our communications with external users of Parliamentary data. It’s a great way of us learning some of the business knowledge of IDMS and IDMS getting extra information on how external users search Parliamentary materials.
+Go to Mike for helping some more researchers and students use our data. We had a student working on a dissertation who needed debates on Sexual Offences Acts from 1861-2003 which brought us into the realm of data that predates our systems. We had a source of these called [Historic Hansard](http://hansard.millbanksystems.com/) that has the data but doesn’t have a sophisticated search function. To work around that we leveraged the site: operator that can be used by Google and Bing to allow the user to search the site more easily. We also provided advice concerning some of the arcane parliamentary language. In this case when searching for debates about an act you should refer to the act as a bill as well, as up until the legislation is passed all debates will refer to the bill rather than the act. On a related note - we’ve agreed with our colleagues in the Indexing and Data Management Section of the House of Commons Library to share our communications with external users of Parliamentary data. It’s a great way of us learning some of the business knowledge of IDMS and IDMS getting extra information on how external users search Parliamentary materials.
 
 ### data.parliament migration
  
-We've made some great progress on the migration of the external data.parliament components to our new cloud provider. We now have a working copy to start testing with, and hope to have the new version running in parallel with the old version by Christmas. Although the new version will not yet be publicly available. The savings are pretty astounding and we hope to have removed at least one bottleneck in the data flow.
+We've made some great progress on the migration of the external [data.parliament](http://www.data.parliament.uk/) components to our new cloud provider. We now have a working copy to start testing with, and hope to have the new version running in parallel with the old version by Christmas. Although the new version will not yet be publicly available. The savings are pretty astounding and we hope to have removed at least one bottleneck in the data flow.
 
 ### Corpcomms
 
@@ -34,7 +34,7 @@ On Wednesay, [Matius](https://twitter.com/matiasgermanico) and [Samu](https://tw
 
 Samu also met with Jenna and [Jamie](https://twitter.com/oddtype) from the web team. Together they designed the model and process for getting content from our headless CMS into the data platform and onto the website. In the first instance for the Guide to Procedure project. [Chris](https://twitter.com/chrisalcockdev) chipped in later and added valuable insights.
 
-Anya and Michael went along to a meeting with the team working on the Guide to Procedure. A half plan was hatched to bring the navigation of the guide into line with the Parliament Thesauri maintained by the Indexing and Data Management Section of the House of Commons Library.
+Anya and Michael went along to a meeting with the team working on the Guide to Procedure. A half plan was hatched to bring the navigation of the guide into line with the Parliament Thesauri maintained by IDMS.
 
 ### Domain modelling
 
@@ -52,7 +52,7 @@ Matthieu met with Daxa from the End User Team and renewed our key to automatic d
 
 Raphael continued with triple store benchmarking tests and did some research into prior runs of the [Berlin SPARQL benchmark](http://wifo5-03.informatik.uni-mannheim.de/bizer/berlinsparqlbenchmark/). He also looked at other RDF benchmarks and plotted some early results.
 
-Sara and Raphael had a chat about nonparametric significance tests.
+Sara and Raphael had a chat about nonparametric significance tests. Not a clue mate.
 
 ### Measuring things
 
@@ -62,7 +62,7 @@ At least according to Slack no things got measured. Which is unusual. Maybe we'r
 
 Matias has been testing the new integration on the HR system. Implementation will happen as soon as we're happy with the testing.
 
-Matias had a meeting with the stakeholders on the asset management integration project. They're now starting to work on testing the chosen data fields and ensuring they meet the requirements. They've also been looking at CostCentre (no idea) feeds to check they expose everything needed to build the integration.
+Matias had a meeting with the stakeholders on the asset management integration project. They're now starting to work on testing the chosen data fields and ensuring they meet the requirements. They've also been looking at CostCentre (again not a clue) feeds to check they expose everything needed to build the integration.
 
 Matias has also continued work on generating dashboard reports from JIRA.
 
