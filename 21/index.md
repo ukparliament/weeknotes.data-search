@@ -7,21 +7,21 @@ Wednesday was data day. The first half was a bit tough but we burnt through the 
 
 Anyway, lots of variety and steady progress on most fronts. It was agreed that our top development priorities at the moment are:
 
-* Getting committee data from the Members' Names Information Service (MNIS) into the data service
+* Getting committee data from the Members' Names Information Service (MNIS) into the data service.
 
-* Getting question and answer data into the data service
+* Getting question and answer data into the data service.
 
-* Migrating [data.parliament.uk](http://www.data.parliament.uk/) to the cloud
+* Migrating [data.parliament.uk](http://www.data.parliament.uk/) to the cloud.
 
 And some other notes:
 
-* Pages for government departments / organisations / answering bodies and still necessary and a precursor to lots of other work
+* Pages for government departments / organisations / answering bodies are still necessary and a precursor to lots of other potential linkages.
 
-* Data and search work for opposition roles has been done
+* Data and search work for opposition roles has been done.
 
-* Early day motions look like a possible candidate for modelling next
+* Early day motions look like a possible candidate for modelling next.
 
-* Our investigative work to see how deposited papers might appear in web search yielded slightly odd results. Further investigation is needed
+* Our investigative work to see how deposited papers might appear in web search yielded slightly odd results. Further investigation is needed.
 
 ### Corpcomms
 
@@ -49,7 +49,7 @@ On the subject of Peers, Ben spent most of Monday to Wednesday as the official P
 
 ### Data platform
 
-[Jianhan](https://twitter.com/jianhanzhu) continued to work on the data platform [OData](http://www.odata.org/) API service. This has now been deployed as a service and can be used to explore our data via an assortment of tools from Excel to web browser. Like much else, the [code is now on GitHub](https://github.com/ukparliament/OData).
+[Jianhan](https://twitter.com/jianhanzhu) continued to work on the data platform [OData](http://www.odata.org/) API service. This has now been deployed and can be used to explore our data via an assortment of tools from Excel to web browser. Like much else, the [code is now on GitHub](https://github.com/ukparliament/OData).
 
 [Samu](https://twitter.com/langsamu) has been working with Jenna and [Jamie](https://twitter.com/oddtype) from the website team to integrate content publishing into the data platform. There's now code deployed on staging to get blobs of content from a [headless CMS](https://en.wikipedia.org/wiki/Headless_CMS) and make them available through standard data platform APIs. [Chris](https://twitter.com/chrisalcockdev) helped out by getting the CMS vendor to fix a bug in their API. 'Content' should start to appear on beta.parliament shortly.
 
