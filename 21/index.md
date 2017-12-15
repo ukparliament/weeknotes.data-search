@@ -75,10 +75,6 @@ We've got pretty bored with measuring things. Instrumentation is dead to us. Jus
 
 [Aidan](https://twitter.com/aidan_morgan) met with Samu, Michael and Anya to put together job descriptions for the new positions due to be advertised early in the New Year. Do check back later if you fancy being a developer or a data architect or just a person who helps make web things. Preferably the latter.
 
-### Fresh! Baby! News!
-
-Kunal celebrated the arrival of a baby girl. Next stops: school and work. It doesn't get better, kid.
-
 ### Did the machines learn owt?
 
 We're slowly coming to the conclusion that they may have a different learning style to that provided by more traditional education. Or they're dumb as rocks. One or t'other.
@@ -92,6 +88,10 @@ Alex fooled almost everyone by [saying cryptocurrency but definitely not saying 
 Dan and Robert took a stroll and had lunch. Ben and Robert also went strolling and drank coffee. Ben smoked fags. To no-one's surprise, Robert didn't.
 
 Robert and Michael did less strolling and more eating, stopping off at [Coleman Coffee Roasters](http://wearewaterloo.co.uk/business/coleman-coffee-roasters) for plates of oatcakes and cheese. Other purveyors of oatcakes may be available and just as good. Seems unlikely.
+
+### Fresh! Baby! News!
+
+Kunal celebrated the arrival of a baby girl. Next stops: school and work. It doesn't get better, kid.
 
 ### First Noel
 
