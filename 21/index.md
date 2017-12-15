@@ -17,7 +17,7 @@ And some other notes:
 
 * Pages for government departments / organisations / answering bodies are still necessary and a precursor to lots of other potential linkages.
 
-* Data and search work for opposition roles has been done.
+* Data and Search work for opposition roles has been done.
 
 * Early day motions look like a possible candidate for modelling next.
 
@@ -39,7 +39,7 @@ It was the night before Christmas and nothing did stir, except for the bloke who
 
 [Anya](https://twitter.com/bitten_), [Silver](https://twitter.com/silveroliver) and [Michael](https://twitter.com/fantasticlife) met with [David Beamish](https://en.wikipedia.org/wiki/David_Beamish) to idiot / sanity check some of their modelling work around [house membership](https://ukparliament.github.io/ontologies/house-membership/house-membership-ontology.html), [elections](https://ukparliament.github.io/ontologies/election/election-ontology.html), [political blocs](https://ukparliament.github.io/ontologies/political-bloc/political-bloc-ontology.html), [formal bodies](https://ukparliament.github.io/ontologies/formal-body-affiliation/formal-body-affiliation-ontology.html), [tabling](https://ukparliament.github.io/ontologies/tabling/tabling-ontology.html), and [questions and answers](https://ukparliament.github.io/ontologies/question-and-answer/question-and-answer-ontology.html). No major quibbles were raised and the sanity box was largely ticked. The tabling model still needs more work. Supplementary oral questions also need modelling. But not before Christmas.
 
-### Are Lords Inflated?
+### Are Lords inflated?
 
 The Lords are now mostly inflated (still really don't ask). Ben has some work to do around giving non-"great see" bishops individual seats linked to incumbencies rather than bishoprics. A note to clarify that this will never include the [Bishop of Man and Sodor](https://en.wikipedia.org/wiki/Bishop_of_Sodor_and_Man). Unless you're playing widdershins. I did say don't ask.
 
@@ -53,7 +53,7 @@ On the subject of Peers, Ben spent most of Monday to Wednesday as the official P
 
 [Samu](https://twitter.com/langsamu) has been working with Jenna and [Jamie](https://twitter.com/oddtype) from the website team to integrate content publishing into the data platform. There's now code deployed on staging to get blobs of content from a [headless CMS](https://en.wikipedia.org/wiki/Headless_CMS) and make them available through standard data platform APIs. [Chris](https://twitter.com/chrisalcockdev) helped out by getting the CMS vendor to fix a bug in their API. 'Content' should start to appear on beta.parliament shortly.
 
-Matthieu finished performance testing the database cluster. We're told it's now performing like lightning. A report in the form of a blog post is due soon.
+Matthieu finished performance testing the database cluster. We're told it's now performing like lightning. A report in the form of a [post is on our blog](https://pds.blog.parliament.uk/2017/12/15/performance-testing-a-graph-database/). Not this one; our other one.
 
 ### data.parliament migration
 
@@ -77,7 +77,7 @@ We've got pretty bored with measuring things. Instrumentation is dead to us. Jus
 
 ### Fresh! Baby! News!
 
-Kunal celebrated the arrival of a baby girl. Next stops school and work. It doesn't get better, kid.
+Kunal celebrated the arrival of a baby girl. Next stops: school and work. It doesn't get better, kid.
 
 ### Did the machines learn owt?
 
@@ -89,7 +89,7 @@ Alex fooled almost everyone by [saying cryptocurrency but definitely not saying 
 
 ### Strolls
 
-Dan and Robert took a stroll and had lunch. Ben and Robert also went strolling and drank coffee. Ben smoked fags. To no-one's surprise Robert didn't.
+Dan and Robert took a stroll and had lunch. Ben and Robert also went strolling and drank coffee. Ben smoked fags. To no-one's surprise, Robert didn't.
 
 Robert and Michael did less strolling and more eating, stopping off at [Coleman Coffee Roasters](http://wearewaterloo.co.uk/business/coleman-coffee-roasters) for plates of oatcakes and cheese. Other purveyors of oatcakes may be available and just as good. Seems unlikely.
 
