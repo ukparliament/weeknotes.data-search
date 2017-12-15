@@ -93,6 +93,10 @@ Dan and Robert took a stroll and had lunch. Ben and Robert also went strolling a
 
 Robert and Michael did less strolling and more eating, stopping off at [Coleman Coffee Roasters](http://wearewaterloo.co.uk/business/coleman-coffee-roasters) for plates of oatcakes and cheese. Other purveyors of oatcakes may be available and just as good. Seems unlikely.
 
+### First Noel
+
+In which our Noel got named as [Hillingdon's Special Constable of the year](https://twitter.com/mpshillingdon/status/941655113835401216). Result. \o/
+
 ### Things that caught our eye
 
 * [SPARQL / OData Interop](https://www.w3.org/2013/04/odw/odw13_submission_4.pdf) [PDF]
