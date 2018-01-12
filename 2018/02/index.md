@@ -4,7 +4,7 @@
 
 Refreshed and revived and not at all hungover, the Data and Search team has now returned to the coal face. Mostly. Numbers still seem a little short but we're assuming they might turn up at some point. As for the rest of us, we are, much like [Alan Minter](https://en.wikipedia.org/wiki/Alan_Minter), [fit and working again](https://www.youtube.com/watch?v=QnxZkK4mdM8). Mmmmmph.
 
-[Dan](https://twitter.com/dasbarrett) returned from the Christmas break and started picking up some of 2017s many lose threads. The big things this week are work on [Statutory Instruments](http://www.parliament.uk/business/bills-and-legislation/secondary-legislation/statutory-instruments/) and some movement on topics. There was also something about the data strategy and fixing all the corporate data. And Portugal got in touch to talk about data visualisation following Dan's trip to the [IPU](https://twitter.com/IPUparliament) in Geneva last year because...
+[Dan](https://twitter.com/dasbarrett) returned from the Christmas break and started picking up some of 2017s many lose threads. The big things this week are work on [Statutory Instruments](http://www.parliament.uk/business/bills-and-legislation/secondary-legislation/statutory-instruments/) and some movement on topics. There was also something about the data strategy and fixing all the corporate data. And Portugal got in touch to talk about data visualisation following Dan's trip to the [IPU](https://twitter.com/IPUparliament) in Geneva last year because we are...
 
 ### International, continental, Parliament in the area
 
