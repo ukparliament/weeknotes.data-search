@@ -12,7 +12,7 @@ Whilst Oxford is not really a different country, people do tend to pronounce thi
 
 ### Community
 
-Last Wednesday Sally, [Ganesh](https://twitter.com/gansenthi) and [Mark](https://twitter.com/markhurrell) from [GDS](https://gds.blog.gov.uk/) came over to meet Anya, [Silver](https://twitter.com/silveroliver) and Michael and chat about domain modelling the liminal zones between government and Parliament. It went quite well though we still have no clue what that thing government people call "policy" might be. [Lucinda](https://twitter.com/LucindaMaer) joined us for an hour. Thanks Lucinda.
+Last Wednesday [Sally](https://twitter.com/cinnamon_sally), [Ganesh](https://twitter.com/gansenthi) and [Mark](https://twitter.com/markhurrell) from [GDS](https://gds.blog.gov.uk/) came over to meet Anya, [Silver](https://twitter.com/silveroliver) and Michael and chat about domain modelling the liminal zones between government and Parliament. It went quite well though we still have no clue what that thing government people call "policy" might be. [Lucinda](https://twitter.com/LucindaMaer) joined us for an hour. Thanks Lucinda.
 
 The next day Michael payed a return visit to Ganesh and Mark to chat about information architecture and navigation and subsidiary resources and search. And some of the things both gov.uk and parliament.uk will need to fix if they want to [play nicely with search engines](http://smethur.st/posts/176135866). Conversation continued over chops at [Tayyabs](http://www.tayyabs.co.uk/). Nice chops. Seriously nice chops.
  
