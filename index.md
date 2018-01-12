@@ -1,5 +1,6 @@
 ## UK Parliament data and search weeknotes
 
+* [2018 week 2](2018/02)
 * [Week 21: 15-12-2017](21)
 * [Week 20: 08-12-2017](20)
 * [Week 19: 01-12-2017](19)
