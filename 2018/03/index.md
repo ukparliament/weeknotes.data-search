@@ -4,7 +4,7 @@
 
 Wednesday was [dator day 37](https://twitter.com/dasbarrett/status/953681955475869696). Unlike some previous dator days it was not a "punishing hell-ride". Though some of the prioritisation work was a little improvised. And interruptions came thick and fast. Still, some thing were agreed:
 
-* Dator days will henceforth be numbered according to [bingo best practice](https://www.winkbingo.com/online-bingo/bingo-calls).
+* Dator days will henceforth be numbered according to [bingo best practice](https://www.winkbingo.com/online-bingo/bingo-calls). At least until we run out of bingo.
 
 * Work for the Guide to Procedure team to allow subject tagging of their articles is now top priority. This will involve importing a sub-section of the Indexing and Data Management Section's (IDMS) [controlled vocabulary](http://www.data.parliament.uk/dataset/thesauri) and building some links between that and the articles in our headless CMS.
 
@@ -12,7 +12,7 @@ Wednesday was [dator day 37](https://twitter.com/dasbarrett/status/9536819554758
 
 * Any work necessary to allow the Committees team to also build government department pages will also happen.
 
-* Work required for the publication of Peers' portraits will happen depending on Victor's time.
+* Work required for the publication of Peers' portraits will happen depending on [Victor](https://twitter.com/_victorhwang)'s time.
 
 ### Community
 
@@ -40,7 +40,7 @@ We are, as ever, divided by a common language.
 
 Dator day resulted in a change of priorities for Anya, [Silver](https://twitter.com/silveroliver) and Michael. With a new Statutory Instrument Tracker (TM) on the horizon, SIs and accompanying Early Day Motions have now risen to the surface. And supplementary oral questions and divisions have receded. Our [todo list is here](https://trello.com/b/Z1nrm0Vr/parliament-ontology). You can quibble with the cards but you can't move em.
 
-Anya, Silver and Michael spent Tuesday with a whole variety of people from the two Houses starting to dig into SIs. The morning was heavy going, the afternoon more productive. They now have very, very draft sketches for a [laying (and withdrawing model)](https://raw.githubusercontent.com/ukpds/ontologies/master/laying/laying.png) and a [statutory instrument model](https://raw.githubusercontent.com/ukpds/ontologies/master/statutory-instrument/statutory-instrument.png). They're probably still quite wrong. But it's better to publish mistakes than hide them. Blowback is always to be expected.
+Anya, Silver and Michael spent Tuesday with a whole variety of people from the two Houses starting to dig into SIs. The morning was heavy going, the afternoon more productive. They now have very, very draft sketches for a [laying (and withdrawing) model](https://raw.githubusercontent.com/ukpds/ontologies/master/laying/laying.png) and a [statutory instrument model](https://raw.githubusercontent.com/ukpds/ontologies/master/statutory-instrument/statutory-instrument.png). They're probably still quite wrong. But it's better to publish mistakes than hide them. Blowback is always to be expected.
 
 Liz has been working with the House of Commons Library who are looking for a better way to manage and publish constituency statistics. As a change from all things procedural this has piqued Michael's interest. It's also a useful route to collaboration with team:[Dudfield](https://twitter.com/mr_dudders). So that would be good.
 
