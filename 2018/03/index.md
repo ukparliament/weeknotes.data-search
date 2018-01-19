@@ -2,7 +2,7 @@
 
 ### [More than 11, it's 37](https://www.youtube.com/watch?v=u3ZvO4pcTHs)
 
-Wednesday was [dator day 37](https://twitter.com/dasbarrett/status/953681955475869696). Unlike some previous dator days it was not a "punishing hell-ride". Though some of the prioritisation work was a little improvised. And interruptions came thick and fast. Still, some thing were agreed:
+Wednesday was [dator day 37](https://twitter.com/dasbarrett/status/953681955475869696). Unlike some previous dator days it was not a "punishing hell-ride". Though some of the prioritisation work was a little improvised. And interruptions came thick and fast. Still, some things were agreed:
 
 * Dator days will henceforth be numbered according to [bingo best practice](https://www.winkbingo.com/online-bingo/bingo-calls). At least until we run out of bingo.
 
@@ -64,7 +64,7 @@ Not a thing. But it's still their second term of first year. So what do you expe
 
 ### Strolls
 
-Not so much a stroll as a hovercraft ride. Robert took a trip to the Isle of White and visited a monastery. Which is much more exciting than the usual walk to the coffee stall.
+Not so much a stroll as a hovercraft ride. Robert took a trip to the Isle of Wight and visited a monastery. Which is much more exciting than the usual walk to the coffee stall.
 
 ### Things that caught our eye
 
