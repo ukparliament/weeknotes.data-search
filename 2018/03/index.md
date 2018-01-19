@@ -38,7 +38,7 @@ We are, as ever, divided by a common language.
 
 ### Domain modelling
 
-Dator day resulted in a change of priorities for Anya, [Silver](https://twitter.com/silveroliver) and Michael. With a new Statutory Instrument Tracker (TM) on the horizon, SIs and accompanying Early Day Motions have now risen to the surface. And supplementary oral questions and divisions have receded. Our [todo list is here](https://trello.com/b/Z1nrm0Vr/parliament-ontology). You can quibble with the cards but you can't move em.
+Dator day resulted in a change of priorities for Anya, [Silver](https://twitter.com/silveroliver) and Michael. With a new [Statutory Instrument](http://www.parliament.uk/business/bills-and-legislation/secondary-legislation/statutory-instruments/) Tracker (TM) on the horizon, SIs and accompanying [Early Day Motions](http://www.parliament.uk/site-information/glossary/early-day-motions/) have now risen to the surface. And supplementary oral questions and divisions have receded. Our [todo list is here](https://trello.com/b/Z1nrm0Vr/parliament-ontology). You can quibble with the cards but you can't move em.
 
 Anya, Silver and Michael spent Tuesday with a whole variety of people from the two Houses starting to dig into SIs. The morning was heavy going, the afternoon more productive. They now have very, very draft sketches for a [laying (and withdrawing) model](https://raw.githubusercontent.com/ukpds/ontologies/master/laying/laying.png) and a [statutory instrument model](https://raw.githubusercontent.com/ukpds/ontologies/master/statutory-instrument/statutory-instrument.png). They're probably still quite wrong. But it's better to publish mistakes than hide them. Blowback is always to be expected.
 
