@@ -26,11 +26,13 @@ Massive achievements from Dan as [Yammer rewarded him with a very active badge](
 
 Dan went along to the Digital Service quarterly event which (as the name suggests) is a thing that happens every three months. People from the administrations in both Houses get together with the digital service to see what's new and exciting about computers. [Mat](https://twitter.com/matiasgermanico) and Liz ran a stall about data, reporting and dashboards and even got some new customers. Dan enjoyed [Louise](https://twitter.com/louduffs)'s talk about blogging and Hansard blogging.
 
-[Anya](https://twitter.com/bitten_) and [Michael](https://twitter.com/fantasticlife) met with [Lucinda](https://twitter.com/LucindaMaer), [Oli](https://twitter.com/olihawkins) and Chris to talk about the kind of queries the House of Commons Library tends to field about questions and answers. Given the [way new search works](http://smethur.st/posts/176135866) we need to ensure that the Members' activity team expose and link to URLs that help answer these queries. Work continues.
+[Anya](https://twitter.com/bitten_) and [Michael](https://twitter.com/fantasticlife) met with [Lucinda](https://twitter.com/LucindaMaer), [Oli](https://twitter.com/olihawkins) and Chris Watson to talk about the kind of queries the House of Commons Library tends to field about questions and answers. Given the [way new search works](http://smethur.st/posts/176135866) we need to ensure that the Members' activity team expose and link to URLs that help answer these queries. Work continues.
+
+Michael and Angela spent some time double checking which bits of Committee data we can take from MNIS and which bits will need a new tool. [Chris](https://twitter.com/chrisalcockdev) is now looking at the physical model for this stuff, tweaking the MNIS import and building a new tool.
 
 Anya and Michael also met with [Trine](https://twitter.com/stealthgeekuk) and [Rachel](https://twitter.com/rachel_ep) to chat about the IDMS taxonomy and plans for topic pages. Topics are what some people call concepts. Or occasionally issues.
 
-Shortly after they met with [Liz Marley](https://twitter.com/greensideknits), Samu, Matthieu and [Chris](https://twitter.com/chrisalcockdev) to talk through plans for tagging articles with IDMS concepts. Which is what some people call topics. Or occasionally vocabulary terms.
+Shortly after they met with [Liz Marley](https://twitter.com/greensideknits), Samu, Matthieu and Chris to talk through plans for tagging articles with IDMS concepts. Which is what some people call topics. Or occasionally vocabulary terms.
 
 We are, as ever, divided by a common language.
 
