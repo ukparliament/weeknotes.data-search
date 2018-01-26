@@ -4,6 +4,8 @@
 
 [Anya](https://twitter.com/bitten_) and [Michael](https://twitter.com/fantasticlife) went along to a Data Stories workshop organised by [the ODI](https://theodi.org/). It was lovely as ever to see our [Tony](https://twitter.com/psychemedia) and delightful to bump into [Jeni](https://twitter.com/jenit). After a few presentations and a short tour of [some artworks](culture.theodi.org/vending-machine/), they emerged blinking into tepid sunlight feeling none the wiser.
 
+[Raphael](https://twitter.com/RaphaelLeung) went along to an [event](https://www.statslife.org.uk/events/eventdetail/1065/-/what-is-a-data-scientist-s-responsibility-to-wider-society) at the [ONS](https://www.ons.gov.uk/) on data science and ethics, which he enjoyed greatly.
+
 ### Corpcomms
 
 Someone put words into Yammer. I know this because an email told me.
@@ -34,11 +36,15 @@ Our Tony chipped in with [some mild trolling](https://twitter.com/psychemedia/st
 
 Jianhan tends to agree that the client side tools for OData are still not very strong. In his view, the best client side library is [the C# one](http://odata.github.io/) but support elsewhere may be lacking.
 
+That said, Tony did make some progress using a Python OData library. His progress so far is, as ever, [on Github](https://gist.github.com/psychemedia/d41abc807c753df2908fe0019674731c).
+
 Staying with OData, Sara has been exploring ways of using [regular expressions](https://en.wikipedia.org/wiki/Regular_expression) and the OData service for search term grouping. We could, for instance, use the OData interface to query the triple store and retrieve Members' names. The list of Members' names could then used to create a regex rule for the group 'MPs'.
 
 For those with an interest in committees we're delighted to announce that Chris has now added [formal body chairs](https://ukparliament.github.io/ontologies/formal-body-affiliation/formal-body-affiliation-ontology.html#d4e47). At least to the staging database.
 
 Also in committee related work, almost all the things that the Members' Names Information Service (MNIS) calls 'Departments' are now in the staging triple store. It's a bit of a fuzzy set of actual departments, other government organisations and some parliamentary offices. We've typed all of these as [groups](https://ukparliament.github.io/ontologies/agency/agency-ontology.html#d4e391), with any that are found on the [Register of Government Organisations](https://government-organisation.register.gov.uk/) typed as GovernmentOrganisations. The stuff from the 'Departments' table that isn't actually a group has been excluded, by a new approach to orchestration based on exclusion.  MNIS considers 'Leader of the Liberal Democrats' to be a 'Department' for reasons that are unclear to us. Using an exclusion list allows us orchestrate data live from imperfect sources.
+
+Raphael revisited a project looking to suggest topics to IDMS. He also implemented a package explaining classifiers.
 
 ### Search
 
