@@ -2,7 +2,7 @@
 
 ### Community
 
-[Anya](https://twitter.com/bitten_) and [Michael](https://twitter.com/fantasticlife) went along to a Data Stories workshop organised by [the ODI](https://theodi.org/). It was lovely as ever to see our [Tony](https://twitter.com/psychemedia) and delightful to bump into [Jeni](https://twitter.com/jenit). After a few presentations and a short tour of some artworks, they emerged blinking into tepid sunlight feeling none the wiser.
+[Anya](https://twitter.com/bitten_) and [Michael](https://twitter.com/fantasticlife) went along to a Data Stories workshop organised by [the ODI](https://theodi.org/). It was lovely as ever to see our [Tony](https://twitter.com/psychemedia) and delightful to bump into [Jeni](https://twitter.com/jenit). After a few presentations and a short tour of [some artworks](culture.theodi.org/vending-machine/), they emerged blinking into tepid sunlight feeling none the wiser.
 
 ### Corpcomms
 
@@ -12,7 +12,7 @@ Someone put words into Yammer. I know this because an email told me.
 
 [Dan](https://twitter.com/dasbarrett), perhaps unsurprisingly, went to some meetings.
 
-There was one about the process of commissioning business systems for Commons 'procedural' areas which saw a demo of the new Historic Hansard that's due to replace the [old Historic Hansard](http://hansard.millbanksystems.com/) at some point in the not too distant future. There was also talk about business systems work on [Statutory Instruments (SIs)](http://www.parliament.uk/business/bills-and-legislation/secondary-legislation/statutory-instruments/) and Committees.
+There was one about the process of commissioning business systems for Commons 'procedural' areas which saw a demo of the new Historic Hansard which is due to be integrated into [current Hansard](https://hansard.parliament.uk/) at some point in the not too distant future. Until then, [Historic Hansard]((http://hansard.millbanksystems.com/)) remains in its usual place. There was also talk about business systems work on [Statutory Instruments (SIs)](http://www.parliament.uk/business/bills-and-legislation/secondary-legislation/statutory-instruments/) and committees.
 
 Dan also went to the website product roadmap meeting. He met with [Aidan](https://twitter.com/aidan_morgan), [Dan](https://twitter.com/DigitalDanCook) (portfolio manager) and [Rebecca](https://twitter.com/rebeccaelton1) (Director of Portfolio) and talked about the big corporate data plans and data strategy that he has to make happen. Somehow.
 
@@ -42,7 +42,7 @@ Also in committee related work, almost all the things that the Members' Names In
 
 ### Search
 
-Dan spent some time playing with [search on the new shop](https://www.shop.parliament.uk/search?q=whisky), which isn't 'one true search'. He thought it interesting how much better 'one true search' is if you're looking for whisky shot glasses but spell it whiskey or scotch. We feel there are opportunities here for the future.
+Dan spent some time playing with [search on the new shop](https://www.shop.parliament.uk/search?q=whisky), which isn't 'one true search'. He thought it interesting how much better 'one true search' is if you're looking for whisky shot glasses but spell it whiskey or scotch. We feel there are opportunities here for the future. Though what kind of philistine would drink whiskey from a shot glass escapes us.
 
 Dan, [Jamie](https://twitter.com/oddtype) and [Samu](https://twitter.com/langsamu) also did some footling around with the new website search. Footling may be strong here.
 
@@ -68,13 +68,13 @@ Lewis continued his investigation around new types of data integration solutions
 
 ...appears to go to Dan this week. He picked up a request from a student doing research around election results, pulled off a [Cruyf-like turn](https://en.wikipedia.org/wiki/Cruyff_Turn) and hit a pin point cross to [Oli](https://twitter.com/olihawkins), who brought down the ball and flicked it to [Carl](https://twitter.com/carlbaker). Back of the net. Total customer service.
 
-### Are topics fashionable
+### Are topics fashionable?
 
 My god, are topics fashionable. You can barely turn a corner without some 'multidisciplinary website product team' shouting topics at you. Suddenly everyone is talking about topics. Topics topics topics topics topics. Browse by topic. Search by topic. Topics. These things come in phases. Next week we could be back to calendar views.
 
 ### Did anyone say blockchain?
 
-Aidan, Jamie and Dan mentioned Bitcoin briefly which is dangerously close. Thankfully no-one said Ron Paul or weeeed so we think we're still safe.
+Aidan, Jamie and Dan mentioned Bitcoin briefly, which is dangerously close. Thankfully no-one said Ron Paul or weeeed so we think we're still safe.
 
 ### Strolls
 
