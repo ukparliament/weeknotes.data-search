@@ -2,7 +2,7 @@
 
 ### Community
 
-[Anya](https://twitter.com/bitten_) and [Michael](https://twitter.com/fantasticlife) went along to a Data Stories workshop organised by [the ODI](https://theodi.org/). It was lovely as ever to see our [Tony](https://twitter.com/psychemedia) and delightful to bump into [Jeni](https://twitter.com/jenit). After a few presentations and a short tour of [some artworks](culture.theodi.org/vending-machine/), they emerged blinking into tepid sunlight feeling none the wiser.
+[Anya](https://twitter.com/bitten_) and [Michael](https://twitter.com/fantasticlife) went along to a Data Stories workshop organised by [the ODI](https://theodi.org/). It was lovely as ever to see our [Tony](https://twitter.com/psychemedia) and delightful to bump into [Jeni](https://twitter.com/jenit). After a few presentations and a short tour of [some artworks](http://culture.theodi.org/vending-machine/), they emerged blinking into tepid sunlight feeling none the wiser.
 
 [Raphael](https://twitter.com/RaphaelLeung) went along to an [event](https://www.statslife.org.uk/events/eventdetail/1065/-/what-is-a-data-scientist-s-responsibility-to-wider-society) at the [ONS](https://www.ons.gov.uk/) on data science and ethics, which he enjoyed greatly.
 
