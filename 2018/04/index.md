@@ -16,7 +16,7 @@ Someone put words into Yammer. I know this because an email told me.
 
 There was one about the process of commissioning business systems for Commons 'procedural' areas which saw a demo of the new Historic Hansard which is due to be integrated into [current Hansard](https://hansard.parliament.uk/) at some point in the not too distant future. Until then, [Historic Hansard]((http://hansard.millbanksystems.com/)) remains in its usual place. There was also talk about business systems work on [Statutory Instruments (SIs)](http://www.parliament.uk/business/bills-and-legislation/secondary-legislation/statutory-instruments/) and committees.
 
-Dan also went to the website product roadmap meeting. He met with [Aidan](https://twitter.com/aidan_morgan), [Dan](https://twitter.com/DigitalDanCook) (portfolio manager) and [Rebecca](https://twitter.com/rebeccaelton1) (Director of Portfolio) and talked about the big corporate data plans and data strategy that he has to make happen. Somehow.
+Dan also went to the website product roadmap meeting. He met with [Aidan](https://twitter.com/aidan_morgan), [Dan](https://twitter.com/DigitalDanCook) (portfolio manager) and [Rebecca](https://twitter.com/rebeccaelton1) (Director of Portfolio) and talked about the big corporate data plans and data strategy that he will make happen.
 
 Bryony and [Victor](https://twitter.com/_victorhwang) popped by to see Anya, [Silver](https://twitter.com/silveroliver), Michael and [Ben](https://twitter.com/benwoodhams) and talk about how the [question and answer model](https://ukparliament.github.io/ontologies/question-and-answer/question-and-answer-ontology.html) might translate into question and answer pages. It felt like they got somewhere.
 
@@ -72,11 +72,11 @@ Lewis continued his investigation around new types of data integration solutions
 
 ### Excellent customer service award...
 
-...appears to go to Dan this week. He picked up a request from a student doing research around election results, pulled off a [Cruyf-like turn](https://en.wikipedia.org/wiki/Cruyff_Turn) and hit a pin point cross to [Oli](https://twitter.com/olihawkins), who brought down the ball and flicked it to [Carl](https://twitter.com/carlbaker). Back of the net. Total customer service.
+...appears to go to Dan this week. He picked up a request from a student doing research around election results, pulled off a [Cruyff-like turn](https://en.wikipedia.org/wiki/Cruyff_Turn) and hit a pin point cross to [Oli](https://twitter.com/olihawkins), who brought down the ball and flicked it to [Carl](https://twitter.com/carlbaker). Back of the net. Total customer service.
 
 ### Are topics fashionable?
 
-My god, are topics fashionable. You can barely turn a corner without some 'multidisciplinary website product team' shouting topics at you. Suddenly everyone is talking about topics. Topics topics topics topics topics. Browse by topic. Search by topic. Topics. These things come in phases. Next week we could be back to calendar views.
+My god, are topics fashionable. You can barely turn a corner without some team shouting topics at you. Suddenly everyone is talking about topics. Topics topics topics topics topics. Browse by topic. Search by topic. Topics. These things come in phases. Next week we could be back to calendar views.
 
 ### Did anyone say blockchain?
 
