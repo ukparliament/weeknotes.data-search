@@ -97,7 +97,7 @@ Strolls have taken something of a back seat since we discovered we have neither 
 
 * [Wikidata hackathon in London](https://www.eventbrite.co.uk/e/wikidata-hackathon-in-london-all-levels-of-experience-welcome-tickets-42426460686?aff=efbevent)
 
-* [Dave on measuring things](cognitive-edge.com/blog/a-sense-of-direction-2-2/)
+* [Dave on measuring things](http://cognitive-edge.com/blog/a-sense-of-direction-2-2/)
 
 * [The Era of Quantum Computing Is Here. Outlook: Cloudy](https://www.quantamagazine.org/the-era-of-quantum-computing-is-here-outlook-cloudy-20180124/)
 
