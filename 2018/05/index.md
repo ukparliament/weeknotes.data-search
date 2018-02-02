@@ -3,19 +3,19 @@
 
 ### [Christmas cake, it's 38](https://www.youtube.com/watch?v=u3ZvO4pcTHs)
 
-Wednesday was [dator day 38](https://twitter.com/dasbarrett/status/958745516371775489). Which was fine. We even got through the agenda. The bit around commitments for the website took a while but the outcome was clear and it looks like an achievable amount of work for next two weeks. It was good to have [Jamie](https://twitter.com/oddtype), [Caroline](https://twitter.com/carolinekippler) and Sarah with us.
+Wednesday was [dator day 38](https://twitter.com/dasbarrett/status/958745516371775489). Which was fine. We even got through the agenda. The bit around commitments for the website took a while, but the outcome was clear and it looks like we have an achievable amount of work for next two weeks. It was good to have [Jamie](https://twitter.com/oddtype), [Caroline](https://twitter.com/carolinekippler) and Sarah with us.
 
 Some stuff that was agreed:
 
 * the big priority for the next two weeks is getting [written question and answer](https://ukparliament.github.io/ontologies/question-and-answer/question-and-answer-ontology.html) data into a state where features can be built and put into production on the beta website
 
-* continued collaboration with the committees and Guide to Procedure teams to get features into production on the beta website
+* continued collaboration with the Committees and Guide to Procedure teams to get features into production on the beta website
 
 * helping to get Peers' portraits into the data platform and onto the beta website
 
-* developing search hints for works of art and the new shop
+* developing search hints for [works of art](http://www.parliament.uk/about/art-in-parliament/) and the [new shop](https://www.shop.parliament.uk/)
 
-* looking at open graph and similar 'standards'
+* looking at [open graph](http://ogp.me/) and similar 'standards'
 
 Following on from dator day, [Dan](https://twitter.com/dasbarrett) gave the development team an update on priorities for the next two weeks. The team really got a lot of stuff done in the past fortnight.
 
