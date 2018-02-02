@@ -9,7 +9,7 @@ Some stuff that was agreed:
 
 * the big priority for the next two weeks is getting [written question and answer](https://ukparliament.github.io/ontologies/question-and-answer/question-and-answer-ontology.html) data into a state where features can be built and put into production on the beta website
 
-* continued collaboration with the Committees and Guide to Procedure teams to get features into production on the beta website
+* continued collaboration with the Committees and Guide to Procedure teams to get features into production on the [beta website](https://beta.parliament.uk/)
 
 * helping to get Peers' portraits into the data platform and onto the beta website
 
@@ -21,7 +21,7 @@ Following on from dator day, [Dan](https://twitter.com/dasbarrett) gave the deve
 
 ### Community
 
-Dan went along to [Teacamp](https://teacamplondon.com/) and heard about [digital work in health](https://twitter.com/dasbarrett/status/959139568330166273). It was a good dose of perspective and made him realise that Parliament isn't really all that hard.
+Dan went along to [Teacamp](https://teacamplondon.com/) and heard about [digital work in health](https://twitter.com/dasbarrett/status/959139568330166273). It provided a good dose of perspective and made him realise that Parliament isn't really all that hard.
 
 ### Corpcomms
 
@@ -41,7 +41,7 @@ Saffiyah had a meeting on useful digital tools for people with dyslexia and dysp
 
 Anya and Michael made some changes to the comments on the [time period model](https://ukparliament.github.io/ontologies/time-period/time-period-ontology.html) following several emails and fag break chats with Paul Evans. They also made a couple of minor tweaks to the [question and answer](https://ukparliament.github.io/ontologies/question-and-answer/question-and-answer-ontology.html) and [tabling](https://ukparliament.github.io/ontologies/tabling/tabling-ontology.html) models.
 
-They had a good conversation with Gini Griffin from the House of Commons Table Office about whether [round robin questions](https://ukparliament.github.io/ontologies/question-and-answer/question-and-answer-ontology.html#d4e44) could be treated as a single question with multiple answers. This would be a major change to existing practice and mean removing mentions of the gender of the answering minister. So, at least for now, it doesn't seem likely.
+They had a good conversation with Gini from the House of Commons Table Office about whether [round robin questions](https://ukparliament.github.io/ontologies/question-and-answer/question-and-answer-ontology.html#d4e44) could be treated as a single question with multiple answers. This would be a major change to existing practice and mean removing mentions of the gender of the answering minister. So, at least for now, it doesn't seem likely.
 
 Liz introduced Michael to Matthew Keep from the House of Commons Library. They're looking for better ways to self-serve constituency information. We've suggested that part of the answer should involve adding constituency demographic data to the data platform. Michael is going to take a look at modelling some of the data we already have. In the long term it would open up an opportunity for the Library to ask questions like: give me questions from session x, on topic y from members representing constituencies with demographic z. Which would make all this linked data stuff actually worthwhile.
 
@@ -55,7 +55,7 @@ Progress has continued on the more conceptual elements of the data toolkit, incl
 
 [Jianhan](https://twitter.com/jianhanzhu) worked with Wojciech and [Samu](https://twitter.com/langsamu) to create an 'interim data source' to provide committee data which is either not in the Members' Names Information Service (MNIS) or is in MNIS but is incorrect and can't be fixed. To help editors, this has been pre-populated with data from MNIS where possible. The orchestration has also been deployed to grab data from the interim data source and push it to the data platform. Progress on getting this into website production is reliant on the product team filling in the data source and either creating new queries or working with Data and Search to create them.
 
-Chris has been working on importing Government Organisation data into the platform. Queries still need to be created to get this information onto the website. He's now chatting to Anya about answering bodies. There's some fuzziness here because whilst all committees, government organisations, government departments and answering bodies are groups, not all government organisations are government departments, not all answering bodies are government departments and some but not all committees are answering bodies. And we haven't even got to laying bodies yet. Our world is full of non-exclusive sets. Despite its detractors, at this point we'd like to express our gratitude to [RDF](https://en.wikipedia.org/wiki/Resource_Description_Framework).
+Chris has been working on importing government organisation data into the platform. Queries still need to be created to get this information onto the website. He's now chatting to Anya about answering bodies. There's some fuzziness here because whilst all committees, government organisations, government departments and answering bodies are groups, not all government organisations are government departments, not all answering bodies are government departments and some but not all committees are answering bodies. And we haven't even got to laying bodies yet. Our world is full of non-exclusive sets. Despite its detractors, at this point we'd like to express our gratitude to [RDF](https://en.wikipedia.org/wiki/Resource_Description_Framework).
 
 [Raphael](https://twitter.com/RaphaelLeung) has started to look at importing [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page) identifiers for [parliament periods](https://beta.parliament.uk/parliaments). Michael feels this will be very cool.
 
@@ -66,7 +66,7 @@ The migration of [data.parliament.uk](http://www.data.parliament.uk/) to her new
 
 #### Web search
 
-Dan finally did some actual search leadership, making a decision about some new features for a public website for the first time in possibly ever. He's still bitter that didn't even get to say 'no' to the [data.parliament.uk](http://www.data.parliament.uk/) carousel. And that's like a decade ago. He's also asked for input from design colleagues.
+Dan finally did some actual search leadership, making a decision about some new features for a public website for the first time in possibly ever. He's still bitter that he didn't even get to say 'no' to the [data.parliament.uk](http://www.data.parliament.uk/) carousel. And that's like a decade ago. He's also asked for input from design colleagues.
 
 Raphael added some server side tracking and we can now see the hints returned for the results of a search. It's a custom event and in testing we found that [a search result can be a search result](https://en.wikipedia.org/wiki/Turtles_all_the_way_down). This is currently being fixed in [robots.txt](http://www.robotstxt.org/). Sara is using the tracking to build on the work to evaluate hints by URLs.
 
@@ -81,15 +81,15 @@ Saffiyah, Liz and Sara met with [Alex](https://twitter.com/alexedwardh) to explo
 
 Samu and Wojciech turned on continuous export for our analytics package, which now gives us access to more than 90 days worth of data.
 
-Liz talked to Jane in corporate services about how we plan to remove the need for a SharePoint repository for their KPI data. We want to bring all KPI data into a staging area and connect to their current sources (spreadsheets mostly), removing the need for them to re-enter information. Since everyone hates the SharePoint solution, they seem happy with the proposal.
+Liz talked to Jane in Corporate Services about how we plan to remove the need for a SharePoint repository for their KPI data. We want to bring all KPI data into a staging area and connect to their current sources (spreadsheets mostly), removing the need for them to re-enter information. Since everyone hates the SharePoint solution, they seem happy with the proposal.
 
 ### Corporate data
 
-[Matt](https://twitter.com/matiasgermanico) continued work on the House of Commons HR system integration. He's completed isolated testing including extraction of people data. Full testing has now started. As a part of that he'll verify the policies that perform the data matching and get a comparison of People Data records before and after running the feed.
+[Matt](https://twitter.com/matiasgermanico) continued work on the House of Commons HR system integration. He's completed isolated testing including extraction of People Data. Full testing has now started. As a part of that he'll verify the policies that perform the data matching and get a comparison of People Data records before and after running the feed.
 
 Matt's also been building the feeds to send People Data, cost centres and hardware asset usage to the assets management system. These feeds need to be tested by the Information Systems Team. We await the results.
 
-Noel's been conducting a review of data surrounding job information and identifying a way of making sure that our mangament chain information is accurate. He's created a query of users managerial information as stored on People Data. The information has been passed on to Liz and Saffiyah for analysis. He's also been looking at records whose matching has been placed on hold and created a query that improves the identification of potential matched records.
+Noel's been conducting a review of data surrounding job information and identifying a way of making sure that our mangament chain information is accurate. He's created a query of users' managerial information as stored on People Data. The information has been passed on to Liz and Saffiyah for analysis. He's also been looking at records whose matching has been placed on hold and created a query that improves the identification of potential matched records.
  
 David's been reviewing the scripts involved with processing job information from the House the Lords HR system. He's aiming to fix the problem where some managerial information is not being fully populated.
 
