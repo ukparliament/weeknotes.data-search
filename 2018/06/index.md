@@ -87,7 +87,7 @@ Yes, Michael did get headhunted. Unfortunately it was for [the job he does in th
 
 ### Strolls
 
-No stroll were reported Robert did go round to Dan's for dinner. Dan managed not to poison anybody. We all miss Robert.
+No strolls were though reported Robert did go round to Dan's for dinner. Dan managed not to poison anybody. We all miss Robert.
 
 ### Things that caught our eye
 
