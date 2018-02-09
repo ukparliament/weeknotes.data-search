@@ -55,7 +55,7 @@ Wojciech and Liz looked at a new package for exporting our analytics data to a n
 
 ### Data toolkit
 
-Matthieu and Samu managed to install some new [SKOS](https://www.w3.org/2004/02/skos/) management software on our cloud infrastructure and import the [current controlled vocabulary](http://www.data.parliament.uk/dataset/thesauri). They also came up with a longer term plan for migrating the vocabulary whilst not interrupting the authoring and indexing work that relies on it. The plan caters for maintaining the server component of the current vocabulary management tool during the transition period. Given many of our internal systems rely on this, maintaining an equivalent service during transition is not unimportant.
+Matthieu and Samu managed to install some new [SKOS](https://www.w3.org/2004/02/skos/) management software on our cloud infrastructure and import the [current controlled vocabulary](http://www.data.parliament.uk/dataset/thesauri). They also came up with a longer term plan for migrating the vocabulary whilst not interrupting the authoring and indexing work that relies on it.
 
 ### Migrating data.parliament
 
