@@ -83,7 +83,7 @@ Hopefully, not so much.
 
 ### Did anyone on the internet confuse Parliament with government?
 
-Whilst we did not witness this, we're fairly sure it must have happened. Anya and Michael did manage to increase the population count of people who now know Parliament != government by at least four. Which is a small achievement. But not unrewarding.
+Whilst we did not witness this, we're fairly sure it must have happened. Anya and Michael did manage to increase the population count of people who now know Parliament != government by four. Which is a small achievement. But not unrewarding.
 
 ### Did Michael get headhunted?
 
