@@ -25,7 +25,7 @@ Anya and Michael met with the Principal Clerk of the House of Commons Table Offi
 
 Anya, [Silver](https://twitter.com/silveroliver), [Ben](https://twitter.com/benwoodhams) and Michael spent Tuesday doing some more wrestling with [statutory instruments](http://www.parliament.uk/business/bills-and-legislation/secondary-legislation/statutory-instruments/). They're coming to the conclusion that the basic model is pretty simple: just some routes over stepping stones. Hopscotch got mentioned. The problem is those steps touch on pretty much everything in Parliament from motions and amendments to debates and committees to divisions and reports and etc. So it's basically easy. But almost [impossible](http://www.hark.com/clips/zcskfldshq-i-sure-as-hell-wouldnt-start-from-here).
 
-On Thursday Anya and Michael took a kind of break from Parliament and decided to do government for a change. [Ganesh](https://twitter.com/gansenthi) and [Tim](https://twitter.com/TimAdey2 ‏) from GDS / the Cabinet Office came over to talk about objectives and targets and policies and interventions. A [picture](https://github.com/ukparliament/domain-models/blob/master/government/domain%20model.pdf) was drawn. They think it is OK.
+On Thursday Anya and Michael took a kind of break from Parliament and decided to do government for a change. [Ganesh](https://twitter.com/gansenthi) and [Tim](https://twitter.com/TimAdey2) from GDS / the Cabinet Office came over to talk about objectives and targets and policies and interventions. A [picture](https://github.com/ukparliament/domain-models/blob/master/government/domain%20model.pdf) was drawn. They think it is OK.
 
 ### Data platform
 
@@ -55,7 +55,7 @@ Wojciech and Liz looked at a new package for exporting our analytics data to a n
 
 ### Data toolkit
 
-Matthieu and Samu managed to install some new [SKOS](https://www.w3.org/2004/02/skos/) management software on our cloud infrastructure and import the [current controlled vocabulary](http://www.data.parliament.uk/dataset/thesauri). They also came up with a longer term plan for migrating the vocabulary whilst not interrupting the authoring and indexing work that relies on it. The plan caters for maintaining the server component of the current vocabulary management tool during the transition period. Given many of our internal systems rely on this, mainting an equivalent service during transition is not unimportant.
+Matthieu and Samu managed to install some new [SKOS](https://www.w3.org/2004/02/skos/) management software on our cloud infrastructure and import the [current controlled vocabulary](http://www.data.parliament.uk/dataset/thesauri). They also came up with a longer term plan for migrating the vocabulary whilst not interrupting the authoring and indexing work that relies on it. The plan caters for maintaining the server component of the current vocabulary management tool during the transition period. Given many of our internal systems rely on this, maintaining an equivalent service during transition is not unimportant.
 
 ### Migrating data.parliament
 
@@ -63,13 +63,13 @@ Samu, Wojciech and Mike migrated [data.parliament](http://www.data.parliament.uk
 
 ### Corporate data
 
-[Matt](https://twitter.com/matiasgermanico) continued work on the House of Commons HR system. The new integration is currently being tested with live data. A data comparison is being done to verify the amount of records being amended by the feed itself.
+[Matt](https://twitter.com/matiasgermanico) continued work on the House of Commons HR system. The new integration is currently being tested with live data. A data comparison is being done to verify the amount of records being amended by the feed.
 
 He also worked on the asset management system and tweaked the cost centre feed. All the other feeds (people details, asset usage) have now been successfully tested.
 
 Noel got his hands on job information from the House of Commons HR system. He's now analysing this against data in the central pot to identify differences and understand why they exist. He's also provided a list of active users and their departments to the people responsible for our subscriptions to mailing and newspaper platforms.
  
-David implementing the new facilities person interface and is currently working on the organisation interface.
+David has been implementing the new facilities person interface and is currently working on the organisation interface.
  
 Lewis continued work on a new finance and stock integration by developing and starting to test the new invoice data flow.
 
@@ -81,13 +81,17 @@ Lewis continued work on a new finance and stock integration by developing and st
 
 Hopefully, not so much.
 
-### Did Michael get head hunted?
+### Did anyone on the internet confuse Parliament with government?
+
+Whilst we did not witness this, we're fairly sure it must have happened. Anya and Michael did manage to increase the population count of people who now know Parliament != government by at least four. Which is a small achievement. But not unrewarding.
+
+### Did Michael get headhunted?
 
 Yes, Michael did get headhunted. Unfortunately it was for [the job he does in the organisation he works for](https://twitter.com/fantasticlife/status/960123698723348480), but, given no-one has ever expressed an interest in the past, he's still rather thrilled.
 
 ### Strolls
 
-No strolls were reported, though Robert did go round to Dan's for dinner. Dan managed not to poison anybody. We all miss Robert.
+No strolls were reported, though Robert did go round to Dan's for dinner. Dan managed not to poison anybody. Anya, Ben and Michael are all looking forward to lunch with Robert tomorrow.
 
 ### Things that caught our eye
 
