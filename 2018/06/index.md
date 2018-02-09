@@ -11,7 +11,7 @@ Dan seemed to spend most of the week talking to product teams. And a fair chunk 
 
 Dan went along to the website roadmap meeting. And lots of people came to our show and tell where Chris talked about integrating content storage into the data platform. So that's good.
 
-Anya left the library to come talk to assorted product people about the Indexing and Data Management Section and the work they do to subject index parliamentary material. Michael chipped in with strong [SKOS](https://www.w3.org/2004/02/skos/) reckons. A fun time was had by all.
+Anya left the library to travel to computer land and talk to assorted product people about the Indexing and Data Management Section and the work they do to subject index parliamentary material. Michael chipped in with strong [SKOS](https://www.w3.org/2004/02/skos/) reckons. A fun time was had by all.
 
 Anya and Michael met with Steve Wise, Anya's boss man and the Director of Information in the House of Commons Library. They had a good chat about [new search](https://beta.parliament.uk/search) and it's [reliance on well planned information architecture](http://smethur.st/posts/176135866). The trick here is still hypertext. Everything in its right place, at persistent URIs, subsidiary resources exposed and *linked to*. They also chatted about super specialist queries and the planned [SPARQL](https://en.wikipedia.org/wiki/SPARQL) endpoint.
 
