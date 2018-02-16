@@ -3,13 +3,9 @@
 
 ### [Steps, it's 39](https://www.youtube.com/watch?v=u3ZvO4pcTHs)
 
-For many people Wednesday was Valentine's Day. For a lucky few it was [dator day 39](https://twitter.com/fantasticlife/status/963803168692932608). Our [Dan](https://twitter.com/dasbarrett) was ill so the team took a turn for the holacratic and successfully self-organised. [Michael](https://twitter.com/fantasticlife) introduced the innovation of a lunchtime pint. We're hoping innovation turns quickly to tradition.
+For many people Wednesday was Valentine's Day. For a lucky few it was [dator day 39](https://twitter.com/fantasticlife/status/963803168692932608). Our [Dan](https://twitter.com/dasbarrett) was ill so the team took a turn for the holacratic and successfully self-organised.
 
-For reasons best known to [Aidan](https://twitter.com/aidan_morgan), he'd booked us into "the Sky Room". Which is like a mad granny attic for ideators at Her Majesty's Treasury. We have no idea if her majesty knows this is how they're spending her money. Unfortunately, if understandably, the Treasury is quite security conscious, so unsupervised cigarette breaks and toilets trips proved impossible. We lasted 20 minutes. If you're curious about "the Sky Room", you can [see a photo here](https://pds.blog.parliament.uk/2017/07/12/co-designing-search-on-parliament-uk/). We'd recommend a visit but only if you neither smoke nor own a bladder.
-
-Back on topic:
-
-Having escaped "the Sky Room", we made our way to Tothill Street and were joined later by [Caroline](https://twitter.com/carolinekippler), Sarah and [Jamie](https://twitter.com/oddtype). Joint website priorities were agreed:
+We were joined in the afternoon by [Caroline](https://twitter.com/carolinekippler), Sarah and [Jamie](https://twitter.com/oddtype). Joint website priorities were agreed:
 
 * Moving concepts (indexing terms) to the live service for the Guide to Procedure team.
 
