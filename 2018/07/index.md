@@ -86,7 +86,7 @@ We now have two doctors. Sara has joined [Jianhan](https://twitter.com/jianhanzh
 
 ### Strolls
 
-No strolls reported but Anya, [Ben](https://twitter.com/benwoodhams) and Michael did pop by Robert's house for a lovely lunch and some wine. We played by Surrey Rules. [Everybody wore Robert's socks](fantasticlife: Everybody wore Roberts socks pic.twitter.com/LyVOSZ5Zdu).
+No strolls reported but Anya, [Ben](https://twitter.com/benwoodhams) and Michael did pop by Robert's house for a lovely lunch and some wine. We played by Surrey Rules. [Everybody wore Robert's socks](https://twitter.com/fantasticlife/status/962388415827337218).
 
 ### Things that caught our eye
 
