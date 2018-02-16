@@ -3,9 +3,9 @@
 
 ### [Steps, it's 39](https://www.youtube.com/watch?v=u3ZvO4pcTHs)
 
-For many people Wednesday was Valentine's Day. For a lucky few it was [dator day 39](https://twitter.com/fantasticlife/status/963803168692932608). Our [Dan](https://twitter.com/dasbarrett) was ill but the team took a turn for the holacratic and successfully self-organised. [Michael](https://twitter.com/fantasticlife) introduced the innovation of a lunchtime pint. We're hoping innovation turns quickly to tradition.
+For many people Wednesday was Valentine's Day. For a lucky few it was [dator day 39](https://twitter.com/fantasticlife/status/963803168692932608). Our [Dan](https://twitter.com/dasbarrett) was ill so the team took a turn for the holacratic and successfully self-organised. [Michael](https://twitter.com/fantasticlife) introduced the innovation of a lunchtime pint. We're hoping innovation turns quickly to tradition.
 
-For reasons best know to [Aidan](https://twitter.com/aidan_morgan), he'd booked us into "the Sky Room". Which is like a mad granny attic for ideators at Her Majesty's Treasury. We have no idea if her majesty knows this is how they're spending her money. Unfortunately, if understandbly, the Treasury is quite security conscious, so unsupervised cigarette breaks and toilets trips proved impossible. We lasted 20 minutes. If you're curious about "the Sky Room", you can [see a photo here](https://pds.blog.parliament.uk/2017/07/12/co-designing-search-on-parliament-uk/). We'd recommend a visit but only if you neither smoke nor own a bladder.
+For reasons best known to [Aidan](https://twitter.com/aidan_morgan), he'd booked us into "the Sky Room". Which is like a mad granny attic for ideators at Her Majesty's Treasury. We have no idea if her majesty knows this is how they're spending her money. Unfortunately, if understandably, the Treasury is quite security conscious, so unsupervised cigarette breaks and toilets trips proved impossible. We lasted 20 minutes. If you're curious about "the Sky Room", you can [see a photo here](https://pds.blog.parliament.uk/2017/07/12/co-designing-search-on-parliament-uk/). We'd recommend a visit but only if you neither smoke nor own a bladder.
 
 Back on topic:
 
@@ -13,7 +13,7 @@ Having escaped "the Sky Room", we made our way to Tothill Street and were joined
 
 * Moving concepts (indexing terms) to the live service for the Guide to Procedure team.
 
-* Building out content collections in the data platform to allow the Guide to Procedure team to curate content into things a bit like parts and sections and chapters. We need to firm up modelling of collections, collection hierarchies, ordering within a collection, collections in collection and basic collection descriptions.
+* Building out content collections in the data platform to allow the Guide to Procedure team to curate content into things a bit like parts and sections and chapters. We need to firm up modelling of collections, collection hierarchies, ordering within a collection, collections in a collection and basic collection descriptions.
 
 * Continuing to work on getting written question and answers into the data platform and agreeing the API spec with the website team.
 
@@ -31,9 +31,9 @@ Samu and [Chris](https://twitter.com/chrisalcockdev) called by in the afternoon 
 
 ### One world, one web, one team
 
-[Alex](https://twitter.com/alexedwardh) has been tinkering with the Search and Indexing triple store in an attempt to grab data for our Liz. Liz has been looking at usage of subject indexing terms over time by the Indexing and Data Management Section in the Mouse of Commons Library. Alex has automated a query to return daily reports for subject terms used and the frequency of their usage. It's now whirring away and spitting out data.
+[Alex](https://twitter.com/alexedwardh) has been tinkering with the Search and Indexing triple store in an attempt to grab data for our Liz. Liz has been looking at usage of subject indexing terms over time by the Indexing and Data Management Section (IDMS) in the Mouse of Commons Library. Alex has automated a query to return daily reports for subject terms used and the frequency of their usage. It's now whirring away and spitting out data.
 
-Alex also automated a query to export the last six months of data from the Solr index. In order to keep things from breaking, the app currently runs twice a day and is grabbing a week's worth of records at a time. So it should take about 13 days to grab 6 months of data at its current rate. Sara and Saffiyah are planning to use this data to investigate how IDMS index content, how consistent that is over time, the granularity of the terms used, and the cooccurrence of terms across content.
+Alex also automated a query to export the last six months of data from the Solr index. In order to keep things from breaking, the app currently runs twice a day and is grabbing a week's worth of records at a time. It should take about 13 days to grab 6 months of data at its current rate. Sara and Saffiyah are planning to use this data to help IDMS, investigating things such as how consistent indexing is over time, the granularity of the terms used, and the cooccurrence of terms across content.
 
 Liz and Steve ran a "drop in session" to offer help and advice around all things analytics and user research. 8 people from 8 different teams came along to chat. [Julie](https://twitter.com/julietouring) would like to say thank you.
 
@@ -50,17 +50,17 @@ Anya and Michael also met with [Nerys](https://twitter.com/nerys_d) (formerly of
 
 ### Data platform
 
-Samu's been making some improvements to the Fixed Query application. It's the application that holds the many and varied queries that serve data to the new website. He's added an additional unit test to guarantee new queries are mapped to a corresponding endpoint. Previously it was possible for a developer to forget to create the endpoint definition to expose a new query on the API. And now it isn't. 
+Samu's been making some improvements to the Fixed Query application. This is the application that holds the many and varied queries that serve data to the new website. He's added an additional unit test to guarantee new queries are mapped to a corresponding endpoint. Previously it was possible for a developer to forget to create the endpoint definition to expose a new query on the API. And now it isn't. 
 
-Samu's also added a status check to pull requests, so developers submitting new code know whether their code passed our tests. We have both belts and braces.
+Samu's also added a status check to pull requests, so developers submitting new code know whether their code passes our tests. We have both belts and braces.
 
-Work has continued on investigating source systems and data quality for written questions and answers. No data has been orchestrated as yet but that should start to happen soon. In the meantime, we know the shape of the data model so it's possible for the website team to develop against agreed API specs.
+Work has continued on investigating source systems and data quality for written questions and answers. No data has been orchestrated as yet, but that should start to happen soon. In the meantime, we know the shape of the data model so it's possible for the website team to develop against agreed API specs.
 
 ### Search
 
 [Jake](https://twitter.com/carboia) has pushed [Open Graph](http://ogp.me/) markup to the beta website. Which means assorted social media platforms and search engines get a little more "metadata" (forgive me) about our pages. And can decorate their links accordingly. Top work Jake.
 
-At Jake's request, Samu has tinkered with our robots.txt to open by Members' photos to search engines.
+At Jake's request, Samu has tinkered with our [robots.txt](http://www.robotstxt.org/) to open Members' photos to search engines.
 
 ### Corporate data
 
@@ -74,7 +74,7 @@ Lewis is continuing with development and testing work for new finance and stock 
 
 ### Excellent customer service award...
 
-Sadly, no excellent customer service was delivered. Tune in next week when we're sure we'll have been some use to someone.
+Sadly, no excellent customer service was delivered. Tune in next week when we're sure we'll have been of some use to someone.
 
 ### Are topics fashionable?
 
