@@ -8,9 +8,9 @@ Raphael went to a workshop on explainable AI, data use and consent at Loughborou
 
 ### One world, one web, one team
 
-Show and tell was much improved from last week when [Michael](https://twitter.com/fantasticlife) forgot to turn up. This week his memory was much improved so he went along and showed the work he's been doing with [Anya](https://twitter.com/bitten_), [Ben](https://twitter.com/benwoodhams) and [Silver](https://twitter.com/silveroliver) on written parliamentary questions and answers. It seemed to go OK and was well attended. Tim Barnes, the project manager, came bearing a message from Business Systems about their new API for questions. [Jianhan](https://twitter.com/jianhanzhu) went away and spent a bit of time looking at this API and had [some questions around oral answers](https://twitter.com/jianhanzhu/status/966628080113586176).
+Show and tell was much improved from last week when [Michael](https://twitter.com/fantasticlife) forgot to turn up. This week his memory was functioning better, so he went along and showed the work he's been doing with [Anya](https://twitter.com/bitten_), [Ben](https://twitter.com/benwoodhams) and [Silver](https://twitter.com/silveroliver) on written parliamentary questions and answers. It seemed to go OK and was well attended. Tim Barnes, the project manager, came bearing a message from Business Systems about their new API for questions. [Jianhan](https://twitter.com/jianhanzhu) went away and spent a bit of time looking at this API and had [some questions around oral answers](https://twitter.com/jianhanzhu/status/966628080113586176).
 
-On Thursday we had a joint website / data and search / business systems / library session about [Statutory Instruments](http://www.parliament.uk/business/bills-and-legislation/secondary-legislation/statutory-instruments/). It was pretty good, all told. There we actual decisions. An acknowledgement of work already done. And some more work still to be done.
+On Thursday we had a joint website / data and search / business systems / library / business session about [Statutory Instruments](http://www.parliament.uk/business/bills-and-legislation/secondary-legislation/statutory-instruments/). It was pretty good, all told. There were actual decisions. An acknowledgement of work already done. And some more work still to be done.
 
 Anya and Michael met with the website team working on statutory instruments to talk them through their work so far. There's a general feeling that the bit that's seen as hard (process flow) isn't that hard, and the bit that's seen as easy (all the actual business) is about as hard as modelling the whole of Parliament.
 
@@ -51,7 +51,7 @@ Chris spent some time looking into existing vocabularies for subject indexing co
 
 The House of Commons HR system feed is now live. Hurrah.
 
-[Matt](https://twitter.com/matiasgermanico) discovered that the fiance system feed contains tab characters. He needs to modify the pipeline to strip out extended characters.
+[Matt](https://twitter.com/matiasgermanico) discovered that the finance system feed contains tab characters. He needs to modify the pipeline to strip out extended characters.
 
 Noel continued with his review of the data held in People Directory and Lewis continued with development work on the new stock and finance systems integration. He also did a bit of codebase maintenance.
  
@@ -75,7 +75,7 @@ Still just the two. Must try harder here.
 
 ### Did anybody say orthogonal?
 
-Michael said orthogonal. Many times. As is his want.
+Michael said orthogonal. Many times. As is his wont.
 
 ### Strolls
 
