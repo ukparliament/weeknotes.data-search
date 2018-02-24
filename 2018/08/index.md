@@ -2,7 +2,7 @@
 
 ### Community
 
-[Dan](https://twitter.com/dasbarret) went along to the [Institute for Government](https://www.instituteforgovernment.org.uk/) for a 'round table' about Parliamentary data. He felt pretty useful and, unusually, was listened to.
+[Dan](https://twitter.com/dasbarrett) went along to the [Institute for Government](https://www.instituteforgovernment.org.uk/) for a 'round table' about Parliamentary data. He felt pretty useful and, unusually, was listened to.
 
 Raphael went to a workshop on explainable AI, data use and consent at Loughborough University. He thought it was well organised and relevant to our work.
 
