@@ -21,20 +21,20 @@ e.g.
 
 [https://api.parliament.uk/photo/iXSJ5Acp](https://api.parliament.uk/photo/iXSJ5Acp)
 
-As you can see from the media pages we present the photos on (https://beta.parliament.uk/media/iXSJ5Acp), you can add some parameters to crop and resize the photos from our API rather than on your end, e.g.:
+As you can see from our media pages ([https://beta.parliament.uk/media/iXSJ5Acp](https://beta.parliament.uk/media/iXSJ5Acp)), you can add parameters to crop and resize the photos from our API rather than on your end, e.g.
 
-* https://api.parliament.uk/photo/iXSJ5Acp.jpeg?crop=MCU_3:2&quality=80&download=true 
+* [https://api.parliament.uk/photo/iXSJ5Acp.jpeg?crop=MCU_3:2&quality=80&download=true](https://api.parliament.uk/photo/iXSJ5Acp.jpeg?crop=MCU_3:2&quality=80&download=true)
 
-* https://api.parliament.uk/photo/iXSJ5Acp.jpeg?crop=MCU_3:4&quality=80&download=true
+* [https://api.parliament.uk/photo/iXSJ5Acp.jpeg?crop=MCU_3:4&quality=80&download=true](https://api.parliament.uk/photo/iXSJ5Acp.jpeg?crop=MCU_3:4&quality=80&download=true)
 
-* https://api.parliament.uk/photo/iXSJ5Acp.jpeg?crop=CU_1:1&quality=80&download=true
+* [https://api.parliament.uk/photo/iXSJ5Acp.jpeg?crop=CU_1:1&quality=80&download=true](https://api.parliament.uk/photo/iXSJ5Acp.jpeg?crop=CU_1:1&quality=80&download=true)
 
-These are in use so should be cached and fast to serve. If you ask for custom parameters it may take a while per photo.
+The examples above are all in use, so should be cached and fast to serve. If you ask for custom parameters it may take a while per photo.
 
 Your use will be subject to rate limiting – 10 calls per second per IP address for /query, 60 calls per second per IP address for /photo
 
-Returning to the results from https://api.parliament.uk/query/person_photo_index, please notice that the person URI (e.g.: https://id.parliament.uk/nerwVGrY) is Parliament’s canonical URI for, in this case, a person and will resolve to https://beta.parliament.uk/people/nerwVGrY 
+Returning to the results from [https://api.parliament.uk/query/person_photo_index](https://api.parliament.uk/query/person_photo_index), please notice that the person URI (e.g. [https://id.parliament.uk/nerwVGrY](https://id.parliament.uk/nerwVGrY)) is Parliament’s canonical URI for, in this case, a person and will resolve to [https://beta.parliament.uk/people/nerwVGrY](https://beta.parliament.uk/people/nerwVGrY). 
 
 Some Lords have had their photos taken and will be available in the near future.
 
-This is the licence the images are released under: https://creativecommons.org/licenses/by/3.0/ 
+This is the licence the images are released under a [Creative Commons Attribution Licence](https://creativecommons.org/licenses/by/3.0/).
