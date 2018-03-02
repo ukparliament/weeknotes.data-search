@@ -2,7 +2,7 @@
 
 There's an index of Member portraits here:
 
-[https://api.parliament.uk/query/person_photo_index](https://api.parliament.uk/query/person_photo_index)
+* [https://api.parliament.uk/query/person_photo_index](https://api.parliament.uk/query/person_photo_index)
 
 You can request the index in a bunch of different formats, e.g.
 
@@ -14,12 +14,12 @@ You can request the index in a bunch of different formats, e.g.
 
 From this you can get the URIs of the photos in our triple store, e.g. 
 
-[https://id.parliament.uk/iXSJ5Acp](https://id.parliament.uk/iXSJ5Acp)
+* [https://id.parliament.uk/iXSJ5Acp](https://id.parliament.uk/iXSJ5Acp)
 
 If you take the ID from the end of this and go to our photo API, you get the full size image, with metadata embedded,
 e.g.
 
-[https://api.parliament.uk/photo/iXSJ5Acp](https://api.parliament.uk/photo/iXSJ5Acp)
+* [https://api.parliament.uk/photo/iXSJ5Acp](https://api.parliament.uk/photo/iXSJ5Acp)
 
 As you can see from our media pages (e.g. [https://beta.parliament.uk/media/iXSJ5Acp](https://beta.parliament.uk/media/iXSJ5Acp)), you can add parameters to crop and resize the photos from our API rather than on your end, e.g.
 
