@@ -37,4 +37,4 @@ Returning to the results from [https://api.parliament.uk/query/person_photo_inde
 
 Some Lords have had their photos taken and will be available in the near future.
 
-This is the licence the images are released under a [Creative Commons Attribution Licence](https://creativecommons.org/licenses/by/3.0/).
+The images are released under a [Creative Commons Attribution Licence](https://creativecommons.org/licenses/by/3.0/).
