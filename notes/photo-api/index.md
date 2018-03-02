@@ -31,10 +31,10 @@ As you can see from our media pages ([https://beta.parliament.uk/media/iXSJ5Acp]
 
 The examples above are all in use, so should be cached and fast to serve. If you ask for custom parameters it may take a while per photo.
 
-Your use will be subject to rate limiting – 10 calls per second per IP address for /query, 60 calls per second per IP address for /photo
+Your use will be subject to rate limiting: 10 calls per second per IP address for /query, 60 calls per second per IP address for /photo.
 
 Returning to the results from [https://api.parliament.uk/query/person_photo_index](https://api.parliament.uk/query/person_photo_index), please notice that the person URI (e.g. [https://id.parliament.uk/nerwVGrY](https://id.parliament.uk/nerwVGrY)) is Parliament’s canonical URI for, in this case, a person and will resolve to [https://beta.parliament.uk/people/nerwVGrY](https://beta.parliament.uk/people/nerwVGrY). 
 
-Some Lords have had their photos taken and will be available in the near future.
+Some Peers have had their photos taken and will be available in the near future.
 
 The images are released under a [Creative Commons Attribution Licence](https://creativecommons.org/licenses/by/3.0/).
