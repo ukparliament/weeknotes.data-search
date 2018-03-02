@@ -6,7 +6,7 @@
 
 Which is a long way of saying that cold has partly stopped play this week. But in a way that only makes sense to [808 State show](https://www.808state.com/sounds/808djs.htm) nostalgics. Of which [Michael](https://twitter.com/fantasticlife) is one.
 
-Any road, weeknotes are slightly curtailed this week. Normal service resumes once our fingers thaw out.
+Any road, weeknotes are slightly curtailed. Normal service resumes once our fingers thaw out.
 
 ### Community
 
@@ -54,7 +54,7 @@ Michael continued to say orthogonal. He thought it made him sound clever but oth
 
 ### Strolls
 
-Way, way too cold for strolls. But Anya, Robert and Michael did go on a visit to Ben's house in Richmond where we had lunch and chatted. Someone stole [Michael's hat](https://twitter.com/fantasticlife/status/967552443298000897). Nobody was expecting borderline criminality in Richmond.
+Way, way too cold for strolls. But Anya, Robert and Michael did go on a visit to Ben's house in Richmond where they had lunch and chatted. Someone stole [Michael's hat](https://twitter.com/fantasticlife/status/967552443298000897). Nobody was expecting borderline criminality in Richmond.
 
 ### Things that caught our eye
 
