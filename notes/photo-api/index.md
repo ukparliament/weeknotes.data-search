@@ -33,7 +33,7 @@ The examples above are all in use, so should be cached and fast to serve. If you
 
 Your use will be subject to rate limiting: 10 calls per second per IP address for /query, 60 calls per second per IP address for /photo.
 
-Returning to the results from [https://api.parliament.uk/query/person_photo_index](https://api.parliament.uk/query/person_photo_index), please notice that the person URI (e.g. [https://id.parliament.uk/nerwVGrY](https://id.parliament.uk/nerwVGrY)) is Parliament’s canonical URI for, in this case, a person and will resolve to [https://beta.parliament.uk/people/nerwVGrY](https://beta.parliament.uk/people/nerwVGrY). 
+Returning to the results from [https://api.parliament.uk/query/person_photo_index](https://api.parliament.uk/query/person_photo_index), the person URI (e.g. [https://id.parliament.uk/nerwVGrY](https://id.parliament.uk/nerwVGrY)) is Parliament’s canonical URI for, in this case, a person and will resolve to [https://beta.parliament.uk/people/nerwVGrY](https://beta.parliament.uk/people/nerwVGrY). 
 
 Some Peers have had their photos taken and will be available in the near future.
 
