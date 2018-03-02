@@ -21,7 +21,7 @@ e.g.
 
 [https://api.parliament.uk/photo/iXSJ5Acp](https://api.parliament.uk/photo/iXSJ5Acp)
 
-As you can see from our media pages ([https://beta.parliament.uk/media/iXSJ5Acp](https://beta.parliament.uk/media/iXSJ5Acp)), you can add parameters to crop and resize the photos from our API rather than on your end, e.g.
+As you can see from our media pages (e.g. [https://beta.parliament.uk/media/iXSJ5Acp](https://beta.parliament.uk/media/iXSJ5Acp)), you can add parameters to crop and resize the photos from our API rather than on your end, e.g.
 
 * [https://api.parliament.uk/photo/iXSJ5Acp.jpeg?crop=MCU_3:2&quality=80&download=true](https://api.parliament.uk/photo/iXSJ5Acp.jpeg?crop=MCU_3:2&quality=80&download=true)
 
