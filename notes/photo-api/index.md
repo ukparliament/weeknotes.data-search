@@ -16,7 +16,7 @@ From this you can get the URIs of the photos in our triple store, e.g.
 
 [https://id.parliament.uk/iXSJ5Acp](https://id.parliament.uk/iXSJ5Acp)
 
-If you take the ID from the end of this and go to our photo API, you get the full size image, with metadata embedded
+If you take the ID from the end of this and go to our photo API, you get the full size image, with metadata embedded,
 e.g.
 
 [https://api.parliament.uk/photo/iXSJ5Acp](https://api.parliament.uk/photo/iXSJ5Acp)
