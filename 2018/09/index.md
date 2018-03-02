@@ -10,11 +10,13 @@ Any road, weeknotes are slightly curtailed. Normal service resumes once our fing
 
 ### Community
 
-Raphael went along to the [Government Data Science Partnership Conference](https://www.eventbrite.co.uk/e/government-data-science-partnership-conference-tickets-41280600387#) and was duly impressed. He thinks we should continue to engage with the community, as many public sector bodies are doing similar tasks around [NLP](https://en.wikipedia.org/wiki/Natural-language_processing) and classification. Specifically there's room for knowledge exchange around suggesting labels for documents indexed against an evolving taxonomy, comparing and evaluating performance of algorithms, and complementing human expertise with feedback pipelines. As well as applications further down the data science hierarchy of needs.
+Raphael went along to the [Government Data Science Partnership Conference](https://www.eventbrite.co.uk/e/government-data-science-partnership-conference-tickets-41280600387#) and was duly impressed. He thinks we should continue to engage with the community, as many public sector bodies are doing similar tasks around [NLP](https://en.wikipedia.org/wiki/Natural-language_processing) and classification. Specifically there's room for knowledge exchange around suggesting labels for documents indexed against an evolving taxonomy, comparing and evaluating performance of algorithms, and complementing human expertise with feedback pipelines. As well as applications further down the [data science hierarchy of needs](https://hackernoon.com/the-ai-hierarchy-of-needs-18f111fcc007).
 
 ### One world, one web, one team
 
 [Dan](https://twitter.com/dasbarrett) and Michael sat in on the roadmap planning session with the assorted website teams. Various coloured post-its were used. A wall was filled.
+
+Anya and Michael went along to a talk about the [Restoration and Renewal project](https://restorationandrenewal.parliament.uk/). It was not, in all honesty, as interesting as they'd expected it to be.
 
 ### Domain modelling
 
@@ -32,7 +34,11 @@ Our new website search continues to enjoy a [rapturous reception](https://twitte
 
 ### Corporate data
 
-[Matt](https://twitter.com/matiasgermanico)'s House of Commons HR feed is not only live but appears to be working as expected. Which is a bonus.
+[Matt](https://twitter.com/matiasgermanico)'s House of Commons HR feed is not only live but appears to be working as expected. Which is a bonus. He's planning to put the new asset management system integration live as soon as we have confirmation from the [infosec](https://en.wikipedia.org/wiki/Information_security) people that it's ok to send people data in that direction.
+
+Lewis has continued work on the stock and finance systems integration. He's mostly been figuring out how to change transaction summaries to line by line transactions to match the target API.
+
+David continued work on the new facilities system.
 
 ### Capability
 
@@ -50,11 +56,13 @@ Last winter they were the new range in, but [fashions change and rearrange](http
 
 ### Did anybody say orthogonal?
 
-Michael continued to say orthogonal. He thought it made him sound clever but other people thought he sounded like a bit of dick.
+Michael continued to say orthogonal. He thought it made him sound clever but other people thought he sounded like a bit of a dick.
 
 ### Strolls
 
 Way, way too cold for strolls. But Anya, Robert and Michael did go on a visit to Ben's house in Richmond where they had lunch and chatted. Someone stole [Michael's hat](https://twitter.com/fantasticlife/status/967552443298000897). Nobody was expecting borderline criminality in Richmond.
+
+In other accessory news, Anya finally handed over [the scarf she'd knitted for Dan](https://twitter.com/dasbarrett/status/969276711668994048). It took 401 days to make though not all of those were spent knitting.
 
 ### Things that caught our eye
 
