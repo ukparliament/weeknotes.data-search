@@ -4,7 +4,7 @@ There's an index of Member portraits here:
 
 [https://api.parliament.uk/query/person_photo_index](https://api.parliament.uk/query/person_photo_index)
 
-You can request that in a bunch of different formats, e.g.:
+You can request the index in a bunch of different formats, e.g.
 
 * [https://api.parliament.uk/query/person_photo_index.json](https://api.parliament.uk/query/person_photo_index.json)
 
