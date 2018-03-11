@@ -26,7 +26,7 @@ Anya, [Silver](https://twitter.com/silveroliver) and Michael spent a day looking
 
 Anya, Silver, Ben and Michael had a meeting with Jack Dent (House of Commons), Jane White (House of Lords) and Claire Searle (from the Indexing and Data Management Section of the House of Commons Library) to translate the flowcharts they'd previously made for negative SIs in the [Commons](https://github.com/ukparliament/domain-models/blob/master/SIs/flow-commons.pdf) and [Lords](https://github.com/ukparliament/domain-models/blob/master/SIs/flow-lords.pdf) into something more amenable to [the proposed procedure model](https://ukparliament.github.io/ontologies/procedure/procedure-ontology.html). If you are confused about parliamentary procedure for handling negative SIs this [new flowchart](https://github.com/ukparliament/ontologies/blob/master/procedure/sis/negative.pdf) might be of assistance. Obviously, it might not.
 
-Silver has been spending time translating the new flowchart into a spreadsheet. A similar flowchart and spreadhseet for affirmative SIs will follow shortly.
+Silver has been spending time translating the new flowchart into a spreadsheet. A similar flowchart and spreadsheet for affirmative SIs will follow shortly.
 
 Thursday was spent back in the realms of the procedure model. Anya, Silver and Michael met with Gordon Clarke. Who is, coincidentally, the clerk of the Transport Committee. They took the creation and population of a committee as another example of a procedural flow, and drew it out in a way that mapped to the proposed model. Tyres were kicked and no gaps were found. Which was reassuring.
 
