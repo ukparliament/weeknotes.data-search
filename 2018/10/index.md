@@ -44,7 +44,7 @@ Mike and Samu are almost ready to finish moving [Historic Hansard](http://hansar
 
 On a similar subject, [Mike gave an excellent show and tell on the migration of data.parliament.uk to our new cloud platform](https://twitter.com/dasbarrett/status/971009968966111233). Proving he's not just about excellent customer service.
 
-Samu added content collections to the data service so articles can now be bundled up into things thing parts, chapters and sections.
+Samu added content collections to the data service so articles can now be bundled up into things like parts, chapters and sections.
 
 ### Search
 
@@ -80,7 +80,7 @@ This week Aidan has been mainly:
 
 ### Excellent customer service award
 
-For anyone with a large enough gap in their lives to be following these posts, it will come as no surprise that Mike once again wins the customer service award. We had a variety of queries from public users about our search services. One in particular led to the discovery that a parliamentary question hadn't been indexed by external search engines (and therefore by our own new search) due to errors and delays in how it had been published by internal systems. It was useful insight and something we'll need to bear in mind. It also supports our position that [you can't fix web search without fixing browse](http://smethur.st/posts/176135866). There was a team effort here and Mike was able to get the user what they needed by other means.
+For anyone with a large enough gap in their lives to be following these posts, it will come as no surprise that Mike once again wins the customer service award. We had a variety of queries from public users about our search services. One in particular led to the discovery that a parliamentary question hadn't been indexed by external search engines (and therefore by our own new search) due to errors and delays in how it had been published by internal systems. It was a useful insight and something we'll need to bear in mind. It also supports our position that [you can't fix web search without fixing browse](http://smethur.st/posts/176135866). There was a team effort here and Mike was able to get the user what they needed by other means.
 
 ### Did anybody say [GDPR](https://en.m.wikipedia.org/wiki/General_Data_Protection_Regulation)?
 
@@ -88,7 +88,7 @@ Yes. Yes they did. Colleagues have been talking about it for a while, but this w
 
 Aidan attended a meeting on GDPR and now has some actions as a 'contract manager' to complete before 25th May when the legislation comes into force. He'll be talking to people across PDS to understand if changes to existing and upcoming contracts are required.
 
-Liz noticed that [IP addresses](https://en.wikipedia.org/wiki/IP_address) have dropped out of the Microsoft telemetry data. From early February they [stopped the automatic logging of this information](https://blogs.msdn.microsoft.com/applicationinsights-status/2018/02/01/all-octets-of-ip-address-will-be-set-to-zero/), quoting GDPR. We had been using IP address ranges as a an approximate way to identify internal and external users. Raphael has looked into it with Wojciech and thinks we can add some custom code to re-instate it. But maybe we don't want to do that, given it's a pretty rubbish method for the only current use we have for it. Also, yeah, GDPR.
+Liz noticed that [IP addresses](https://en.wikipedia.org/wiki/IP_address) have dropped out of the Microsoft telemetry data. From early February they [stopped the automatic logging of this information](https://blogs.msdn.microsoft.com/applicationinsights-status/2018/02/01/all-octets-of-ip-address-will-be-set-to-zero/), quoting GDPR. We had been using IP address ranges as an approximate way to identify internal and external users. Raphael has looked into it with Wojciech and thinks we can add some custom code to re-instate it. But maybe we don't want to do that, given it's a pretty rubbish method for the only current use we have for it. Also, yeah, GDPR.
 
 It will be interesting to see if Google take the same route...
 
