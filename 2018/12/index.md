@@ -30,7 +30,7 @@ Team:Samu worked with a variety of other people to finally get Peers' Portraits 
 
 Back when we released portraits of Members of the House of Commons, [Giuseppe](https://twitter.com/puntofisso) managed to grab them and [calculate the average face of an MP](https://medium.com/@puntofisso/i-calculated-the-average-face-of-a-uk-member-of-parliament-and-heres-what-i-found-37f31b72b5d9). This time around the grabbing was made easier and he managed to use our new data service to get the photos and calculate the [average face of a Peer](https://twitter.com/puntofisso/status/976424407043276802). So that's progress.
 
-Jianhan wondered what the average face in the Parliamentary Computational Service would like. No one's gone there yet.
+Jianhan wondered what the average face in the Parliamentary Computational Service would look like. No one's gone there yet.
 
 ### Parliamentary search
 
@@ -38,9 +38,9 @@ Jianhan wondered what the average face in the Parliamentary Computational Servic
 
 ### Corporate data
 
-In the fast moving world of corporate data, work continued on integrating the stock system with the finance system. Lewis continued with development and did some code refactoring and troubleshooting on one of our internal web services. Meanwhile, Matt and Noel investigated an issue in our service desk software that was causing calls to be created multiple times. Noel also continued to review the data held in People Directory.
+In the fast moving world of corporate data, work continued on integrating the stock system with the finance system. Lewis continued with development and did some code refactoring and troubleshooting on one of our internal web services. Meanwhile, [Matt](https://twitter.com/matiasgermanico) and Noel investigated an issue in our service desk software that was causing calls to be created multiple times. Noel also continued to review the data held in People Directory.
 
-Dan has instituted a new catch up with [Mat](https://twitter.com/matiasgermanico), Lew, Noel and David. The intention is to meet at 4pm everyday but so far it's looking more like 3 days in 5. Dan thinks it's been pretty good so far. The main thing on his mind is how we move to a better software environment for data integration work.
+Dan has instituted a new catch up with Matt, Lew, Noel and David. The intention is to meet at 4pm everyday but so far it's looking more like 3 days in 5. Dan thinks it's going well so far. The main thing on his mind is how we move to a better software environment for data integration work.
 
 Dan's also been working with [Toyin](https://uk.linkedin.com/in/toyinsowunmi), the data architect on people data, who's joined us for a short while to help kick off work to improve our corporate data.
 
