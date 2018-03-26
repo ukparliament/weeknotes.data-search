@@ -22,7 +22,7 @@ Anya added details of the [made affirmative Statutory Instrument procedure](http
 
 Michael went along to assorted sessions run by the website team working on [Statutory Instruments](https://en.wikipedia.org/wiki/Statutory_instrument_(UK)). There was some kind of 'mood board' session in which he scribbled out some URLs. As is his wont. Though he did get in the spirit and draw some web pages. [Ever so slightly grudgingly](http://smethur.st/posts/176135864).
 
-Anya and Michael met with [Ed](https://twitter.com/ewhitur) to talk about the data needed to 'track' a Statutory Instrument in it's passage through Parliament. A spreadsheet was produced.
+Anya and Michael met with [Ed](https://twitter.com/ewhitur) to talk about the data needed to 'track' a Statutory Instrument in its passage through Parliament. A spreadsheet was produced.
 
 ### Data platform
 
