@@ -4,7 +4,7 @@
 
 [Dan](https://twitter.com/dasbarrett) met with a delegation from the [Namibian Parliament](http://www.parliament.na/index.php?option=com_content&view=featured&Itemid=435). He realised he'd been droning on about our website and our data service for a little too long, so they went through the Namibian website instead. There was a good conversation about their users and why they want to make laws more accessible. Dan really liked the [legal database](https://laws.parliament.na/about-us/) they showed.
 
-There was also a good discussion about search with Dan mostly channeling Robert. Where are the people (not on your website) and what do they expect (to find things) is a fairly easy sell.
+There was also a good discussion about search, with Dan mostly channelling Robert. Where are the people (not on your website) and what do they expect (to find things) is a fairly easy sell.
 
 ### Community
 
