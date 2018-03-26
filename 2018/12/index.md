@@ -10,7 +10,7 @@ There was also a good discussion about search with Dan mostly channeling Robert.
 
 Dan also went along to [ACAS](http://www.acas.org.uk/index.aspx?articleid=1461). Fortunately not because of an industrial dispute, but because they asked him to come and talk to them about data. Which is nice. It was a good 'lunch and learn' session; mostly Dan talking about the Data and Search journey and what we have been doing and why and what's next. He also showed the things. Like the website. And the search. And the ubiquitous [omelette diagram](https://twitter.com/benwoodhams/status/908399321346920449) without which no talk would be complete. The feedback was good, it was really nice to talk to a receptive audience, and Dan learned a bit too.
 
-[Anya](https://twitter.com/bitten_), [Ben](https://twitter.com/benwoodhams) and [Michael](https://twitter.com/fantasticlife) went along to an [Open Government Partnership](https://www.opengovpartnership.org/) event in the offices of the Speaker, hosted by [Ben Worthy](https://twitter.com/benworthy). It was an interesting excursion to an interesting place with interesting set of questions. And the Speaker turned up. So at least one of our speakers is not missing....
+[Anya](https://twitter.com/bitten_), [Ben](https://twitter.com/benwoodhams) and [Michael](https://twitter.com/fantasticlife) went along to an [Open Government Partnership](https://www.opengovpartnership.org/) event in the offices of the Speaker, hosted by [Ben Worthy](https://twitter.com/benworthy1). It was an interesting excursion to an interesting place with interesting set of questions. And the Speaker turned up. So at least one of our speakers is not missing....
 
 ### Domain modelling
 
