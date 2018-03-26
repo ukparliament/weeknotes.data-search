@@ -2,13 +2,13 @@
 
 ### Parliament in the area, [we’re international, we’re continental](https://www.youtube.com/watch?v=pNfHoPIxhXM&t=1m9s)
 
-[Dan](https://twitter.com/dasbarratt) met with a delegation from the [Namibian Parliament](http://www.parliament.na/index.php?option=com_content&view=featured&Itemid=435). He realised he'd been droning on about our website and our data service for a little too long, so they went through the Namibian website instead. There was a good conversation about their users and why they want to make laws more accessible. Dan really liked the [legal database](https://laws.parliament.na/about-us/) they showed.
+[Dan](https://twitter.com/dasbarrett) met with a delegation from the [Namibian Parliament](http://www.parliament.na/index.php?option=com_content&view=featured&Itemid=435). He realised he'd been droning on about our website and our data service for a little too long, so they went through the Namibian website instead. There was a good conversation about their users and why they want to make laws more accessible. Dan really liked the [legal database](https://laws.parliament.na/about-us/) they showed.
 
-There was also a good discussion about search with Dan mostly channeling Robert. Where are the people are (not on your website) and what do they expect (to find things) is a fairly easy sell.
+There was also a good discussion about search with Dan mostly channeling Robert. Where are the people (not on your website) and what do they expect (to find things) is a fairly easy sell.
 
 ### Community
 
-Dan also went along to [ACAS](http://www.acas.org.uk/index.aspx?articleid=1461). Fortunately not because of an industrial dispute, but because they asked him to come and talk to them about data. Which is nice. It was a good 'lunch and learn' session, which was mostly Dan talking about the data and search journey and what we have been doing and why and what's next. He also showed the things. Like the website. And the search. And the ubiquitous 'omelette diagram' without which no talk would be complete. The feedback was good, it was really nice to talk to a receptive audience, and Dan learned a bit too.
+Dan also went along to [ACAS](http://www.acas.org.uk/index.aspx?articleid=1461). Fortunately not because of an industrial dispute, but because they asked him to come and talk to them about data. Which is nice. It was a good 'lunch and learn' session; mostly Dan talking about the Data and Search journey and what we have been doing and why and what's next. He also showed the things. Like the website. And the search. And the ubiquitous [omelette diagram](https://twitter.com/benwoodhams/status/908399321346920449) without which no talk would be complete. The feedback was good, it was really nice to talk to a receptive audience, and Dan learned a bit too.
 
 [Anya](https://twitter.com/bitten_), [Ben](https://twitter.com/benwoodhams) and [Michael](https://twitter.com/fantasticlife) went along to an [Open Government Partnership](https://www.opengovpartnership.org/) event in the offices of the Speaker, hosted by [Ben Worthy](https://twitter.com/benworthy). It was an interesting excursion to an interesting place with interesting set of questions. And the Speaker turned up. So at least one of our speakers is not missing....
 
