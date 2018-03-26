@@ -22,6 +22,8 @@ Anya added details of the [made affirmative Statutory Instrument procedure](http
 
 Michael went along to assorted sessions run by the website team working on [Statutory Instruments](https://en.wikipedia.org/wiki/Statutory_instrument_(UK)). There was some kind of 'mood board' session in which he scribbled out some URLs. As is his wont. Though he did get in the spirit and draw some web pages. [Ever so slightly grudgingly](http://smethur.st/posts/176135864).
 
+Anya and Michael met with [Ed](https://twitter.com/ewhitur) to talk about the data needed to 'track' a Statutory Instrument in it's passage through Parliament. A spreadsheet was produced.
+
 ### Data platform
 
 Team:Samu worked with a variety of other people to finally get Peers' Portraits onto the beta website. You can [see one such portrait here](https://beta.parliament.uk/people/S70cUJGM). There were a variety of last minute snaggles getting House of Lords data into a suitable shape to support the pages to host the images. [Jianhan](https://twitter.com/jianhanzhu) went with the word 'saga' and only a slightly_smiling_face. Matthieu says the final release went fairly smoothly though communication around "go live" time could have been improved. If we'd known in advance, we could have pre-warmed the cache to cope better with demand. But we didn't. So there were some initial complaints about slow responses times but we quickly scaled up our computing, crawled the pictures to warm the cache and response times instantly dropped. The infrastructure is solid and we got there. Top work all.
