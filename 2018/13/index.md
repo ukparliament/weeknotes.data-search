@@ -26,6 +26,8 @@ Samu also showed some 3D plots of procedure models he's been playing with. Next 
 
 [Dan](https://twitter.com/dasbarrett) and Michael (and Anya for the first one) had a good couple of sessions with the 'People' website product team looking at their plans for what's next and how this turns into work for Data and Search.
 
+Sara and [Alex](https://twitter.com/alexedwardh) gave a great show and tell about the work they've been doing to analyse indexing work for the Indexing and Data Management Section of the House of Commons Library and automating some of the tasks previously performed by [Phil](https://twitter.com/philbgorman) before he left for newer pastures.
+
 ### Did any of our speakers go missing?
 
 Neither of our speakers went missing this week, although we still have way too many parties.
@@ -39,3 +41,5 @@ Neither of our speakers went missing this week, although we still have way too m
 * [Three years of Visual.ONS – what we’ve learned](https://digitalblog.ons.gov.uk/2018/03/27/three-years-of-visual-ons-what-weve-learned/)
 
 * [Open APIs in the Telecoms Industry](https://openapis.projectsbyif.com/)
+
+* [Our Sarah on what it's like to work as a data analyst in the Parliamentary Computational Section](https://pds.blog.parliament.uk/2018/03/28/being-a-data-analyst-in-pds/)
