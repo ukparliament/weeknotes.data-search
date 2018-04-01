@@ -26,7 +26,7 @@ Samu also showed some 3D plots of procedure models he's been playing with. Next 
 
 [Dan](https://twitter.com/dasbarrett) and Michael (and Anya for the first one) had a good couple of sessions with the 'People' website product team looking at their plans for what's next and how this turns into work for Data and Search.
 
-Sara and [Alex](https://twitter.com/alexedwardh) gave a great show and tell about the work they've been doing to analyse indexing work for the Indexing and Data Management Section of the House of Commons Library. And how they're automating some of the tasks previously performed by [Phil](https://twitter.com/philbgorman) before he left for newer pastures.
+[Sara](https://twitter.com/sarafreis90) and [Alex](https://twitter.com/alexedwardh) gave a great show and tell about the work they've been doing to analyse indexing work for the Indexing and Data Management Section of the House of Commons Library. And how they're automating some of the tasks previously performed by [Phil](https://twitter.com/philbgorman) before he left for newer pastures.
 
 ### Did any of our speakers go missing?
 
