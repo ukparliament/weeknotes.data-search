@@ -6,7 +6,7 @@ On Tuesday, [Anya](https://twitter.com/bitten_) and [Michael](https://twitter.co
 
 He gave a great talk on what it means to be a library in the early years of the 21st Century, touching on issues around trust, consent and privacy, and making the point that many of the tools supplied to us by the Silicon Valley giants incentivise commercial gain rather than public values. Applause.
 
-On Thursday, Anya, [Silver](https://twitter.com/silveroliver) and Michael met with Ciaran Doyle who's the Head of IT at the [House of Oireachtas](http://www.oireachtas.ie/parliament/). They went back over the [slides they wrote for the Euro IA conference](https://docs.google.com/presentation/d/1bQnE8elOkTPmyGP4Wei4YNobExeiS_gQLoI_sMSFEWs/edit), whilst repeatedly and tediously making the point that *if your data doesn't link, your website won't link*. And nobody wants a unlinked website.
+On Thursday, Anya, [Silver](https://twitter.com/silveroliver) and Michael met with Ciaran Doyle who's the Head of IT at the [Houses of the Oireachtas](http://www.oireachtas.ie/parliament/). They went back over the [slides they wrote for the Euro IA conference](https://docs.google.com/presentation/d/1bQnE8elOkTPmyGP4Wei4YNobExeiS_gQLoI_sMSFEWs/edit), whilst repeatedly and tediously making the point that *if your data doesn't link, your website won't link*. And nobody wants a unlinked website.
 
 ### Community
 
@@ -20,12 +20,11 @@ Anya, Silver and Michael had a meeting with Gail Barlett from the House of Commo
 
 There was also an Anya, Silver, Michael meeting with [Samu](https://twitter.com/langsamu) to talk about introducing logic gates to the [procedure model](https://ukparliament.github.io/ontologies/procedure/procedure-ontology.html), allowing for multiple conditions having to be met before the next step gets triggered. Conversations got as far as implementing the whole thing as logic gates and printing procedure at chip level before they steered back and decided logic gates might be a complication too far. But they did settle on adding a new [route type](https://ukparliament.github.io/ontologies/procedure/procedure-ontology.html#d4e222) of something like 'requires' to specify which preceding steps must be complete to trigger the next step. Which feels a neat solution.
 
-Samu also showed some 3d plots of procedure models he's been playing with. Next step is to print them and hang them from office ceilings mobile style.
+Samu also showed some 3D plots of procedure models he's been playing with. Next step is to print them and hang them from office ceilings mobile style.
 
 ### One world, one web, one team
 
 [Dan](https://twitter.com/dasbarrett) and Michael (and Anya for the first one) had a good couple of sessions with the 'People' website product team looking at their plans for what's next and how this turns into work for Data and Search.
-
 
 ### Did any of our speakers go missing?
 
