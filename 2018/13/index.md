@@ -42,4 +42,4 @@ Neither of our speakers went missing this week, although we still have way too m
 
 * [Open APIs in the Telecoms Industry](https://openapis.projectsbyif.com/)
 
-* [Our Sarah on what it's like to work as a data analyst in the Parliamentary Computational Section](https://pds.blog.parliament.uk/2018/03/28/being-a-data-analyst-in-pds/)
+* [Our Sara on what it's like to work as a data analyst in the Parliamentary Computational Section](https://pds.blog.parliament.uk/2018/03/28/being-a-data-analyst-in-pds/)
