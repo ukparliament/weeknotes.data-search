@@ -8,19 +8,19 @@ Matthieu went along to a data visualisation workshop run by [Alan Smith](https:/
 
 * A good discussion on use cases for animation e.g. spot the difference scenarios, gamification, change over time.
 
-On his return, Matthieu had a brief chat with Liz. The visual vocabulary chart reminded her of the [Data Viz Project](http://datavizproject.com/). She also recommends [this post on how we position and what we compare](http://www.storytellingwithdata.com/blog/2017/12/14/how-we-position-and-what-we-compare).
+On his return, Matthieu had a brief chat with Liz. The visual vocabulary chart reminded her of the [Data Viz Project](http://datavizproject.com/). Liz also recommends [this post on how we position and what we compare](http://www.storytellingwithdata.com/blog/2017/12/14/how-we-position-and-what-we-compare).
 
 ### One world, one web, one team
 
-[Jianhan](https://twitter.com/jianhanzhu) has been working with the Content Team to add and remove Lords' photos.
+[Jianhan](https://twitter.com/jianhanzhu) has been working with the Content Team to add and remove Lords Members' photos.
 
 [Samu](https://twitter.com/langsamu) worked with [Jamie](https://twitter.com/oddtype) and Jenna to expand our article content model and accompanying API. They've added some features to enable better contextual representation on the website, including the ability to display what kind of article it is and how it relates to other articles and collections (including multiple breadcrumbs for an article in a polyhierarchy).
 
-[Dan](https://twitter.com/dasbarrett) and Samu met with the team looking into [Research Briefings](https://researchbriefings.parliament.uk/) on [beta.parliament](https://beta.parliament.uk). Dan gave a lot of context about how this feature fits in with the rest of our data and web estate. Samu outlined an iterative plan for a scalable new publication workflow that builds on the strengths of the current Research Briefings publishing process while allowing for future improvements.
+[Dan](https://twitter.com/dasbarrett) and Samu met with the team looking into [Research briefings](https://researchbriefings.parliament.uk/) on [beta.parliament](https://beta.parliament.uk). Dan gave a lot of context about how this feature fits in with the rest of our data and web estate. Samu outlined an iterative plan for a scalable new publication workflow that builds on the strengths of the current Research briefings publishing process, while allowing for future improvements.
 
 ### Looking at Links
 
-Liz has been using webmaster tools to find all the sites that have links to [www.parliament.uk](http://www.parliament.uk). It provides a list of 1,000,000 links and the site name from which we can get the volume of links from a site and the amount of 'distinct' sites. Distinct is tricky because there are variations of the same site, but she estimates there are 10,044 or less sites that link to www.parliament.uk, ignoring http and .co.uk variations. 1,000,000 is probably the limit and this is covering pages that have 8 or more links. The highest linked pages have ~20,000 inbound links. She's currently looking at how to visualise this.
+Liz has been using webmaster tools to find all the sites that have links to [www.parliament.uk](http://www.parliament.uk). It provides a list of 1,000,000 links and the site name, from which we can get the volume of links from a site, and the amount of ‘distinct’ sites. Distinct is tricky because there are variations of the same site. Nevertheless, Liz estimates there are 10,044 or less sites that link to www.parliament.uk, ignoring http and .co.uk variations. 1,000,000 is probably the limit and this is covering pages that have eight or more links. The highest linked pages have ~20,000 inbound links. She’s currently looking at how to visualise this.
 
 ### Domain modelling
 
@@ -40,7 +40,7 @@ Jianhan worked on an [OData](http://www.odata.org/) implementation to create, up
 
 * The deletion of a link from one object to another.
 
-He's tested with a locally installed triple store, and [Postman](https://www.getpostman.com/) to show it works.
+He's tested with a locally installed triple store and [Postman](https://www.getpostman.com/) to show it works.
 
 Raphael did some more work on displaying business items and procedural steps in graphs using Graphviz / the [DOT language](https://en.wikipedia.org/wiki/DOT_(graph_description_language)). There's an [example of one subject to the "Made affirmative" SI procedure here](http://procedures.azurewebsites.net/WorkPackages/5/graph). Note you can already request data in DOT format from our Fixed Query API e.g. [https://api.parliament.uk/Live/fixed-query/person_by_id.dot?person_id=43RHonMf](https://api.parliament.uk/Live/fixed-query/person_by_id.dot?person_id=43RHonMf), from Samu's previous work.
 
@@ -84,7 +84,7 @@ Samu would like it to be known that Chris was particularly lacking in sarcasm in
 
 ...goes to everyone who contributed to the Historic Hansard goal line clearance. It was being moved to a new home but the imminent shut down of its old hosting arrangements made things slightly hectic. Matthieu, Mike and Samu all chipped in. Dan and Mike also answered many, many emails.
 
-The older version of Historic Hansard was served as static HTML from our old hosting infrastructure via [hansard.millbanksystems.com](http://hansard.millbanksystems.com/). The new version uses the same HTML files hosted in blob storage and served through [api.parliament.uk/historic-hansard](https://api.parliament.uk/historic-hansard/index.html). In switching over, we ran into DNS issues. Samu created a DNS Zone in the new hosting environment and Robert pointed the authoritative DNS at this, from where we redirected to api.parliament.uk. As part of the migration we decommissioned the old Historic Hansard search and started using the [beta search](https://beta.parliament.uk/search) instead. Unfortunately we found that the polite spiders used by Google and Bing take a very long time to index a site with over 250k pages previously indexed. So instead we restricted the search with a site:hansard.millbanksystems.com filter to get all the previously indexed results and send users back to api.parliament.uk/historic-hansard via the redirect. Switching the DNS records made us realise that most mobile providers 4G DNS servers are really slow on updating their records. It can take 2 days instead of the usual couple of hours for regular network propagation.
+The older version of Historic Hansard was served as static HTML from our old hosting infrastructure via [hansard.millbanksystems.com](http://hansard.millbanksystems.com/). The new version uses the same HTML files hosted in blob storage and served through [api.parliament.uk/historic-hansard](https://api.parliament.uk/historic-hansard/index.html). In switching over, we ran into DNS issues. Samu created a DNS Zone in the new hosting environment and Robert pointed the authoritative DNS at this, from where we redirected to api.parliament.uk. As part of the migration we decommissioned the old Historic Hansard search and started using the [beta search](https://beta.parliament.uk/search) instead. Unfortunately we found that the polite spiders used by Google and Bing take a very long time to index a site with over 250k pages previously indexed. So instead we restricted the search with a site:hansard.millbanksystems.com filter to get all the previously indexed results and send users back to api.parliament.uk/historic-hansard via the redirect. Switching the DNS records made us realise that most mobile providers' 4G DNS servers are really slow on updating their records. It can take 2 days instead of the usual couple of hours for regular network propagation.
 
 As part of the migration we've added the standard telemetry that comes with the data platform. Which should make life easier for the data analysts amongst us.
 
