@@ -100,6 +100,8 @@ You've got the wrong people, sunshine.
 
 ### Things that caught our eye
 
+* [Open Standards for Data](https://standards.theodi.org/)
+
 * [Mapping Mutations in Legislation: A Bioinformatics Approach](https://academic.oup.com/pa/advance-article/doi/10.1093/pa/gsy006/4883355?guestAccessKey=b9e4fc1e-995c-47e8-8fd5-de1c380b25bf)
 
 * [ONS Integrated Data Conference](https://www.eventbrite.co.uk/e/integrated-data-conference-2018-tickets-43741014552)
