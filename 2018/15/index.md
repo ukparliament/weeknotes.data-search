@@ -30,7 +30,7 @@ Aidan met with [De Havilland](https://www1.dehavilland.co.uk/) who currently scr
 
 Michael spent some time with [Jamie](https://twitter.com/oddtype) and the Members website product team, looking at proposed designs for written [questions and answers](https://ukparliament.github.io/ontologies/question-and-answer/question-and-answer-ontology.html) and chatting about URLs. The only thing of any concern was identifying the position of the answering minister at the time of the response. Which given the state of our government positions data could be tricky.
 
-On a similar note there was a brief email exchange with the [GDS](https://gds.blog.gov.uk/) [Regsiters](https://registers.cloudapps.digital/) team to discuss the need for a register of government positions (and incumbencies (and people)). Please someone make this and make it go backwards.
+On a similar note there was a brief email exchange with the [GDS](https://gds.blog.gov.uk/) [Registers](https://registers.cloudapps.digital/) team to discuss the need for a register of government positions (and incumbencies (and people)). Please someone make this and make it go backwards.
 
 Samu met Callum to discuss the technical details of introducing [Research briefings](https://researchbriefings.parliament.uk/) onto the [beta website](https://beta.parliament.uk).
 
