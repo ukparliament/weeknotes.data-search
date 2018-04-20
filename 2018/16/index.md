@@ -1,4 +1,4 @@
-## 2018 Week 15
+## 2018 Week 16
 
 ### On visions and strategy and things related
 
