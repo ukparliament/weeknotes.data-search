@@ -42,7 +42,7 @@ Finally, there's also a first draft of a very basic [legislation model](https://
 
 ### Data platform
 
-The past couple have days have seen some fairly major issues with [data.parliament.uk](http://www.data.parliament.uk/). Wojciech's been working on that and, right now, it looks like it's resolved.
+The past couple of days have seen some fairly major issues with [data.parliament.uk](http://www.data.parliament.uk/). Wojciech's been working on that and, right now, it looks like it's resolved.
 
 On Monday evening Chris, [Samu](https://twitter.com/langsamu) and Matthieu decided to get competitive and kicked off a race to deploy the latest version of [LODE](http://www.essepuntato.it/lode) on a local service. It took around 30 minutes with some trial and some error. Unfortunately, is wasn't exactly enough as the version they deployed choked on the text/plain turtle files our [GitHub account](https://github.com/ukparliament/ontologies) exposes. [Samu picture redacted here.] To be continued...
 
