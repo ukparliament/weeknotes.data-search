@@ -10,6 +10,8 @@ No visions were had this week, although both Robert and [Michael](https://twitte
 
 Sara also enjoyed the whole thing and [tweeted extensively](https://twitter.com/search?f=tweets&q=sarafreis%20%23tictec&src=typd).
 
+On Tuesday, they went to a seminar organised by the [Information Management School](https://twitter.com/NOVAIMS) and [The Gov Lab](https://twitter.com/TheGovLab) on the topic of open data in government institutions. [Joao Tremoceiro](https://twitter.com/joaotremoceiro) from Lisbon municipality spoke about their issues in dealing with over 300 legacy systems and their project to develop a data platform for intelligent management of the city.
+
 On Friday they participated in a workshop lead by [Matt Stempeck](https://twitter.com/mstem) and [Micah Sifry](https://twitter.com/Mlsif) from [Civic Hall](https://civichall.org/) on the the development of a global council to ensure that their [Field Guide to Civic Tech](https://docs.google.com/spreadsheets/d/1FzmvVAKOOFdixCs7oz88cz9g1fFPHDlg0AHgHCwhf4A/edit) properly represents the full range of creative technology and collaboration occurring around the world. They're looking forward to meeting again and seeing that published.
 
 They also introduced our work and the data platform which raised interest in hearing more and sharing experience. A call for show and tell to go international. Or at least continental.
@@ -43,6 +45,8 @@ Finally, there's also a first draft of a very basic [legislation model](https://
 The past couple have days have seen some fairly major issues with [data.parliament.uk](http://www.data.parliament.uk/). Wojciech's been working on that and, right now, it looks like it's resolved.
 
 On Monday evening Chris, [Samu](https://twitter.com/langsamu) and Matthieu decided to get competitive and kicked off a race to deploy the latest version of [LODE](http://www.essepuntato.it/lode) on a local service. It took around 30 minutes with some trial and some error. Unfortunately, is wasn't exactly enough as the version they deployed choked on the text/plain turtle files our [GitHub account](https://github.com/ukparliament/ontologies) exposes. [Samu picture redacted here.] To be continued...
+
+And last but not least, our triple store vendor got in touch to say the the mysterious SPARQL bug Matthieu reported last week should be fixed in their next release. Hurrah.
 
 ### Corporate data
 
