@@ -32,7 +32,7 @@ Dan, [Jamie](https://twitter.com/oddtype) and [Gavin](https://twitter.com/GavBer
 
 ### Domain modelling
 
-Tuesday saw yet another meeting where Anya and Michael double (triple? more?) checked the various [Statutory Instrument flowcharts](https://ukparliament.github.io/ontologies/procedure/procedure-ontology.html#examples) with Jane and Jack and James and [Ben](https://twitter.com/benwoodhams) and Jenna. There's still some minor tinkering to do but they mostly think they're mostly there. Please god.
+Tuesday saw yet another meeting where Anya and Michael double (triple? more?) checked the various [Statutory Instrument flowcharts](https://ukparliament.github.io/ontologies/procedure/procedure-ontology.html#examples) with Jane and Jack and James and Jenna. And [Ben](https://twitter.com/benwoodhams). Or Jen, as he likes to be known. There's still some minor tinkering to do but they mostly think they're mostly there. Please god.
 
 They also published a first draft of the [proposed (or baby) SI flow](https://github.com/ukparliament/ontologies/blob/master/procedure/proposed-sis/proposed-sis.pdf) which is about as detailed as they can get until Parliament decides how this will work.
 
