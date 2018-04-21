@@ -6,7 +6,7 @@ No visions were had this week, although both Robert and [Michael](https://twitte
 
 ### Parliament in the area, [we’re international, we’re continental](https://www.youtube.com/watch?v=pNfHoPIxhXM&t=1m9s)
 
-[Sara](https://twitter.com/sarafreis) and [Matthieu](https://twitter.com/cognithive) took off to Portugal for the rather excellent looking [TICTeC conference](http://tictec.mysociety.org/). They met many interesting people working in the general area of civic tech and [made a friend or two on route](https://twitter.com/LudwigKayser/status/986530728035921920). Matthieu says it was a marvellous opportunity to learn about the international ecosystem of initiatives that exist in the field. And that it's energising and exciting to feel a part of the effort and meet some of the people interested in consuming our data.
+[Sara](https://twitter.com/sarafreis) and [Matthieu](https://twitter.com/cognithive) left the confines of the Parliamentary Computational Service and took off to Portugal for the rather excellent looking [TICTeC conference](http://tictec.mysociety.org/). They met many interesting people working in the general area of civic tech and [made a friend or two on route](https://twitter.com/LudwigKayser/status/986530728035921920). Matthieu says it was a marvellous opportunity to learn about the international ecosystem of initiatives that exist in the field. And that it's energising and exciting to feel a part of the effort and meet some of the people interested in consuming our data.
 
 Sara also enjoyed the whole thing and [tweeted extensively](https://twitter.com/search?f=tweets&q=sarafreis%20%23tictec&src=typd).
 
