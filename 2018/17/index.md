@@ -38,7 +38,7 @@ Once again, very few strolls were reported. Robert and Michael took a walk to th
 
 [Edward](https://twitter.com/ewhitur) and Michael took a stroll down to Waterloo to chat about the procedure model and step names and Statutory Instrument clocks and other stuff.
 
-Anya and Michael staged a final invasion of Robert's office and caught of a glimpse of his MASSIVE DELL. Which is now in a crate. To be shipped somewhere. Several fleeces of indeterminate age and ownership hung on a coat rack. The ceiling had collapsed and the ingress of rain water had formed an odd, Turin shroud like shape over a pin board. There was some evidence of mouses.
+Anya and Michael staged a final invasion of Robert's office and caught a glimpse of his MASSIVE DELL. Which is now in a crate. To be shipped somewhere. Several fleeces of indeterminate age and ownership hung on a coat rack. The ceiling had collapsed and the ingress of rain water had formed an odd, Turin shroud like shape over a pin board. There was some evidence of mouses.
 
 ### Waving goodbye to Millbank
 
