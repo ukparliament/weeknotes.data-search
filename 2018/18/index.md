@@ -2,7 +2,7 @@
 
 ### The delivery is strategy
 
-[Dan](https://twitter.com/dasbarrett) spent the week doing data strategy work with some of the programme managers. He also met with [David Smith](https:/twitter.com/SmithDavidM) (Deputy Director of the [Parliamentary Computational Section](https://pds.blog.parliament.uk/)) and Steve Wise (from the House of Commons Library) to talk about 'tactical projects' and governance.
+[Dan](https://twitter.com/dasbarrett) spent the week doing data strategy work with some of the programme managers. He also met with [David Smith](https://twitter.com/SmithDavidM) (Deputy Director of the [Parliamentary Computational Section](https://pds.blog.parliament.uk/)) and Steve Wise (from the House of Commons Library) to talk about 'tactical projects' and governance.
 
 ### Community
 
