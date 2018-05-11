@@ -36,9 +36,9 @@ Samu put together [a summary of our work so far](https://medium.com/@langsamu/ap
 
 Our Liz, [Sara](https://twitter.com/sarafreis), Matt R, Dan, Matthieu, Aidan and Raphael had a call with David Sullivan from the [ONS](https://www.ons.gov.uk/). Davis talked about his work on training a machine learning algorithm to link keywords through [dimensional vectors](https://en.wikipedia.org/wiki/Dimensionality_reduction). Or, to put it another way, augmenting the ONS search with additional keywords so that relevant content is returned, without exact word matching. Apparently people search for murder instead of homicide. Who knew? It's good work with some interesting data to be shared.
 
-Michael went along to a meeting with the [Statutory Instrument](https://en.wikipedia.org/wiki/Statutory_instrument_(UK)) product team and Claire Harvey from [the National Archive](http://www.nationalarchives.gov.uk/) to chat about assorted flows for SI data. Some talk of interlinking Parliament pages with [legislation.gov.uk](http://www.legislation.gov.uk/) pages happened.
+Michael went along to a meeting with the [Statutory Instrument](https://en.wikipedia.org/wiki/Statutory_instrument_(UK)) product team and Claire Harvey from [the National Archives](http://www.nationalarchives.gov.uk/) to chat about assorted flows for SI data. Some talk of interlinking Parliament pages with [legislation.gov.uk](http://www.legislation.gov.uk/) pages happened.
 
-On Thursday there was another meeting with National Archive, [GDS](https://gds.blog.gov.uk/) and assorted government department people, also on the subject of SIs. Jane, Jack, [Jen](https://twitter.com/benwoodhams), Janya and Jichael went along. Jenna and James were elsewhere. Much paper was handed out. There were agenda items. Like a proper grown up meeting. More talk of interlinking happened.
+On Thursday there was another meeting with the National Archives, [GDS](https://gds.blog.gov.uk/) and assorted government department people, also on the subject of SIs. Jane, Jack, [Jen](https://twitter.com/benwoodhams), Janya and Jichael went along. Jenna and James were elsewhere. Much paper was handed out. There were agenda items. Like a proper grown up meeting. More talk of interlinking happened.
 
 ### Domain modelling
 
@@ -60,9 +60,9 @@ Given all this, Jianhan has now switched efforts to ingesting data from the [Sol
 
 ...where hereditary peers exist, they have multiple MNIS IDs but share a single term ID. In order to know which particular Lord Featherstonehaugh the question was asked by, we need to compare when they were in the House of Lords with when the question was asked. So Jianhan has written a SPARQL query to disambiguate Peers, using their [parliamentary incumbency](https://ukparliament.github.io/ontologies/house-membership/house-membership-ontology.html#d4e312) start and end dates, and the [tabling date of the question](https://ukparliament.github.io/ontologies/tabling/tabling-ontology.html#d4e123).
 
-65,481 written questions from the past year have now been ingested, of which 21,075 have a title. This is good enough for the web team to work with for now. Getting all 1.5 million written questions into the data platform will be a challenge, since just getting a years' worth has clogged up our ingest pipes. Jianhan's now planning to turn his attention to corrections to answers. He's currently ingested 583 corrections which link to a previous written answer. 
+65,481 written questions from the past year have now been ingested, of which 21,075 have a title. This is good enough for the web team to work with for now. Getting all 1.5 million written questions into the data platform will be a challenge, since getting just a year's worth has clogged up our ingest pipes. Jianhan's now planning to turn his attention to corrections to answers. He's currently ingested 583 corrections which link to a previous written answer. 
 
-To support Jianhan's work, [Chris](https://twitter.com/chrisalcockdev) has been making changes to the physical ontology to reflect question URIs as their unique identifiers, MNIS things having Term Ids, corrections etc.
+To support Jianhan’s work, [Chris](https://twitter.com/chrisalcockdev) has been making changes to the physical ontology to reflect question URIs as their unique identifiers, MNIS things having Term IDs, corrections etc.
 
 Following on from Matt's recent pull request to the [Application Insights SDK for Ruby](https://github.com/Microsoft/ApplicationInsights-Ruby), we're now reporting logs from the beta website into our analytics. On the search side, we're joining individual requests to the API with individual requests to the website to get an overview of the full stack. There are plans to extend this across all pages on the [beta website](https://beta.parliament.uk/) in the not too distant future.
 
@@ -74,7 +74,7 @@ Alex has been working to add some smarts to the pipes that shunt data from the S
 
 ### Corporate data
 
-Lewis has been using our business analytics solution to create a proof of concept that shows we can save on data duplication by switching a reporting data source from SharePoint to Excel. Did I just type business? And analytics? And solution? I'm just going with what Wikipedia said here.
+Lewis has been using our business analytics solution to create a proof of concept that shows we can save on data duplication by switching a reporting data source from SharePoint to Excel. Did I just type business? And analytics? And solution? I’m just going with what Wikipedia says here.
 
 Noel has been analysing the people records that are placed into the 'Unknown' organisation structure and has developed a process to better identify the correct organisation for the records.
 
@@ -84,8 +84,8 @@ Noel has been analysing the people records that are placed into the 'Unknown' or
 
 ### Joiners and leavers
 
-This week we welcomed [Matt Reed](https://www.linkedin.com/in/matthew-reed-b3b761105/), occupying the recently vacated data analyst spot in our Liz's team. Nobody left. At least if they did, nobody told me.
+This week we welcomed [Matt Reed](https://www.linkedin.com/in/matthew-reed-b3b761105/), occupying a data analyst spot in our Liz's team. Nobody left. At least if they did, nobody told me.
 
 ### Things that caught our eye
 
-We've been so busy we've barely noticed anything, but Matthieu did read Tom Steinberg's piece about [why anyone might want to bother with user-centered digital government(https://civichall.org/civicist/why-even-bother-with-a-user-centered-digital-govt/). It's good. But we do point out we're not government. We're kinda like the opposite of government to be honest.
+We've been so busy we've barely noticed anything, but Matthieu did read [Tom Steinberg](https://twitter.com/steiny)'s piece about [why anyone might want to bother with user-centered digital government](https://civichall.org/civicist/why-even-bother-with-a-user-centered-digital-govt/). It's good. But we do point out we're not government. We're kinda like the opposite of government to be honest.
