@@ -18,7 +18,7 @@ Way, way back last November, before the sun had even risen, Anya, librarian Liz,
 
 Andrew also says:
 
-> One unexpected benefit is that I've been able to use it as an authority list for things like regional tourist boards and NHS health authorities. We had entries for two or three of them but crosschecking against the thesaurus meant it we could very easily create the remainder in a few minutes. So we're definitely getting some benefits from it as well at this stage.
+> One unexpected benefit is that I've been able to use it as an authority list for things like regional tourist boards and NHS health authorities. We had entries for two or three of them but crosschecking against the thesaurus meant we could very easily create the remainder in a few minutes. So we're definitely getting some benefits from it as well at this stage.
 
 The medium term plan at the Parliament end is to make public URIs at id.parliament.uk/concepts/:concept and link out from there (with something a little like [foaf:focus](http://xmlns.com/foaf/spec/#term_focus)) to Wikidata. And change the links in Wikidata to point to the new URIs. And allow users to look up House of Commons concepts via a Wikidata ID, something like beta.parliament.uk/concepts/lookup?source=wikidata&id=Q7416. And finally, actually expose the subject indexings of parliamentary material to the web. So you can go from a Wikidata thing to see what Parliament has said about it. Native to a web of data, as they used to say.
 
@@ -26,13 +26,13 @@ We'd like to thank Andrew and apologise for how long this has taken. And thank [
 
 ### Showing and telling
 
-Matthieu was joined by librarian Liz, from the Indexing and Data Management Section in the House of Commons Library, to talk about our experiments with [VocBench](http://vocbench.uniroma2.it/), a vocabulary management tool with a [SKOS](https://en.wikipedia.org/wiki/Simple_Knowledge_Organization_System)-y, web-based workstream. They're both pleased at how well working together has gone and they even managed to make improvements to the vocabulary whilst preparing their presentation. Matthieu thinks [SPARQL](https://en.wikipedia.org/wiki/SPARQL) is a really powerful and versatile tool. Apart from performance concerns over some long-running queries (think 1-5 seconds), it's all [blue skies ahead](https://www.youtube.com/watch?v=aQUlA8Hcv4s).
+Matthieu was joined by librarian Liz, from the Indexing and Data Management Section in the House of Commons Library, to talk about our experiments with [VocBench](http://vocbench.uniroma2.it/), a vocabulary management tool with a [SKOS](https://en.wikipedia.org/wiki/Simple_Knowledge_Organization_System)-y, web-based workstream. They’re both pleased at how well working together has gone, and they even managed to make improvements to the vocabulary whilst preparing their presentation. Matthieu thinks [SPARQL](https://en.wikipedia.org/wiki/SPARQL) is a really powerful and versatile tool. Apart from performance concerns over some long-running queries (think 1-5 seconds), it's all [blue skies ahead](https://www.youtube.com/watch?v=aQUlA8Hcv4s).
 
 Combining both vocabulary management and Wikidata, Michael and Matthieu have started a chat about adding Wikidata identifiers to subject index concepts via VocBench. We [form much like Voltron](https://www.youtube.com/watch?v=2kkJDHRYxWM).
 
 ### Community
 
-Samu put together [a summary of our work so far](https://medium.com/@langsamu/api-parliament-uk-7b87597019a4) to share primarily with [Stephen Betts](https://twitter.com/stephenbetts) from the [NYPL](https://www.nypl.org/). But also the world in general. 
+Samu put together [a summary of our work so far](https://medium.com/@langsamu/api-parliament-uk-7b87597019a4), primarily for sharing with [Stephen Betts](https://twitter.com/stephenbetts) from the [NYPL](https://www.nypl.org/).
 
 Our Liz, [Sara](https://twitter.com/sarafreis), Matt R, Dan, Matthieu, Aidan and Raphael had a call with David Sullivan from the [ONS](https://www.ons.gov.uk/). Davis talked about his work on training a machine learning algorithm to link keywords through [dimensional vectors](https://en.wikipedia.org/wiki/Dimensionality_reduction). Or, to put it another way, augmenting the ONS search with additional keywords so that relevant content is returned, without exact word matching. Apparently people search for murder instead of homicide. Who knew? It's good work with some interesting data to be shared.
 
@@ -42,11 +42,11 @@ On Thursday there was another meeting with the National Archives, [GDS](https://
 
 ### Domain modelling
 
-Anya, Michael and [Silver](https://twitter.com/silveroliver) spent part of Thursday taking a second look at their [legislation model](https://ukparliament.github.io/ontologies/legislation/legislation-ontology.html) and how it might link to [work packages](https://ukparliament.github.io/ontologies/procedure/procedure-ontology.html#d4e284) in the [procedure model](https://ukparliament.github.io/ontologies/procedure/procedure-ontology.html). Until they realised they'd already done that work in the [formal body](https://ukparliament.github.io/ontologies/formal-body/formal-body-ontology.html) model, linking a workpackage to legislation via a [focus](https://ukparliament.github.io/ontologies/formal-body/formal-body-ontology.html#d4e319). They did tidy up some of the legislation model, though Michael thinks it looks wonky / broke. More work needed.
+Anya, Michael and [Silver](https://twitter.com/silveroliver) spent part of Thursday taking a second look at their [legislation model](https://ukparliament.github.io/ontologies/legislation/legislation-ontology.html) and how it might link to [work packages](https://ukparliament.github.io/ontologies/procedure/procedure-ontology.html#d4e284) in the [procedure model](https://ukparliament.github.io/ontologies/procedure/procedure-ontology.html). Until they realised they'd already done that work in the [formal body](https://ukparliament.github.io/ontologies/formal-body/formal-body-ontology.html) model, linking a workpackage to legislation via a [focus](https://ukparliament.github.io/ontologies/formal-body/formal-body-ontology.html#d4e319). They did tidy up some of the legislation model, though Michael still thinks it looks wonky / broke. More work needed.
 
 ### Data platform
 
-[Jianhan](https://twitter.com/jianhanzhu) has continued work on ingesting written [parliamentary questions](https://ukparliament.github.io/ontologies/question-and-answer/question-and-answer-ontology.html) into the data platform. He had been trying to grab source data from the Electronic Questions and Motions system. Yes, that is *Electronic* Questions and Motions. There is no steam power here. Unfortunately he ran into several problems on route:
+[Jianhan](https://twitter.com/jianhanzhu) has continued work on ingesting written [parliamentary questions](https://ukparliament.github.io/ontologies/question-and-answer/question-and-answer-ontology.html) into the data platform. He had been trying to grab source data from the Electronic Questions and Motions system. Yes, that is *Electronic* Questions and Motions. There is no steam power here. Unfortunately he ran into several problems en route::
 
 * It only contains recent questions and not the 1.5 million we have in our computational systems.
 
@@ -58,7 +58,7 @@ Anya, Michael and [Silver](https://twitter.com/silveroliver) spent part of Thurs
 
 Given all this, Jianhan has now switched efforts to ingesting data from the [Solr](http://lucene.apache.org/solr/) index. Which presents its own problems. Member and answering body identifiers from the [Members Names' Information Service](http://data.parliament.uk/membersdataplatform/memberquery.aspx), which are present in source systems, are stripped out in Solr which only has Term IDs (the identifiers used in the controlled vocabulary discussed at some length above). Fortunately these are mostly mapped to MNIS IDs except...
 
-...where hereditary peers exist, they have multiple MNIS IDs but share a single Term ID. In order to know which particular Lord Featherstonehaugh the question was asked by, we need to compare when they were in the House of Lords with when the question was asked. So Jianhan has written a SPARQL query to disambiguate Peers, using their [parliamentary incumbency](https://ukparliament.github.io/ontologies/house-membership/house-membership-ontology.html#d4e312) start and end dates, and the [tabling date of the question](https://ukparliament.github.io/ontologies/tabling/tabling-ontology.html#d4e123).
+...where hereditary Peers exist, they have multiple MNIS IDs but share a single Term ID. In order to know which particular Lord Featherstonehaugh the question was asked by, we need to compare when they were in the House of Lords with when the question was asked. So Jianhan has written a SPARQL query to disambiguate Peers, using their [parliamentary incumbency](https://ukparliament.github.io/ontologies/house-membership/house-membership-ontology.html#d4e312) start and end dates, and the [tabling date of the question](https://ukparliament.github.io/ontologies/tabling/tabling-ontology.html#d4e123).
 
 65,481 written questions from the past year have now been ingested, of which 21,075 have a title. This is good enough for the web team to work with for now. Getting all 1.5 million written questions into the data platform will be a challenge, since getting just a year's worth has clogged up our ingest pipes. Jianhan's now planning to turn his attention to corrections to answers. He's currently ingested 583 corrections which link to a previous written answer. 
 
@@ -80,7 +80,7 @@ Noel has been analysing the people records that are placed into the 'Unknown' or
 
 ### Excellent customer service award…
 
-...again has joint winners as both Raphael and Mike grabbed an issue raised in the [data@parliament.uk](mailto:data@parliament.uk) inbox and ran with it. Thanks were offered from an MP and a bunch of academics in Oxford town. Not that [Oxford town](https://www.youtube.com/watch?v=W9oJZX4BaI8). The other one.
+...again has joint winners, as both Raphael and Mike grabbed an issue raised in the [data@parliament.uk](mailto:data@parliament.uk) inbox and ran with it. Thanks were offered from an MP and a bunch of academics in Oxford town. Not that [Oxford town](https://www.youtube.com/watch?v=W9oJZX4BaI8). The other one.
 
 ### Joiners and leavers
 
