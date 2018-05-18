@@ -57,7 +57,7 @@ Dan held the first of two workshops with Lew, [Mat](https://twitter.com/matiasge
 
 ### Strolls
 
-Again, we saw very little in the way of strolling this week. Though Anya, Silver, [Ben](https://twitter.com/benwoodhams) and Michael did stroll to Soho to meet [Ganesh](http://twitter.com/gansenthi) (ex of this parish). There was more talk of SIs and registers. They called in at the [Toucan](https://www.tripadvisor.co.uk/Restaurant_Review-g186338-d720848-Reviews-Toucan-London_England.html) and tried to buy a round of [Poitín](https://en.wikipedia.org/wiki/Poit%C3%ADn). But the landlord couldn't sell them any. Because it is now illegal. Or so we were told. Presumably under an SI or some such. Someone should really build a tracker.
+Again, we saw very little in the way of strolling this week. Though Anya, Silver, [Ben](https://twitter.com/benwoodhams) and Michael did stroll to Soho to meet [Ganesh](http://twitter.com/gansenthi) (ex of this parish). There was more talk of SIs and registers. They called in at the [Toucan](https://www.tripadvisor.co.uk/Restaurant_Review-g186338-d720848-Reviews-Toucan-London_England.html) and tried to buy a round of [Poitín](https://en.wikipedia.org/wiki/Poit%C3%ADn). But the landlord couldn't sell them any. Because it is now illegal. Or so they were told. Presumably under an SI or some such. Someone should really build a tracker.
 
 ### Things that caught our eye
 
