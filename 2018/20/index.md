@@ -16,13 +16,13 @@ Following up on last week the [Wikidata](https://www.wikidata.org/wiki/Wikidata:
 
 We've been pretty big on community this week. On Wednesday, [Anya](https://twitter.com/bitten_), [Silver](https://twitter.com/silveroliver), Robert, [Michael](https://twitter.com/fantasticlife) and [Chris](https://twitter.com/c_fryer) (from the [Parliamentary Archives](https://www.parliament.uk/archives)) went along to [The National Archives](http://www.nationalarchives.gov.uk/) for a joint session on records and data with TNA and [Wellcome Trust](https://wellcome.ac.uk/) people. It was a good session with lots of shared areas of concern and a couple of fairly concrete things we want to work on.
 
-The first was more Parliament / TNA focussed, with a commitment to collaborate on a UK wide legislation model that won't give [John Sheridan](https://twitter.com/johnlsheridan) sleepless nights.
+The first is more Parliament / TNA focussed, with a commitment to collaborate on a UK wide legislation model that won’t give [John Sheridan](https://twitter.com/johnlsheridan) sleepless nights.
 
 The second is a meeting to discuss reference data: where organisations have [lists of things](https://github.com/ukparliament/ontologies/blob/master/list-of-lists.csv), where those lists are duplicated and who we think the appropriate custodian should be. Lists of government departments, positions and incumbents being a perennial bugbear here. Michael is trying to organise something and invites have been extended to the [ONS](https://www.ons.gov.uk/) and [NAO](https://www.nao.org.uk/). If you think you might have lists of public sector things that you shouldn't really be maintaining, or indeed should be, do [get in touch](mailto:smethurstm@parliament.uk). It's definitely all more town planning than skyscrapers but then the useful work usually is.
 
 In other [register](https://www.registers.service.gov.uk/) related news, Dan's been doing a little more digging (plotting?) on how we might publish a register of [Members](http://beta.parliament.uk/people/members) of both [Houses](https://beta.parliament.uk/houses). Stay tuned.
 
-On Thursday, Anya, Robert and Michael met some people from the [Electoral Commission](https://www.electoralcommission.org.uk/) to talk about the [House of Commons Register of Members' Financial Interests](https://www.parliament.uk/mps-lords-and-offices/standards-and-financial-interests/parliamentary-commissioner-for-standards/registers-of-interests/register-of-members-financial-interests/). They take "data" from Parliament but have to enrich what we provide to make it meaningful. More structured data would reduce the need for rekeying and reduce their workload. So we're keen to work with them and understand their use cases. They've also put us in touch with the [Independent Parliamentary Standards Authority](http://www.theipsa.org.uk/) to see if they have similar needs for better structured parliamentary data.
+On Thursday, Anya, Robert and Michael met some people from the [Electoral Commission](https://www.electoralcommission.org.uk/) to talk about the [House of Commons Register of Members' Financial Interests](https://www.parliament.uk/mps-lords-and-offices/standards-and-financial-interests/parliamentary-commissioner-for-standards/registers-of-interests/register-of-members-financial-interests/). The Electoral Commission take "data" from Parliament but have to enrich what we provide to make it meaningful. More structured data would reduce the need for rekeying and reduce their workload. So we're keen to work with them and understand their use cases. They've also put us in touch with the [Independent Parliamentary Standards Authority](http://www.theipsa.org.uk/) to see if they have similar needs for better structured parliamentary data.
 
 In even more community news, Dan had a good meeting with [Dr Ruth Dixon](https://twitter.com/ruth_dixon) on Monday. Ruth is doing a year-long research project with the [House of Lords library](https://www.parliament.uk/business/lords/work-of-the-house-of-lords/lords-library/), and was looking at how to get XML versions of bills out of [data.parliament.uk](http://www.data.parliament.uk/). Which is currently pretty painful. Can we make it better? We would like to think so.
 
@@ -54,6 +54,10 @@ Dan held the first of two workshops with Lew, [Mat](https://twitter.com/matiasge
 * We should start to use Logic Apps for new things.
 
 * We're going to have to work with Technology colleagues to get past some of the current network configurations that make moving to a new model impossible.
+
+### Strolls
+
+Again, we saw very little in the way of strolling this week. Though Anya, Silver, [Ben](https://twitter.com/benwoodhams) and Michael did stroll to Soho to meet [Ganesh](http://twitter.com/gansenthi). There was more talk of SIs and registers. They called in at the [Toucan](https://www.tripadvisor.co.uk/Restaurant_Review-g186338-d720848-Reviews-Toucan-London_England.html) and tried to buy a round of [Poitín](https://en.wikipedia.org/wiki/Poit%C3%ADn). But the landlord couldn't sell them any. Because it is now illegal. Presumably under an SI or some such. Someone should really build a tracker.
 
 ### Things that caught our eye
 
