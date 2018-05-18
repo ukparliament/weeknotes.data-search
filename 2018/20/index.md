@@ -2,7 +2,7 @@
 
 ### More visions
 
-Not so many people had visions this week, but [Dan](https://twitter.com/dasbarrett) did have a couple of catch-ups with Robert where they spoke about all things data and search and strategy. Great stuff, says Dan.
+Not so many people had visions this week, but [Dan](https://twitter.com/dasbarrett) did have a couple of catch-ups with Robert where they spoke about all things data and search and strategy. Great stuff, says Dan. 
 
 ### Liberating the library
 
