@@ -58,7 +58,7 @@ Noel has continued with the data cleansing work for records on People Data.
 
 Dan took a couple of strolls with Robert. They ate their packed lunches in the gardens on the Embankment. Like tramps. They talked about search and the data strategy, and shared general reflections on how to work. Unlike tramps.
 
-Anya, Robert and Michael took a trip to the [RAF Museum at Hendon](https://www.rafmuseum.org.uk/london/) where they say a real life [atomic plane](https://twitter.com/fantasticlife/status/997843968414142469). Wows. Then they accidentally went to a party.
+Anya, Robert and Michael took a trip to the [RAF Museum at Hendon](https://www.rafmuseum.org.uk/london/) where they say a real life [atomic plane](https://twitter.com/fantasticlife/status/997843968414142469). Wows. Then they accidentally went to a party.kakak
 
 ### Things that caught our eye
 
