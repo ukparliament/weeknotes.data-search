@@ -36,7 +36,7 @@ Jianhan would also like to point out our new [OData](http://www.odata.org/) API 
 
 ### Data toolkit
 
-Wojciech's been busy creating improved data entry mechanisms for procedural data using. Mike has helped out with testing and sharing with team:Anya who are laboriously entering data in preparation for launch of the thing formerly known as SI tracker. Applause team:Anya.
+Wojciech's been busy creating improved data entry mechanisms for procedural data. Mike has helped out with testing and sharing with team:Anya who are laboriously entering data in preparation for launch of the thing formerly known as SI tracker. Applause team:Anya.
 
 ### On searching and indeed indexing
 
