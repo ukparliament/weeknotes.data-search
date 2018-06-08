@@ -70,7 +70,7 @@ He's also updated the [OData](http://www.odata.org/) endpoints to reflect the ne
 
 Samu's had a busy week. He's also added analytics to capture redirects from [hansard.millbanksystems.com](http://hansard.millbanksystems.com/) (the thing that search engines still have indexed) to the new [Historic Hansard](https://api.parliament.uk/historic-hansard/index.html). Liz has been looking at user IDs. There've been about 22,000 unique users per week in the last month.
 
-### [Hyperlinks subvert hierarchy](https://en.wikipedia.org/wiki/The_Cluetrain_Manifesto#Thesis_7:_Hyperlinks_Subvert_Hierarchy)
+### [Use hyperlinks to subvert hierarchy](https://en.wikipedia.org/wiki/The_Cluetrain_Manifesto#Thesis_7:_Hyperlinks_Subvert_Hierarchy)
 
 The [lastest version](https://github.com/dotnetrdf/dotnetrdf/blob/v2.1.0/ChangeLog.txt) of [dotNetRDF](http://www.dotnetrdf.org/) got released this week. It's an open-source software library we both contribute to and [rely on(https://medium.com/@langsamu/api-parliament-uk-7b87597019a4)). The new release contains a number of contributions by Samu:
 
