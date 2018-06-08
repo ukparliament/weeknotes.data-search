@@ -2,4 +2,4 @@
 
 ### Nothing happened this week
 
-Or at least if it did I was on holiday and nobody told me about it.
+Or, maybe it did. I don’t know. I was on holiday. Nobody told me.
