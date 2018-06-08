@@ -2,7 +2,7 @@
 
 ### DATOR Day
 
-After taking a short break [data day](https://twitter.com/dasbarrett/status/1004346497582985216) turned 40 and returned this week. In its new format, it only takes half a day but is still pretty much about data. Aside from the gossip. And the scheming. There was a decent variety of stuff, but we [didn't quite get through it all](https://twitter.com/dasbarrett/status/1004398440489549825).
+After taking a short break [data day turned 40](https://twitter.com/dasbarrett/status/1004346497582985216) and returned this week. In its new format, it only takes half a day but is still pretty much about data. Aside from the gossip. And the scheming. There was a decent variety of stuff, but we [didn't quite get through it all](https://twitter.com/dasbarrett/status/1004398440489549825).
 
 Some stuff we agreed:
 
