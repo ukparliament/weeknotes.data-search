@@ -96,7 +96,7 @@ Dan also got a new gig. As of Friday he is now both Head of Data and Search and 
 
 ### Strolls
 
-No strolls were reported this week. Though Anya, Silver and Michael did walk to the end of Brighton pier. At least as far as the [dodgems](https://twitter.com/bitten_/status/1004722028719562752). Anya and Michael played air hockey. Anya whipped Michael's ass.
+No strolls were reported this week. Though Anya, Silver and Michael did walk to the end of Brighton pier. Well, at least as far as the [dodgems](https://twitter.com/bitten_/status/1004722028719562752) anyway. Anya and Michael played air hockey. Anya whipped Michael's ass.
 
 ### Things that caught our eye
 
