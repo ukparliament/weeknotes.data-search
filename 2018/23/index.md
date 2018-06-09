@@ -72,7 +72,7 @@ Samu had a busy week. He also added analytics to capture redirects from [hansard
 
 ### [Use hyperlinks to subvert hierarchy](https://en.wikipedia.org/wiki/The_Cluetrain_Manifesto#Thesis_7:_Hyperlinks_Subvert_Hierarchy)
 
-The [lastest version](https://github.com/dotnetrdf/dotnetrdf/blob/v2.1.0/ChangeLog.txt) of [dotNetRDF](http://www.dotnetrdf.org/) was released this week. It's an open-source software library we both contribute to and [rely on](https://medium.com/@langsamu/api-parliament-uk-7b87597019a4)). The new release contains a number of contributions by Samu:
+The [lastest version](https://github.com/dotnetrdf/dotnetrdf/blob/v2.1.0/ChangeLog.txt) of [dotNetRDF](http://www.dotnetrdf.org/) was released this week. It's an open-source software library we both contribute to and [rely on](https://medium.com/@langsamu/api-parliament-uk-7b87597019a4). The new release contains a number of contributions by Samu:
 
 * A new read-only [SKOS](https://en.wikipedia.org/wiki/Simple_Knowledge_Organization_System) API, inspired by Matthieu's work on transforming our controlled vocabulary to SKOS and building tools to replace and improve the software used by the Indexing and Data Management Section of the House of Commons Library.
 
