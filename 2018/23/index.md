@@ -2,7 +2,7 @@
 
 ### DATOR Day
 
-After taking a short break [data day turned 40](https://twitter.com/dasbarrett/status/1004346497582985216) and returned this week. In its new format, it only takes half a day but is still pretty much about data. Aside from the gossip. And the scheming. There was a decent variety of stuff, but we [didn't quite get through it all](https://twitter.com/dasbarrett/status/1004398440489549825).
+After a short break [data day](https://twitter.com/dasbarrett/status/1004346497582985216) returned and [turned](https://m.youtube.com/watch?v=W4ga_M5Zdn4) 40. In its new format it only takes us half a day, but it’s still pretty much all about the data.  Aside from the gossip. And the scheming. There was a decent variety of stuff, but we [didn't quite get through it all](https://twitter.com/dasbarrett/status/1004398440489549825).
 
 Some stuff we agreed:
 
@@ -22,7 +22,7 @@ Very little in the way of visions this week. The cheese must be wearing off.
 
 ### Community
 
-We were joined at data day by[Marc Adams](https://www.linkedin.com/in/dr-marc-adams-79081a144/) from the [NAO](https://www.nao.org.uk/) to chat about stats in general and plan some actual work we might do together. We're now looking for a guest for the next data day in July. Hands up if that might be you.
+We were joined at data day by [Marc Adams](https://www.linkedin.com/in/dr-marc-adams-79081a144/) from the [NAO](https://www.nao.org.uk/) to chat about stats in general and plan some actual work we might do together. We're now looking for a guest for the next data day in July. Hands up if that might be you.
 
 Some immediate, practical stuff we agreed to do with Marc:
 
@@ -46,17 +46,17 @@ A data scientist called Izzy got in touch with Mike to share [her MSc project](h
 
 [Anya](https://twitter.com/bitten_) and Michael met with [Lef Apostolakis](https://www.linkedin.com/in/lef-apostolakis-835159a5/) from [POST](https://www.parliament.uk/post) to get another view on the work they've been doing to [model research briefings](https://github.com/ukparliament/ontologies/blob/master/document/document.png). They'd already done a couple of passes with assorted people from the House of Commons Library and still need to sit down with [House of Lords Library](https://www.parliament.uk/business/lords/work-of-the-house-of-lords/lords-library/) people. The POST session didn't change an awful lot, which is good news and suggests the model is mostly correct.
 
-On Wednesday, there was yet another meeting on SIs and the tracking thereof. This one with Jane, Jack, [Jen](https://twitter.com/benwoodhams), Janya and Jichael. Jenna and [James](https://twitter.com/thevinternet) being otherwise occupied. After several weeks they think they've finally cleared up their confusion around SI procedure clocks, the definition of statutory days and how to model statutory day counts. Though there's another meeting next week to definitely, finally, completely agree the last bit.
+On Wednesday, there was yet another meeting on SIs and the tracking thereof. This one with Jane, Jack, [Jen](https://twitter.com/benwoodhams), Janya, Jichael and Jalison. Jenna and [James](https://twitter.com/thevinternet) being otherwise occupied. After several weeks they think they’ve finally cleared up their confusion around SI procedure clocks, the definition of statutory days and how to model statutory day counts. That said, there’s another meeting next week to definitely, finally, completely agree the last bit.
 
-Anya and Michael went to visit Brighton to meet [Silver](https://twitter.com/silveroliver). Because he lives there. Or near there. And because it's the seaside. And because it has dodgems and air hockey. They [sat on the beach](https://twitter.com/fantasticlife/status/1004691294315274240) and planned out a talk they're due to give to [Netikx](http://www.netikx.org/). Which was supposed to be an introduction to ontologies for librarians and knowledge management people, but ended up as plea to spend the time they would have spent learning ontologies into learning about [domain modelling](https://en.wikipedia.org/wiki/Domain-driven_design) instead. So no one gets their money's worth there.
+Anya and Michael went to visit Brighton to meet [Silver](https://twitter.com/silveroliver). Because he lives there. Or near there. And because it's the seaside. And because it has dodgems and air hockey. They [sat on the beach](https://twitter.com/fantasticlife/status/1004691294315274240) and planned out a talk they're due to give to [NetIKX](http://www.netikx.org/). Which was supposed to be an introduction to ontologies for librarians and knowledge management people, but has ended up as plea to switch from learning ontologies to learning about [domain modelling](https://en.wikipedia.org/wiki/Domain-driven_design) instead. So no one gets their money's worth there.
 
-They also spent a bit of time talking about the Modelling Parliament talk they're due to give at the [Kandddinsky conference](https://kandddinsky.de/) in Berlin. And some time talking about teaching House of Commons librarians a little more [SPARQL](https://en.wikipedia.org/wiki/SPARQL). The day ended, as many days do, in the [pub](https://www.tripadvisor.co.uk/Attraction_Review-g186273-d5913501-Reviews-The_Heart_and_Hand-Brighton_East_Sussex_England.html), hatching a plan for the first useful chunk of a legislation model. Which has been bothering Michael for some time.
+They also spent a bit of time talking about the Modelling Parliament talk they're due to give at the [KanDDDinsky conference](https://kandddinsky.de/) in Berlin. And some time talking about teaching House of Commons librarians a little more [SPARQL](https://en.wikipedia.org/wiki/SPARQL). The day ended, as many days do, in the [pub](https://www.tripadvisor.co.uk/Attraction_Review-g186273-d5913501-Reviews-The_Heart_and_Hand-Brighton_East_Sussex_England.html), hatching a plan for the first useful chunk of a legislation model. Which has been bothering Michael for some time.
 
 ### Data platform
 
 In the best news for a quite a while, [procedure data](https://procedures.azurewebsites.net/) is now live and happily turning into pages on the beta website. Although for now and I guess for reasons(?), those pages are still restricted to the parliamentary network.
 
-After herculean data entry efforts by IDMS, following some monumental procedure modelling work, an INTERIM DATA SOURCE built from scratch by [Chris](https://twitter.com/chrisalcockdev), visualisations available in two and three dimensions built by Raphael, a novel editorial interface built by Wojciech, all ably supported by Mike... we got there. In something like three months. For peanuts.
+After herculean data entry efforts by IDMS, some monumental procedure modelling work, an INTERIM DATA SOURCE built from scratch by [Chris](https://twitter.com/chrisalcockdev), visualisations in two and three dimensions built by Raphael, a novel editorial interface built by Wojciech, all ably supported by Mike... we got there.
 
 In the first instance we're only working with procedures for Statutory Instruments. In the longer term we think any parliamentary procedure could be captured in this way. This excites us, for we are a very niche brand of nerd.
 
@@ -64,21 +64,21 @@ Wojciech's done some sterling work to describe our Query API using the [Open API
 
 Jianhan has been busy adding fixed query endpoints for [questions asked by a Member](https://api.parliament.uk/query/questions_askedby_member?member_id=https://id.parliament.uk/4fn7q5Wl) and [questions answered by a Member](https://api.parliament.uk/query/questions_answeredby_member?member_id=https://id.parliament.uk/SWXSOmi9).
 
-He's also updated the [OData](http://www.odata.org/) endpoints to reflect the newly imported [questions and answers](https://ukparliament.github.io/ontologies/question-and-answer/question-and-answer-ontology.html) data. You can now get the [total number of questions](http://api.parliament.uk/OData/Question/$count), [total number of answers](https://api.parliament.uk/OData/Answer/$count), [questions by a Member](https://api.parliament.uk/OData/Member('0FqjjgNp')/AskingPersonHasQuestion), [answers by a Member](https://api.parliament.uk/OData/Member('0FqjjgNp')/AnsweringPersonHasAnswer), [questions asked on a date](https://api.parliament.uk/OData/Question?$filter=QuestionAskedAt%20eq%202018-05-23T00:00:00Z), [questions asked between two dates](https://api.parliament.uk/OData/Question?$filter=QuestionAskedAt%20gt%202018-04-23T00:00:00Z%20and%20QuestionAskedAt%20lt%202018-04-26T00:00:00Z), and [correcting answers expanded with corrected answers](https://api.parliament.uk/OData/CorrectingAnswer?$expand=AnswerReplacesAnswer). There's also a fixed query to return [questions by search terms in headings](https://api.parliament.uk/query/questions_search_by_title?lowercase_string=health).
+He also updated the [OData](http://www.odata.org/) endpoints to reflect the newly imported [questions and answers](https://ukparliament.github.io/ontologies/question-and-answer/question-and-answer-ontology.html) data. You can now get the [total number of questions](http://api.parliament.uk/OData/Question/$count), [total number of answers](https://api.parliament.uk/OData/Answer/$count), [questions by a Member](https://api.parliament.uk/OData/Member('0FqjjgNp')/AskingPersonHasQuestion), [answers by a Member](https://api.parliament.uk/OData/Member('0FqjjgNp')/AnsweringPersonHasAnswer), [questions asked on a date](https://api.parliament.uk/OData/Question?$filter=QuestionAskedAt%20eq%202018-05-23T00:00:00Z), [questions asked between two dates](https://api.parliament.uk/OData/Question?$filter=QuestionAskedAt%20gt%202018-04-23T00:00:00Z%20and%20QuestionAskedAt%20lt%202018-04-26T00:00:00Z), and [correcting answers expanded with corrected answers](https://api.parliament.uk/OData/CorrectingAnswer?$expand=AnswerReplacesAnswer). There's also a fixed query to return [questions by search terms in headings](https://api.parliament.uk/query/questions_search_by_title?lowercase_string=health).
 
-[Samu](https://twitter.com/langsamu)'s made major improvements to the default HTML rendering of data from our API. It now shows [meaningful labels for resources, images for member photos](https://api.parliament.uk/query/person_by_id?person_id=43RHonMf ), maps for constituency areas [https://api.parliament.uk/query/constituency_map?constituency_id=JzQPzQpf], and improved styling for a better table display. Matthieu helped on route with several useful suggestions.
+[Samu](https://twitter.com/langsamu) made major improvements to the default HTML rendering of data from our API. It now shows [meaningful labels for resources, images for member photos](https://api.parliament.uk/query/person_by_id?person_id=43RHonMf), [maps for constituency areas]() [maps for constituency areas](https://api.parliament.uk/query/constituency_map?constituency_id=JzQPzQpf), and improved styling for a better table display. Matthieu helped en route with several useful suggestions.
 
-Samu's had a busy week. He's also added analytics to capture redirects from [hansard.millbanksystems.com](http://hansard.millbanksystems.com/) (the thing that search engines still have indexed) to the new [Historic Hansard](https://api.parliament.uk/historic-hansard/index.html). Liz has been looking at user IDs. There've been about 22,000 unique users per week in the last month.
+Samu had a busy week. He also added analytics to capture redirects from [hansard.millbanksystems.com](http://hansard.millbanksystems.com/) (the thing that search engines still have indexed) to the new [Historic Hansard](https://api.parliament.uk/historic-hansard/index.html). Liz has been looking at user IDs. There's been about 22,000 unique users per week in the last month.
 
 ### [Use hyperlinks to subvert hierarchy](https://en.wikipedia.org/wiki/The_Cluetrain_Manifesto#Thesis_7:_Hyperlinks_Subvert_Hierarchy)
 
-The [lastest version](https://github.com/dotnetrdf/dotnetrdf/blob/v2.1.0/ChangeLog.txt) of [dotNetRDF](http://www.dotnetrdf.org/) got released this week. It's an open-source software library we both contribute to and [rely on(https://medium.com/@langsamu/api-parliament-uk-7b87597019a4)). The new release contains a number of contributions by Samu:
+The [lastest version](https://github.com/dotnetrdf/dotnetrdf/blob/v2.1.0/ChangeLog.txt) of [dotNetRDF](http://www.dotnetrdf.org/) was released this week. It's an open-source software library we both contribute to and [rely on](https://medium.com/@langsamu/api-parliament-uk-7b87597019a4)). The new release contains a number of contributions by Samu:
 
 * A new read-only [SKOS](https://en.wikipedia.org/wiki/Simple_Knowledge_Organization_System) API, inspired by Matthieu's work on transforming our controlled vocabulary to SKOS and building tools to replace and improve the software used by the Indexing and Data Management Section of the House of Commons Library.
 
 * A new [GraphML](http://graphml.graphdrawing.org/) triplestore writer that converts RDF data into an XML format used in visualisation software. It was inspired by Raphael's work on visualising procedures for the SI tracker project.
 
-* A new feature for the GraphViz writer (another RDF visualisation converter) that allows outputting separate literal nodes. Also inspired by Raphael's work on procedure visualisation.
+* A new feature for the GraphViz writer (another RDF visualisation converter) that allows for the output of separate literal nodes. Also inspired by Raphael's work on procedure visualisation.
 
 * A fix for date handling in the [JSON-LD](https://en.wikipedia.org/wiki/JSON-LD) parser which was inspired by our work on serving developer friendly hierarchic JSON-LD and RDF/XML from the query API.
 
@@ -88,7 +88,7 @@ Based on the code we've contributed, our query API now supports GraphML output f
 
 ### Corporate data
 
-[Dan](https://twitter.com/dasbarrett)'s been working a fair bit with David, Lew, and Noel on all things data integration-y. They've been trying working to improve the pipeline of work coming in and the quality of requests the pipes contain. They've also been trying to keep the endless email chains to a minimum and working out where we go next with our infrastructure.
+[Dan](https://twitter.com/dasbarrett)'s been working a fair bit with David, Lew, and Noel on all things data integration-y. They’ve been trying to improve the pipeline of work coming in and the quality of requests the pipes contain. They've also been trying to keep the endless email chains to a minimum and working out where we go next with our infrastructure.
 
 David went off to the [Biztalk 360 Integrate 2018](https://www.biztalk360.com/integrate-2018/) conference and returned with an assortment of Biztalk stickers. Which at least makes a pleasant change from Users First and Being Bold.
 
