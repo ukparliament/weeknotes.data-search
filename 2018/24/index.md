@@ -64,7 +64,7 @@ Dan properly started his new 'Service Owner - Interaction Management' gig with s
 
 ### Employee of the week award...
 
-...goes to Jayne Sunley in IDMS, who's been manically [actualising](https://ukparliament.github.io/ontologies/procedure/procedure-ontology.html#d4e22) [steps](https://ukparliament.github.io/ontologies/procedure/procedure-ontology.html#d4e272) by adding [business items](https://ukparliament.github.io/ontologies/procedure/procedure-ontology.html#d4e193) to [work packages](https://ukparliament.github.io/ontologies/procedure/procedure-ontology.html#d4e284). All for the purposes of tracking SIs. At least for now, the SI tracker is basically Jayne. Like the Wizard of Oz, but proxied by computers.
+...goes to Jayne Sunley in IDMS, who's been manically [actualising](https://ukparliament.github.io/ontologies/procedure/procedure-ontology.html#d4e22) [steps](https://ukparliament.github.io/ontologies/procedure/procedure-ontology.html#d4e272) by adding [business items](https://ukparliament.github.io/ontologies/procedure/procedure-ontology.html#d4e193) to [work packages](https://ukparliament.github.io/ontologies/procedure/procedure-ontology.html#d4e284). All for the purposes of tracking SIs. At least for now, the SI tracker is basically Jayne. Like the [Wizard of Oz](https://www.youtube.com/watch?v=-RQxD4Ff7dY&t=47s), but proxied by computers.
 
 ### Strolls
 
