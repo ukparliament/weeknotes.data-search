@@ -1,5 +1,6 @@
 ## UK Parliament data and search weeknotes
 
+* [2018 week 24](2018/24)
 * [2018 week 23](2018/23)
 * [2018 week 22](2018/22)
 * [2018 week 21](2018/21)
