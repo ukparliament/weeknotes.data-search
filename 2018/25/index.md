@@ -21,16 +21,16 @@ The second was about agreeing, for the purpose of high-level tracking, what mile
 
 Anya and Michael went along to see Jane and [Jack](https://twitter.com/jackpdent) and some other clerks to talk about all things Brexit and Statutory Instruments (SIs) and the tracking thereof.
 
-Alison spent a morning with the Indexing and Data Management Section (IDMS)indexing team in Tothill Street, chatting thesauri and quality control and an afternoon with Ed and James in Millbank House, learning the finer points of committees, evidence and their associated systems. She also spotted a painting of Malvern on a meeting room wall there, which made her happy. She also attended the Collaboration team's Show and Tell.
+Alison spent a morning with the Indexing and Data Management Section (IDMS)indexing team in Tothill Street, chatting thesauri and quality control and an afternoon with Ed and James in Millbank House, learning the finer points of committees, evidence and their associated systems. She also spotted a painting of Malvern on a meeting room wall there, which made her happy.
 
-[Matthieu](https://twitter.com/cognithive) has done a lot of talking this week; he talked about [Vocbench](http://vocbench.uniroma2.it/) and [skos](https://www.w3.org/2004/02/skos/) controlled vocabularies with Alison, he talked about web components with Jamie and about windows core deployments with Wojciech. He even found time to talk about about in-memory graphs with [Samu](https://twitter.com/langsamu) as well as contribute to the reification discussions.
+[Matthieu](https://twitter.com/cognithive) did a lot of talking this week; he talked about [Vocbench](http://vocbench.uniroma2.it/) and [skos](https://www.w3.org/2004/02/skos/) controlled vocabularies with Alison, he talked about web components with Jamie and about windows core deployments with Wojciech. He even found time to talk about about in-memory graphs with [Samu](https://twitter.com/langsamu) as well as contribute to the reification discussions.
 
 Aidan might have finally cracked the case of using Ontology Manager over [DirectAccess](https://en.wikipedia.org/wiki/DirectAccess).IDMS use this desktop software to modify their controlled vocabularies, but
 when working remotely using DirectAccess, a kind of VPN, they've experienced problems connecting to the server component that hosts the vocabulary data.
 After several months of troubleshooting (working with Mike and other colleagues in Parliament), Aidan thinks he has identified the cause.
 After laborious network traffic analysis, discussions with Samu and with the vendor, he found that the software relies on a version of a low-level networking protocol [IPv4](https://en.wikipedia.org/wiki/IPv4) that is not supported by DirectAccess. He's recommending issuing other laptops with earlier operating systems to these colleagues to restore their remote access.
 
-Kunal worked with Joe Foster from Information Systems on testing possible future improvements to how Hansard reports on proxy voting and how that information will make it into Indexing & Search.
+Kunal worked with Joe Foster from Information Systems on testing possible future improvements to how Hansard reports on proxy voting and how that information might make it into Indexing & Search.
 
 
 ### Domain modelling
