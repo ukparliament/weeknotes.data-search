@@ -109,17 +109,3 @@ Not a single stroll or trip to the seaside reported this week, despite the Summe
 * [Shallow by design by Michael Owen](https://medium.com/@1mikeowen/shallow-by-design-bf87d1a6bf67?source=linkShare-4cd140afefc2-1529614696)
 
 * [Resources for Implementing European Legislation Identifier](https://eur-lex.europa.eu/eli-register/resources.html)
-
-
-
-
-
-
-
-
-
-
-
-
-
-```
