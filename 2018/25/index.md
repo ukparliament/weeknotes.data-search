@@ -1,6 +1,6 @@
 ## 2018 Week 25
 
-Guest edited this week by [Alison](https://twitter.com/oliala).
+This weeks edition was guest edited by [Alison](https://twitter.com/oliala).
 
 ### Showing and telling...
 
@@ -15,15 +15,15 @@ This week was David's turn to show and tell. In his talk - "My visit to a data i
 [Dan](https://twitter.com/dasbarrett) has been been settling into his additional 'Service Owner' job this week, which has seen him going to stand ups, sifting and interviewing a contractor developer and meeting with the folks from Restoration and Renewal to learn about their plans. He also  met with [Jeanette](@clementgraphics) and [Steve](https://twitter.com/steve_bromley) to try to help make user research a more intrinsic part of the programme, and has looked at how he can join various initiatives together.
 
 He also found time to attend a couple of workshops ; the first involved  people from across the department starting to break down the "What do we mean by service?" question for the work that Rebecca is leading.
-The second was about agreeing, for the purpose of high-level tracking, what milestones projects and programmes across the organisation share and featured expert advice on unique identifiers.(Thanks all).
+The second was about agreeing, for the purpose of high-level tracking, what milestones projects and programmes across the organisation share and featured expert advice on unique identifiers. (Thanks all).
 
 Anya and Michael went along to see Jane and [Jack](https://twitter.com/jackpdent) and some other clerks to talk about all things Brexit and Statutory Instruments (SIs) and the tracking thereof.
 
-Alison spent a morning with the Indexing and Data Management Section (IDMS)indexing team in Tothill Street, chatting thesauri and quality control and an afternoon with Ed and James in Millbank House, learning the finer points of committees, evidence and their associated systems. She also spotted a painting of Malvern on a meeting room wall there, which made her happy.
+Alison spent a morning with the Indexing and Data Management Section (IDMS) indexing team in Tothill Street, chatting thesauri and quality control and an afternoon with Ed and James in Millbank House, learning the finer points of committees, evidence and their associated systems. She also spotted a painting of Malvern on a meeting room wall there, which made her happy.
 
 [Matthieu](https://twitter.com/cognithive) did a lot of talking this week; he talked about [Vocbench](http://vocbench.uniroma2.it/) and [skos](https://www.w3.org/2004/02/skos/) controlled vocabularies with Alison, he talked about web components with Jamie and about windows core deployments with Wojciech. He even found time to talk about about in-memory graphs with [Samu](https://twitter.com/langsamu) as well as contribute to the reification discussions.
 
-Aidan might have finally cracked the case of using Ontology Manager over [DirectAccess](https://en.wikipedia.org/wiki/DirectAccess).IDMS use this desktop software to modify their controlled vocabularies, but
+Aidan might have finally cracked the case of using Ontology Manager over [DirectAccess](https://en.wikipedia.org/wiki/DirectAccess). IDMS use this desktop software to modify their controlled vocabularies, but
 when working remotely using DirectAccess, a kind of VPN, they've experienced problems connecting to the server component that hosts the vocabulary data.
 After several months of troubleshooting (working with Mike and other colleagues in Parliament), Aidan thinks he has identified the cause. After laborious network traffic analysis, discussions with Samu and with the vendor, he found that the software relies on a version of a low-level networking protocol [IPv4](https://en.wikipedia.org/wiki/IPv4) that is not supported by DirectAccess. He's recommending issuing other laptops with earlier operating systems to these colleagues to restore their remote access.
 
@@ -65,7 +65,7 @@ Our Liz had good discussions with various people about transferring website meas
 
 Our Performance Analysts will have access to AppInsight Analytics so they can learn how to query the data, and allow us to explore how we can make it a comparable service to Google Analytics (mainly spreading more tracking around). Our Liz and [Sara](https://twitter.com/sarafreis) will help them query the data platform using [OData](http://www.odata.org/) to look up what the IDs refer to, and help them become more familiar with what's there, using that endpoint. Data analysts and performance analysts  are planning to get together to discuss overall measurements for the website, and we'll use this as an opportunity to practice querying and to consider how we could validate the measures we come up with.
 
-Matthieu, when he was not talking to people, was learning to love [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language) and Visual Studio. Live Unit Testing development flow is apparently a treat.
+Matthieu, when he was not talking to people, was learning to love [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)) and Visual Studio. Live Unit Testing development flow is apparently a treat.
 
 Thanks to some great work by Wojciech, the [UK Parliament API is now fully described by Swagger](https://twitter.com/langsamu/status/1010143705167290368)
 He also put to good use the datasource change notification service Chris created some time ago and caught multiple changes to data we hold about Lords (jubilant arrivals and unfortunate departures).
