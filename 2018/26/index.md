@@ -2,7 +2,7 @@
 
 ### Parliament in the area, [we’re international, we’re continental](https://www.youtube.com/watch?v=pNfHoPIxhXM&t=1m9s)
 
-[Matthieu](https://twitter.com/cognithive) dabbled with some top of the range  international collaboration, sitting in on a WebEx organised by [Derek Alton](https://twitter.com/DerekAlton) (sadly, not that one) from the Canadian Government. A bunch of people talked about the development of an open source suite of digital tools and platforms designed to help people come together to work on civic issues.
+[Matthieu](https://twitter.com/cognithive) dabbled with some top of the range  international collaboration, sitting in on a WebEx organised by [Derek Alton](https://twitter.com/DerekAlton) from the Canadian Government. A bunch of people talked about the development of an open source suite of digital tools and platforms designed to help people come together to work on civic issues.
 
 ### Community
 
