@@ -6,7 +6,7 @@
 
 ### Community
 
-Not an awful lot in the way of community this week, although [Anya](https://twitter.com/bitten_), Robert and [Michael](https://twitter.com/fantasticlife) did meet Paul for a pint or four down the [Strangers' Bar](https://en.wikipedia.org/wiki/Strangers%27_Bar). They attempted to put their [small corner of the world to rights](https://twitter.com/fantasticlife/status/1011714343979945984). But got distracted by beer. Quite heavily distracted if we're honest.
+Not an awful lot in the way of community this week, although [Anya](https://twitter.com/bitten_), Robert and [Michael](https://twitter.com/fantasticlife) did meet [Paul](https://twitter.com/psd) for a pint or four down the [Strangers' Bar](https://en.wikipedia.org/wiki/Strangers%27_Bar). They attempted to put their [small corner of the world to rights](https://twitter.com/fantasticlife/status/1011714343979945984). But got distracted by beer. Quite heavily distracted if we're honest.
 
 Anya and [Silver](https://twitter.com/silveroliver) met with [Helen](https://twitter.com/octodude) to plan the talks around ontologies and domain models they're due to give at [NetIKX](http://www.netikx.org/) later in the year. It went well, we're told. Some beer, but perhaps unsurprisingly, in smaller quantities.
 
