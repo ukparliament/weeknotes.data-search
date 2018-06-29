@@ -36,7 +36,7 @@ Alison and our Liz had a chat about modelling measurement. Alison also spoke to 
 
 ### Data platform
 
-Our Samu converted the Query Service to use a new content management vendor. We launched a first iteration of long-form article "content" (dread word, we know, we're sorry) on the new website a while ago. [Chris](https://twitter.com/chrisalcockdev), Jamie, Jenna, Joshua, [Librarian Liz](https://twitter.com/greensideknits) and Samu all chipped in, with actual words from Joanna Dodd and John Newton.
+Our Samu converted the Query Service to use a new content management vendor. We launched a [first iteration of long-form article "content"](https://beta.parliament.uk/collections/6i8XQAfD) (dread word, we know, we're sorry) on the new website a while ago. [Chris](https://twitter.com/chrisalcockdev), Jamie, Jenna, Joshua, [Librarian Liz](https://twitter.com/greensideknits) and Samu all chipped in, with actual words from Joanna Dodd and John Newton.
 
 Platform changes included an enhancement to the Query Service which connects to the CMS provider and converts the data into a form the website can easily consume. 
 
@@ -50,15 +50,15 @@ Elsewhere, in hot, fresh [OData](http://www.odata.org/) news, our service has on
 
 ### On search. And indeed indexing
 
-Matt started looking at how people use filters on [Parliamentary Search](http://search-material.parliament.uk/). Unsurprisingly, different filters are used differently. Since the start of 2017, the content type filters have been used over 250,000 times, the transferred question filter has been used only 74 times, and the poor old EC document number filter has been used a grand total of twice. Thought they are rather well hidden.
+Matt started looking at how people use filters on [Parliamentary Search](http://search-material.parliament.uk/). Unsurprisingly, different filters are used differently. Since the start of 2017, the content type filters have been used over 250,000 times, the transferred question filter has been used only 74 times, and the poor old EC document number filter has been used a grand total of twice. Though they are rather well hidden.
 
 ### Corporate data
 
 [Dan](https://twitter.com/dasbarrett) made it to four of the five data integration daily sit downs. They've been working on establishing the [Kanban](https://en.wikipedia.org/wiki/Kanban) board to support the team's delivery and workflow. Progress is being made. Albeit slowly.
 
-He also did some of the Service Ownership for the Interaction Management Programme, including a workshop about the language we use and making preparations for building a new software development function. And he’s been working with Bridget (new Data Architect for internal stuff) on the data strategy. And putting her in touch with assorted data architects across the UK public sector.
+He also did some Service Ownership for the Interaction Management Programme, including a workshop about the language we use and making preparations for building a new software development function. And he’s been working with Bridget (new Data Architect for internal stuff) on the data strategy. And putting her in touch with assorted data architects across the UK public sector.
 
-Our Liz and Lew met Jane and Ronke to talk about progress on untangling corporate [KPI](https://en.wikipedia.org/wiki/Performance_indicator) reporting from the linguine soup that is SharePoint. They agreed that managing reference data would be best done in Excel, so long as they can enable auditing. Liz had a slightly red face as she admitted she didn't know Excel had track changes. She'd like to thank Lew for pointing it out, though has some understandable concerns that the feature is labelled 'legacy'. They're planning to go along to the Performance Managers' meeting next month to share the work. Which should cover a few more teams' KPIs by then.
+Our Liz and Lew met Jane and Ronke to talk about progress on untangling corporate [KPI](https://en.wikipedia.org/wiki/Performance_indicator) reporting from the linguine soup that is SharePoint. They agreed that managing reference data would be best done in Excel, so long as they can enable auditing. Liz had a slightly red face as she admitted she didn't know Excel had track changes. She’d like to thank Lew for pointing it out, although she has some understandable concerns that the feature is labelled ‘legacy’. They're planning to go along to the Performance Managers' meeting next month to share the work. Which should cover a few more teams' KPIs by then.
 
 Lew began creating guidelines to help the data integration team with requirements gathering. Particularly around project work with other teams. He also continued development on the new finance transaction integration for the House of Lords.
 
@@ -74,7 +74,7 @@ David's been spending time with the space / location management system. Again it
 
 ### Employee of the week award...
 
-...goes once again to Jayne, because if we don't keep giving it her, she might stop frantically adding Statutory Instrument data and then we wouldn't have an [SI tracker](https://beta.parliament.uk/statutory-instruments). Which would make us all sad. It's basically just bribery at this point.
+...goes once again to Jayne, because if we don't keep giving it her, she might stop frantically adding statutory instrument data and then we wouldn't have an [SI tracker](https://beta.parliament.uk/statutory-instruments). Which would make us all sad. It's basically just bribery at this point.
 
 ### Strolls
 
