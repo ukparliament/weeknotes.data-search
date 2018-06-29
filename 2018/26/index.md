@@ -86,7 +86,7 @@ Other than that, what would usually have been Anya, Michael and Robert's strolli
 
 * [Design Thinking is Kind of Like Syphilis](https://medium.com/@sts_news/design-thinking-is-kind-of-like-syphilis-its-contagious-and-rots-your-brains-842ed078af29)
 
-* [Data literacy should be the hottest skill to brag about in 2018](https://www.dataiq.co.uk/blog/data-literacy-should-be-hottest-skill-brag-about-2018
+* [Data literacy should be the hottest skill to brag about in 2018](https://www.dataiq.co.uk/blog/data-literacy-should-be-hottest-skill-brag-about-2018)
 
 * [Why You Don’t Need Data Scientists](https://medium.com/@kurtcagle/why-you-dont-need-data-scientists-a9654cc9f0e4)
 
@@ -96,7 +96,7 @@ Other than that, what would usually have been Anya, Michael and Robert's strolli
 
 * [Building the GOV.UK of the future](https://gds.blog.gov.uk/2018/06/27/building-the-gov-uk-of-the-future/) in which Neil Williams talks about a consistent domain model for government
 
-* [Design, Modeling and Control of Aerial Robot DRAGON](https://www.youtube.com/watch?v=zMi5v2KznU4)
+* [Design, Modelling and Control of Aerial Robot DRAGON](https://www.youtube.com/watch?v=zMi5v2KznU4)
 
 * [Microsoft Releases 125 million Building Footprints in the US as Open Data](https://blogs.bing.com/maps/2018-06/microsoft-releases-125-million-building-footprints-in-the-us-as-open-data/)
 
