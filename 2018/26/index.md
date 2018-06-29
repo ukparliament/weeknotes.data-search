@@ -94,7 +94,7 @@ Other than that, what would usually have been Anya, Michael and Robert's strolli
 
 * [The ODI Summit 2018](https://theodi.org/event/odi-summit-2018/)
 
-* [Building the GOV.UK of the future](https://gds.blog.gov.uk/2018/06/27/building-the-gov-uk-of-the-future/) in which Neil Williams talks about a consistent domain model for government
+* [Building the GOV.UK of the future](https://gds.blog.gov.uk/2018/06/27/building-the-gov-uk-of-the-future/) in which [Neil Williams](https://twitter.com/neillyneil) talks about a consistent domain model for government
 
 * [Design, Modelling and Control of Aerial Robot DRAGON](https://www.youtube.com/watch?v=zMi5v2KznU4)
 
