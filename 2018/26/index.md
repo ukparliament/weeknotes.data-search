@@ -70,7 +70,7 @@ David's been spending time with the space / location management system. Again it
 
 ### Customer service of the week award...
 
-...goes to mighty Samu, who helped a chap called Alasdair with [a query about searching the House of Commons division API](https://twitter.com/langsamu/status/1012322076517117952). Samu gave him a workaround and [Alasdair went away happy](https://twitter.com/Hulavoo/status/1012336350807384065).
+...goes to mighty Samu, who helped a chap called Alasdair with [a query about searching the House of Commons divisions API](https://twitter.com/langsamu/status/1012322076517117952). Samu gave him a workaround and [Alasdair went away happy](https://twitter.com/Hulavoo/status/1012336350807384065).
 
 ### Employee of the week award...
 
