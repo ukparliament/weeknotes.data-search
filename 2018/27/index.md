@@ -17,7 +17,7 @@ Alison went along to [Teacamp](https://teacamplondon.com/2018/07/03/july-teacamp
 
 ### One world, one web, one team
 
-Our Liz caught up with [Trine](https://twitter.com/StealthGeekUK) to talk through the survey guidance she's working on. They talked about the 'ways of working' survey data that Liz has been munging into a shape that makes it easy to build consistent graphs. The main themes they covered were:
+Our Liz caught up with [Trine](https://twitter.com/StealthGeekUK) to talk through the survey guidance she's working on. They talked about the ‘ways of working’ survey data that Liz has been munging into shape, to make it easier to build consistent graphs. The main themes they covered were:
 
 * Including questions about analysis methods and presentation before designing as they might influence scale and point on the scale.
 
