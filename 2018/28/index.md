@@ -1,4 +1,4 @@
-#
+
 ## 2018 Week 28
 
 Despite a few team members taking holiday, a lengthy evacuation due to a fire alarm, football not coming home, and the visit of Donald Trump, the Data and Search team has had a busy and productive week.
