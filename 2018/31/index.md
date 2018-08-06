@@ -1,8 +1,8 @@
 ## 2018 Week 31
 
-### Dator day
+### Dator day 
 
-Tuesday was [data day 42](https://twitter.com/dasbarrett/status/1024711433739804673). Or possibly Wednesday. It's hard to keep track. Dan, Jamie, Samu, Alison and Robert locked themselves away in a humid cupboard and talked about data. And work. What better way to spend the summer.
+Tuesday was [data day 42](https://twitter.com/dasbarrett/status/1024711433739804673). Or possibly Wednesday. It's hard to keep track. Dan, Jamie, Samu, Alison and Robert locked themselves away in a humid cupboard and talked about data. And work. What better way to spend the summer?
 
 They chatted website progress, technology in general, cloud adoption in particular and what's happening with all the other (non-public) data. Later in the day they were joined by Alex who brought along some interesting questions. How do data teams justify their existence was a particular doozy. Answers on a postcard please.
 
