@@ -22,6 +22,8 @@ Anya, Robert and Michael had a phone call with [Thomas Francart](https://www.lin
 
 Our Liz chatted to [Andy](https://twitter.com/mr_dudders) at the [ONS](https://www.ons.gov.uk/) about their process for deciding on features and improvements. Andy said it's not lead by any specific routine although they do regularly gather feedback and talk to users. Their negative feedback is almost always from users on the site, and not from those arriving externally. ONS use [Elastic Search](https://en.wikipedia.org/wiki/Elasticsearch) so are [more concerned with ranking content than we are](http://smethur.st/posts/176135866). They also monitor their top 100 terms and group terms to try to understand how to solve problems based on what they see people do. For the ONS, search isn't a a separate consideration from pages and journeys. Which is as it should be, says Michael. They have similar questions on domain specific language and sometimes feel they make decisions that are best for the business and not for users. Liz says it would be good to speak with their analyst. Plans were made for further chats.
 
+In other community related news, Dan's taken to wearing a [One Team Gov](https://twitter.com/OneTeamGov) lanyard. Michael remains unconvinced. Any association with [T-Men (let alone G-Men)](https://www.youtube.com/watch?v=Hwad0cqB3oQ) tends to undermine his sense of separation.
+
 ### One world, one web, one team
 
 Michael met with [Steve](https://twitter.com/steve_bromley) to chat about user research and Michael's [half coherent thoughts on the ecosystem, information flows and ripples of parliamentary users](https://twitter.com/fantasticlife/status/1009802788145188865). And how measuring and targeting individual user needs might not play well with this. Michael's been bending many ears on this recently, not least Anya, Robert and [Paul](https://twitter.com/psd). A blog post might be brewing.
@@ -83,6 +85,8 @@ Dan and Robert went for a stroll which turned into more of a punishing hell-trek
 Eventually they did manage to find a small island of shade. At which point, things improved. There was some chat about watches and post-war Japanese manufacturing which are some of the many and varied things Robert knows about. Maybe a milkshake next time lads?
 
 Anya, Robert and Michael took a stroll to [St Martha's church](https://en.wikipedia.org/wiki/St_Martha's_Hill) out in the Surrey hills. Anya saw England for the first time and was most impressed. Ben was supposed to join them but his teeth fell out so sadly couldn't show. We know you're thinking this was a log stroll for a working day, but it happened on Saturday and they took a train. They did talk a little about work though so should probably bill Parliament.
+
+Robert and Michael decided they'd quite like to run a festival but struggled to settle on a coherent narrative. Shame 2019 should take place next summer. Probably in Surrey. Flagellation will be encouraged. But not if anybody looks like they're enjoying it.
 
 ### Things that caught our eye
 
