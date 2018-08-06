@@ -72,7 +72,7 @@ Matt and Sara visited the Indexing and Data Management Section in the House of C
 
 The beloved [Biztalk](https://en.m.wikipedia.org/wiki/Microsoft_BizTalk_Server) continued to explode in assorted faces. As is its wont. David, Lew, and Noel had another tough week wrestling with Microsoft's finest. [Aidan](https://twitter.com/aidan_morgan) stepped in to help out with coordination, prioritisation and communication. A few other colleagues from the department were drafted in. Cos, let's face it, no one's gonna volunteer here. Microsoft were called. Presumably someone slipped a flat snack under a door in Seattle because some progress was made. By the end of the week Noel was making sure that missing records were getting manually updated. Because that's why we have computers. Davis also got 90% of the way to implementing a change that should see some improvements. You'd hope.
 
-### Did anybody fill in anyb forms?
+### Did anybody fill in any forms?
 
 Aidan and Liz talked through how we support our business intelligence software and filled in the service group form. It would be good to move away from requests needing to be channeled through Liz. She'd like to build in the option for users to read the framework before getting a licence and get to the point where the application is just something that's there rather than anyone having to request it.
 
