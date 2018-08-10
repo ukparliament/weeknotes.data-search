@@ -28,7 +28,7 @@ Daniel and Joe from the [House of Commons Scrutiny Unit](https://www.parliament.
 
 Michael met [Sarah](https://twitter.com/SarahPurssell), [James](https://twitter.com/thevinternet) and [Victor](https://twitter.com/_victorhwang) to chat about the [committee evidence submission model](https://ukparliament.github.io/ontologies/submission/submission-ontology.html) and look through some of their wireframes. Most things seem to match up but there's a lack of reference data here and some fuzziness around how we reconcile people and organisations submitting evidence. Use cases exist for tracking this but as yet we're not quite sure how we meet them.
 
-Jianhan worked with Jamie to get 53 MP and Peer reshoot photos onto the [beta website](https://beta.parliament.uk/). [Creative Commons licenced](https://creativecommons.org/licenses/by/3.0/) as ever. Please continue to fill your boots.
+[Jianhan](https://twitter.com/jianhanzhu) worked with Jamie to get 53 MP and Peer reshoot photos onto the [beta website](https://beta.parliament.uk/). [Creative Commons licenced](https://creativecommons.org/licenses/by/3.0/) as ever. Please continue to fill your boots.
 
 Michael went along to a session on service design but left no less confused than when he arrived. Which is not unusual. He can be quite dim.
 
@@ -44,7 +44,7 @@ Michael poked [Tony](https://twitter.com/psychemedia) about similar matters. It 
 
 ### Data platform
 
-Work continued on enhancements to the [Statutory Instrument tracker](https://beta.parliament.uk/statutory-instruments) service. [Matthieu](https://twitter.com/cognithive)'s been slaving away to bring the [legislation](https://ukparliament.github.io/ontologies/legislation/legislation-ontology.html) and [laying](https://ukparliament.github.io/ontologies/laying/laying-ontology.html) models into the data platform. Wojciech battled the machines to make a better procedure editor for the Indexing and Data Management Section in the House of Commons Library.
+Work continued on enhancements to the [Statutory Instrument tracker](https://beta.parliament.uk/statutory-instruments) service. [Matthieu](https://twitter.com/cognithive)'s been slaving away to bring the [legislation](https://ukparliament.github.io/ontologies/legislation/legislation-ontology.html) and [laying](https://ukparliament.github.io/ontologies/laying/laying-ontology.html) models into the data platform. Wojciech battled the machines to make a better Procedure Editor for the Indexing and Data Management Section in the House of Commons Library. And Jianhan worked on extracting  SI data from the Solr index and saving it into the Procedure Editor database, which reduces the burden of duplicate data entry for IDMS.
 
 Mike and Michael spent a pleasant afternoon (or the best part of one) picking through assorted [SI flowcharts](https://ukparliament.github.io/ontologies/procedure/procedure-ontology.html#examples) and comparing them to the [swanky visualisatons of actual data](https://procedures.azurewebsites.net/) in actual machines. They ran through a spreadsheet [Anya](https://twitter.com/bitten_) had provided and used the Procedure Editor to make the changes. They also noticed a few other discrepancies. Which they fixed. Or believe they fixed. Next week they plan to sit on a floor with Anya and Jayne, surround themselves with scraps of paper and check things.
 
