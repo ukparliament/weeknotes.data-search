@@ -22,7 +22,7 @@ Having assembled these assorted onion labels we're hoping [search](https://beta.
 
 ### One world, one web, one team
 
-Daniel and Joe from the [House of Commons scrutiny unit](https://www.parliament.uk/mps-lords-and-offices/offices/commons/scrutinyunit/), have started using the data from the ways of working dashboard to do some analysis. Our Liz is planning to share some of the structuring work she did on data, so they don't have to re-create it all. Hopefully they'll be able to do what they need to do a little quicker.
+Daniel and Joe from the [House of Commons Scrutiny Unit](https://www.parliament.uk/mps-lords-and-offices/offices/commons/scrutinyunit/), have started using the data from the ways of working dashboard to do some analysis. Our Liz is planning to share some of the structuring work she did on data, so they don't have to re-create it all. Hopefully they'll be able to do what they need to do a little more quickly.
 
 [Alison](https://twitter.com/oliala) met with both Jamie and Michael to begin plotting out URLs for our forthcoming visit Parliament pages.
 
@@ -92,7 +92,7 @@ So for the past few weeks it's been too damned hot to put the required effort in
 
 Despite inclement circumstances, Robert and Michael did manage to fit in a stroll to Victoria. Where they talked about "products" and users and their never-ending neediness.
 
-Alison also snuck in an impromptu and somewhat sedentary chat with Robert. Amny things were discussed, not least search, communication channels and the [4-dog dog walking limit in Wandsworth](http://www.wandsworth.gov.uk/info/200512/dog_control_and_animal_welfare/349/dog_control).
+Alison also snuck in an impromptu and somewhat sedentary chat with Robert. Many things were discussed, not least search, communication channels and the [4-dog dog walking limit in Wandsworth](http://www.wandsworth.gov.uk/info/200512/dog_control_and_animal_welfare/349/dog_control).
 
 ### Things that caught our eye
 
