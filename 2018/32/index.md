@@ -14,7 +14,7 @@ Yup. We're expecting little change here.
 
 ### Showing and telling
 
-This week [Matt](https://twitter.com/mattrayner) [took to the stage](https://www.youtube.com/watch?v=rgEw_YtfxYM) and promptly showed and told some the work he's been doing (with Christine and Allan) on the new website application. Matt being Matt he chose to go with a whiteboard rather than a projector. Having talked through some of the problems we've found with our current application framework (implementation inconsistencies and developer hostility) he talked though the new approach which we're hoping will bring the website into closer alignment with the data model. 
+This week [Matt](https://twitter.com/mattrayner) [took to the stage](https://www.youtube.com/watch?v=rgEw_YtfxYM) and promptly showed and told some of the work he's been doing (with Christine and Allan) on the new website application. Matt being Matt he chose to go with a whiteboard rather than a projector. Having talked through some of the problems we've found with our current application framework (implementation inconsistencies and developer hostility) he talked though the new approach which we're hoping will bring the website into closer alignment with the data model. 
 
 For those with an interest in such things we're building a new back-end framework called [Thorney](https://github.com/ukparliament/thorney), built on [Rails](https://rubyonrails.org/) and a new front-end framework called [Augustus](https://github.com/ukparliament/augustus), built on top of [Shunter](https://github.com/springernature/shunter), built on top of [Node](https://nodejs.org/en/). Almost makes you pine for FTP.
 
@@ -27,6 +27,8 @@ Daniel and Joe from the [House of Commons Scrutiny Unit](https://www.parliament.
 [Alison](https://twitter.com/oliala) met with both Jamie and Michael to begin plotting out URLs for our forthcoming visit Parliament pages.
 
 Michael met [Sarah](https://twitter.com/SarahPurssell), [James](https://twitter.com/thevinternet) and [Victor](https://twitter.com/_victorhwang) to chat about the [committee evidence submission model](https://ukparliament.github.io/ontologies/submission/submission-ontology.html) and look through some of their wireframes. Most things seem to match up but there's a lack of reference data here and some fuzziness around how we reconcile people and organisations submitting evidence. Use cases exist for tracking this but as yet we're not quite sure how we meet them.
+
+Jianhan worked with Jamie to get 53 MP and Peer reshoot photos onto the [beta website](https://beta.parliament.uk/). [Creative Commons licenced](https://creativecommons.org/licenses/by/3.0/) as ever. Please continue to fill your boots.
 
 Michael went along to a session on service design but left no less confused than when he arrived. Which is not unusual. He can be quite dim.
 
@@ -48,7 +50,7 @@ Mike and Michael spent a pleasant afternoon (or the best part of one) picking th
 
 In updating the procedure data they stumbled across a few bugs with the Procedure Editor. Form [inputs in one section being accidentally linked to labels in another section](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/label) not least of them. Heads were scratched and computers cursed. On top of that, [cache control headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Cache-Control) were not being set, so views were getting cached in the browser. If you deleted a thing, you got taken back to a list with the deleted thing still on it. Confusion was not lessened by the use of [soft deletes](https://stackoverflow.com/questions/2549839/are-soft-deletes-a-good-idea). If you tried to delete the same thing again the computer just said, yup, deleted. And took you back to look at it.
 
-Luckily, Mike and Michael were sat by Wojciech who could not help but overhear their anguish, and jumped in with fixes to the usual tune of [Sheiße](https://www.urbandictionary.com/define.php?term=sheisse).
+Luckily, Mike and Michael were sat just behind Wojciech who could not help but overhear their anguish, and jumped in with fixes to the usual tune of [Sheiße](https://www.urbandictionary.com/define.php?term=sheisse).
 
 In the unlikely event you're reading this, the even more unlikely event you have an interest in UK secondary legislation and the vanishingly small chance you want to help, spending some minutes checking our hand-drawn flowcharts against their machine drawn counterparts would be lovely:
 
