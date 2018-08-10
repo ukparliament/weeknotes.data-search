@@ -18,7 +18,7 @@ This week [Matt](https://twitter.com/mattrayner) [took to the stage](https://www
 
 For those with an interest in such things we're building a new back-end framework called [Thorney](https://github.com/ukparliament/thorney), built on [Rails](https://rubyonrails.org/) and a new front-end framework called [Augustus](https://github.com/ukparliament/augustus), built on top of [Shunter](https://github.com/springernature/shunter), built on top of [Node](https://nodejs.org/en/). Almost makes you pine for FTP.
 
-Having assembled these assorted onion levels we're hoping [search](https://beta.parliament.uk/search) will be the first piece of the jigsaw to get refactored. Stay tuned.
+Having assembled these assorted onion layers we're hoping [search](https://beta.parliament.uk/search) will be the first piece of the jigsaw to get refactored. Stay tuned.
 
 ### One world, one web, one team
 
