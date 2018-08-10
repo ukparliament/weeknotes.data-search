@@ -14,7 +14,7 @@ Yup. We're expecting little change here.
 
 ### Showing and telling
 
-This week [Matt](https://twitter.com/mattrayner) [took to the stage](https://www.youtube.com/watch?v=rgEw_YtfxYM) and promptly showed and told some of the work he's been doing (with Christine and Allan) on the new website application. Matt being Matt he chose to go with a whiteboard rather than a projector. Having talked through some of the problems we've found with our current application framework (implementation inconsistencies and developer hostility) he talked though the new approach which we're hoping will bring the website into closer alignment with the data model. 
+This week [Matt](https://twitter.com/mattrayner) [took to the stage](https://www.youtube.com/watch?v=rgEw_YtfxYM) and promptly showed and told some of the work he's been doing (with Christine and Allan) on the new website application. Matt being Matt he chose to go with a whiteboard rather than a projector. Having talked through some of the problems we've found with our current application framework (implementation inconsistencies and developer hostility) he talked through the new approach which we're hoping will bring the website into closer alignment with the data model. 
 
 For those with an interest in such things we're building a new back-end framework called [Thorney](https://github.com/ukparliament/thorney), built on [Rails](https://rubyonrails.org/) and a new front-end framework called [Augustus](https://github.com/ukparliament/augustus), built on top of [Shunter](https://github.com/springernature/shunter), built on top of [Node](https://nodejs.org/en/). Almost makes you pine for FTP.
 
