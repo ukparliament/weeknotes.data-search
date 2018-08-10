@@ -24,7 +24,7 @@ Having assembled these assorted onion labels we're hoping [search](https://beta.
 
 Daniel and Joe from the [House of Commons Scrutiny Unit](https://www.parliament.uk/mps-lords-and-offices/offices/commons/scrutinyunit/), have started using the data from the ways of working dashboard to do some analysis. Our Liz is planning to share some of the structuring work she did on data, so they don't have to re-create it all. Hopefully they'll be able to do what they need to do a little more quickly.
 
-[Alison](https://twitter.com/oliala) met with both Jamie and Michael to begin plotting out URLs for our forthcoming visit Parliament pages.
+[Alison](https://twitter.com/oliala) met with both [Jamie](https://twitter.com/oddtype) and Michael to begin plotting out URLs for our forthcoming visit Parliament pages.
 
 Michael met [Sarah](https://twitter.com/SarahPurssell), [James](https://twitter.com/thevinternet) and [Victor](https://twitter.com/_victorhwang) to chat about the [committee evidence submission model](https://ukparliament.github.io/ontologies/submission/submission-ontology.html) and look through some of their wireframes. Most things seem to match up but there's a lack of reference data here and some fuzziness around how we reconcile people and organisations submitting evidence. Use cases exist for tracking this but as yet we're not quite sure how we meet them.
 
