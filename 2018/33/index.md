@@ -80,7 +80,7 @@ Our Liz reports that James, our shiny new data analyst, will start with us on th
 
 Liz got a free sandwich for pointing out Pret had messed up the labelling scheme. Well done Liz.
 
-Anya also acquired a free croissant because Michael messed up the queuing system. Again from Pret. They'll be bankrupt at this rate.
+Anya acquired a free chocolate hazelnut croissant. This time because Michael messed up the queuing system. Again from Pret. They'll be bankrupt at this rate.
 
 ### Things that caught our eye
 
