@@ -42,9 +42,9 @@ But that was last week. This week Lew's been doing some [BizTalk](https://en.wik
 
 ...[librarian Jayne](https://www.youtube.com/watch?v=f3V-7DEAgdc). 
 
-The nomination arrives from Alex who received a request from the [Knesset Archives](https://knesset.gov.il/archive/eng/ArchiveIntro_eng.htm) to provide session level Member activity counts for things like the number of [private bills](https://www.parliament.uk/about/how/laws/bills/private/) sponsored, the number of [written questions](https://www.parliament.uk/business/publications/written-questions-answers-statements/written-questions-answers/) tabled etc. Jayne kindly helped out. For which read: did the actual work. Alex tells us *we* were able to provide everything requested out of [Solr](http://lucene.apache.org/solr/). Not all developers, man.
+The nomination arrives from Alex who received a request from the [Knesset Archives](https://knesset.gov.il/archive/eng/ArchiveIntro_eng.htm) to provide session level Member activity counts for things like the number of [Private Members' Bills](https://en.wikipedia.org/wiki/Private_Members%27_Bills_in_the_Parliament_of_the_United_Kingdom) sponsored, the number of [written questions](https://www.parliament.uk/business/publications/written-questions-answers-statements/written-questions-answers/) tabled etc. Jayne kindly helped out. For which read: did the actual work. Alex tells us *we* were able to provide everything requested out of [Solr](http://lucene.apache.org/solr/). Not all developers, man.
 
-We're still stuck on the number of motions per member as this is a all bit tricky. But we continue to investigate. And feel sure Jayne will come up with the goods.
+We're still stuck on the number of motions per member as this is all a bit tricky. But we continue to investigate. And feel sure Jayne will come up with the goods.
 
 ### Strolls
 
