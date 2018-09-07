@@ -48,7 +48,7 @@ Off the back of a meeting with Jack they also found out that there can only be o
 
 Anya, Robert and Michael continued with their 'comment blitz' in a bid to improve all the comments across the models. They probably rewrote three before getting distracted by Daily Express comments. But they were a good three. As was the Daily Express comment.
 
-#### September spawned a monster...
+#### September [spawned a monster](https://www.youtube.com/watch?v=Xv8LdKp2Y-8)...
 
 ...in the shape of statutory instrument [withdrawal](https://ukparliament.github.io/ontologies/laying/laying-ontology.html#d4e279) in the [draft affirmative procedure](https://procedures.azurewebsites.net/Procedures/3/graph). We had hoped to avoid modelling withdrawal in the procedure data, on the assumption that withdrawal kills everything and withdrawal is always possible. But it turns out withdrawal can only happen before decisions in each House. So we had to capture withdrawal precluding some things, withdrawal causing some things and decision points precluding withdrawals. Dear reader, we are sorry. You'd have to be [Erskine May](https://en.wikipedia.org/wiki/Erskine_May) with a cheap Dell to find any of this interesting.
 
