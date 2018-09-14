@@ -2,7 +2,7 @@
 
 ### Babies
 
-We're delighted to announce that the break of dawn on Saturday coincided with the [soft and gentle cries](https://www.youtube.com/watch?v=Su_l0d-st1k) of a new born baby. And [Jianhan](https://twitter.com/jianhanzhu) Jnr. entered the world. No name as yet, we're sure it will follow along soon. Because our Jianhan is a [great computer scientist](https://martinfowler.com/bliki/TwoHardThings.html). And we probably need to settle on an identifier pattern first. Welcome aboard Jianhan Jnr.
+We’re delighted to announce that the break of dawn on Saturday was met with the [soft and gentle cries](https://www.youtube.com/watch?v=Su_l0d-st1k) of a new born baby. And [Jianhan](https://twitter.com/jianhanzhu) Jnr entered the world. No name as yet, we're sure it will follow along soon. Because our Jianhan is a [great computer scientist](https://martinfowler.com/bliki/TwoHardThings.html). And we probably need to settle on an identifier pattern first. Welcome aboard Jianhan Jnr.
 
 In the very same week [Samu](https://twitter.com/langsamu) was also delivered of a new baby, in the shape of a [public SPARQL endpoint](https://api.parliament.uk/sparql). Joyful tears were shed. Samu has since been spotted wandering round the office with a rictus grin, 1000 yard stare and a cigar clamped between his lips. At least we think it's a cigar. We're told that mother and baby are both doing well.
 
@@ -58,7 +58,7 @@ Mike continued to peer at the usage statistics for the Search Service and found 
 
 ### On search. And indeed indexing
 
-Sara continued with her investigations into search terms and the House of Commons Library [controlled vocabulary](http://www.data.parliament.uk/dataset/thesauri). Alex helped out by exporting a list of all the controlled terms in use. Which worked out to be 41,936 preferred terms and 27,130 non-preferred terms. Which is a lot of words. Sara took this list and and attempted to match it to search terms from four sources: our [new website search](https://beta.parliament.uk/search), [parliamentary search](https://search.parliament.uk/search), [Hansard search](https://hansard.parliament.uk) and [search-material](http://search-material.parliament.uk/).
+Sara continued with her investigations into search terms and the House of Commons Library [controlled vocabulary](http://www.data.parliament.uk/dataset/thesauri). Alex helped out by exporting a list of all the controlled terms in use. Which worked out to be 41,936 preferred terms and 27,130 non-preferred terms. Which is a lot of words. Sara took this list and and attempted to match it to search terms from four sources: our [new website search](https://beta.parliament.uk/search), [parliamentary search](http://search-material.parliament.uk/), the internal only parliamentary search and [Hansard search](https://hansard.parliament.uk).
 
 To make things more manageable, the analysis covered the period from May to June 2018. It's not yet complete, but we have some numbers. So that's good. Out of 154,918 unique search terms, 67,082 matched with preferred terms and 23,042 search terms matched non-preferred terms. So a total coverage of 58%. Super.
 
