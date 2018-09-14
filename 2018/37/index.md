@@ -64,9 +64,11 @@ To make things more manageable, the analysis covered the period from May to June
 
 ### Corporate data
 
-Noel and David wiped the sweat from the brows and emerged into a [rubble strewn landscape](https://www.youtube.com/watch?v=MrHoMSRZOS4&t=3m47s) to continue the configuration of their new development and testing environment. David continued to clean up the duplicate or incomplete records that exist on People Data. And David reviewed an issue that's currently affecting the Time and Labouring System. Which sounds pretty dystopian.
+Noel and David wiped the sweat from their brows and emerged into a [rubble strewn landscape](https://www.youtube.com/watch?v=MrHoMSRZOS4&t=3m47s) to continue the configuration of their new development and testing environment. Noel continued to clean up the duplicate or incomplete records that exist on People Data following its recent explosion. And David reviewed an issue that's currently affecting the Time and Labouring System. Which sounds pretty dystopian.
 
-Elsewhere Lewis continued with the development work for the new catering finance system. Steamed pudding and custard being considered mission critical round these parts.
+Elsewhere Lew finished setting up our hosted dev machines so we can develop BizTalk solutions in a more stable environment. And made progress towards a test environment. Dan says this is important work. Lew also continued with the development work for the new catering finance system. Steamed pudding and custard being considered mission critical round these parts.
+
+[Aidan](https://twitter.com/aidan_morgan), Lew, David and Dan worked through some potential SQL upgrades for the integration servers.
 
 ### Strolls
 
