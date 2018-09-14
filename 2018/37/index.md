@@ -16,7 +16,7 @@ The problem with limiting ourselves to this pattern is we can only build what we
 
 So rather than restrict data access to pre-canned SPARQL queries and rather than restricting access to people inside Parliament, we now have a public SPARQL endpoint. Which means that anyone, anywhere can query our data in any way they find useful. And if we find common patterns we can roll them back into the website.
 
-Team:Samu have been beavering away at this for a while and finally [announced it on Wednesday](https://twitter.com/langsamu/status/1039950343088615425). Samu also [encourages people to give it a try and kick its tyres](https://twitter.com/langsamu/status/1039950348901916674). For now queries time out after 5 seconds and are rate limited to 10 per second per IP address. So now matter how ham-fisted you are you can't do too much damage. Give it a whirl. [Let us know](mailto:data@parliament.uk) what you think.
+Team:Samu have been beavering away at this for a while and finally [announced it on Wednesday](https://twitter.com/langsamu/status/1039950343088615425). Samu also [encourages people to give it a try and kick its tyres](https://twitter.com/langsamu/status/1039950348901916674). For now queries time out after 5 seconds and are rate limited to 10 per second per IP address. So no matter how ham-fisted you are, you can't do too much damage. Give it a whirl. [Let us know](mailto:data@parliament.uk) what you think.
 
 [Matthieu](https://twitter.com/cognithive) has already started hacking around and made a quick [MP name lookup service](https://mp-names.cognithive.com/?name=Mouse) last night. You'd think he'd have enough of this stuff in his day job. Keen as mustard that lad.
 
@@ -67,7 +67,7 @@ To make things more manageable, the analysis covered the period from May to June
 
 ### Strolls
 
-Nothing. Nada. All quiet on the stroll from. Although Anya, Robert and Michael did take a train to go and ride on some trains. Including this [absolute unit](https://twitter.com/fantasticlife/status/1038393479347535872). Sadly they did not ride on Thomas, because he was sat in a siding [with his face missing](https://twitter.com/fantasticlife/status/1038402425026224128). Michael feels he knows that feeling.
+Nothing. Nada. All quiet on the stroll front. Although Anya, Robert and Michael did take a train to go and ride on some trains. Including this [absolute unit](https://twitter.com/fantasticlife/status/1038393479347535872). Sadly they did not ride on Thomas, because he was sat in a siding [with his face missing](https://twitter.com/fantasticlife/status/1038402425026224128). Michael feels he knows that feeling.
 
 ### Things that caught our eye
 
