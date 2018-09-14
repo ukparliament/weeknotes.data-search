@@ -8,13 +8,15 @@ In the very same week [Samu](https://twitter.com/langsamu) was also delivered of
 
 ### About that
 
-As we've been building out the new data platform, we've prioritised the use of open standards. So our data storage layer is a [triple store](https://en.wikipedia.org/wiki/Triplestore) with a [SPARQL](https://en.wikipedia.org/wiki/SPARQL) access layer. It means every time you request a page on the new website, the web application queries the data platform with a pre-canned SPARQL query, gets back some data and renders a page. To oversimplify things.
+As we've been building out the new data platform, we've prioritised the use of open standards. So our data storage layer is a [triple store](https://en.wikipedia.org/wiki/Triplestore) with a [SPARQL](https://en.wikipedia.org/wiki/SPARQL) access layer. 
+This means every time you request a page on the new website, the web application queries the data platform with a pre-canned SPARQL query, gets back some data and renders a page. To oversimplify things.
 
-We've also taken the approach that our website is our API. Or at least that data views should be available to match every page type. Try browsing [beta.parliament.uk](https://beta.parliament.uk/), view the page source and check out the [rel-alternate](http://microformats.org/wiki/rel-alternate) links. Truly beautiful. Brings tears to your eyes. We think.
 
-The problem with this pattern is that it limits us to building the things we think of and have time for. As the graph of data expands, new ways of querying it become possible. And somebody, somewhere out there might want to query across the data in a way that we haven't exposed as a URL on the website. The word librarian springs to mind here.
+We've also taken the approach that our website is our API. Or at least that data views should be available to match every page type. Try browsing [beta.parliament.uk](https://beta.parliament.uk/), view the page source and check out the [rel-alternate](http://microformats.org/wiki/rel-alternate) links. Truly beautiful. Brings tears to your eyes. We think. It's been a very emotional week.
 
-So rather than restricting data access to pre-canned SPARQL queries and rather than restricting access to people inside Parliament, we now have a public SPARQL endpoint. Which means that anyone, anywhere can query our data in any way they find useful. And if we find common patterns we can roll them back into the website.
+The problem with this pattern is that it limits us to building the things we think of and have time for. As the graph of data expands, new ways of querying it become possible. And somebody somewhere out there might want to query across the data in a way that we haven’t exposed as a URL on the website. The word librarian springs to mind here.
+
+So rather than restricting data access to pre-canned SPARQL queries and rather than restricting access to people inside Parliament, we now have a public SPARQL endpoint. Which means that anyone anywhere can query our data in any way they find useful. And if we find common patterns we can roll them back into the website.
 
 Team:Samu have been beavering away at this for a while, and [announced it on Wednesday](https://twitter.com/langsamu/status/1039950343088615425). Samu [encourages people to give it a try and kick its tyres](https://twitter.com/langsamu/status/1039950348901916674). For now, queries time out after 5 seconds and are rate limited to 10 per second per IP address. So no matter how ham-fisted you are, you can't do too much damage. Give it a whirl. [Let us know](mailto:data@parliament.uk) what you think.
 
@@ -64,15 +66,15 @@ To make things more manageable, the analysis covered the period from May to June
 
 ### Corporate data
 
-Noel and David wiped the sweat from their brows and emerged into a [rubble strewn landscape](https://www.youtube.com/watch?v=MrHoMSRZOS4&t=3m47s) to continue the configuration of their new development and testing environment. Noel continued to clean up the duplicate or incomplete records that exist on People Data following its recent explosion. And David reviewed an issue that's currently affecting the Time and Labouring System. Which sounds pretty dystopian.
+Noel and David wiped the sweat from their brows and emerged into a [rubble strewn landscape](https://www.youtube.com/watch?v=MrHoMSRZOS4&t=3m47s) to continue the configuration of their new development and testing environment. Noel continued to clean up the duplicate or incomplete People Data records left in the wake of its recent explosion. And David reviewed an issue that's currently affecting the Time and Labouring System. Which sounds pretty dystopian.
 
-Elsewhere Lew finished setting up our hosted dev machines so we can develop BizTalk solutions in a more stable environment. And made progress towards a test environment. Dan says this is important work. Lew also continued with the development work for the new catering finance system. Steamed pudding and custard being considered mission critical round these parts.
+Elsewhere, Lew finished setting up our hosted dev machines so we can develop BizTalk solutions in a more stable environment. And made progress towards a test environment. Dan says this is important work. Lew also continued with the development work for the new catering finance system. Steamed pudding and custard being considered mission critical round these parts.
 
 [Aidan](https://twitter.com/aidan_morgan), Lew, David and Dan worked through some potential SQL upgrades for the integration servers.
 
 ### Strolls
 
-Nothing. Nada. All quiet on the stroll front. Although Anya, Robert and Michael did take a train to go and ride on some trains. Including this [absolute unit](https://twitter.com/fantasticlife/status/1038393479347535872). Sadly they did not ride on Thomas, because he was sat in a siding [with his face missing](https://twitter.com/fantasticlife/status/1038402425026224128). Michael feels he knows that feeling.
+Nothing. Nada. Nowt. All quiet on the stroll front. Although Anya, Robert and Michael did take a train to go and ride on some trains. Including this [absolute unit](https://twitter.com/fantasticlife/status/1038393479347535872). Sadly they did not ride on Thomas, because he was sat in a siding [with his face missing](https://twitter.com/fantasticlife/status/1038402425026224128). Michael feels he knows that feeling.
 
 ### Things that caught our eye
 
@@ -84,6 +86,6 @@ Nothing. Nada. All quiet on the stroll front. Although Anya, Robert and Michael 
 
 * Dan read a Google post on [Five insights on voice technology](https://www.blog.google/perspectives/scott-huffman/five-insights-voice-technology/). He also suspects Robert read it. Probably first. Or ^first^ as we used to say.
 
-* Dan also read [Translating data ethics by Sarah Gold](https://projectsbyif.com/blog/translating-data-ethics) from [projectsbyif](https://twitter.com/projectsbyif) and took a look at their [9 practices for organisations operating digital services](https://s3-eu-west-1.amazonaws.com/projectsbyif.com/data-ethics-practices/9+practices+for+organisations+operating+digital+services.pdf).
+* Dan read [Translating data ethics by Sarah Gold](https://projectsbyif.com/blog/translating-data-ethics) from [projectsbyif](https://twitter.com/projectsbyif) and took a look at their [9 practices for organisations operating digital services](https://s3-eu-west-1.amazonaws.com/projectsbyif.com/data-ethics-practices/9+practices+for+organisations+operating+digital+services.pdf).
 
 * The [Government Computational Service are removing support for a whole bunch of data formats from their registers](https://www.registers.service.gov.uk/data-format-changes). We're not sure why. Or what [Roy](https://en.wikipedia.org/wiki/Roy_Fielding) might think.
