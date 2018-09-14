@@ -2,9 +2,9 @@
 
 ### Babies
 
-We're delighted to announce that as dawn broke on Saturday it was accompanied by the [soft and gentle cries](https://www.youtube.com/watch?v=Su_l0d-st1k) of a new born baby. And [Jianhan](https://twitter.com/jianhanzhu) Jnr. entered the world. There's still no name announced but we're sure it will follow along soon. Because our Jianhan is a [great computer scientist](https://martinfowler.com/bliki/TwoHardThings.html). And we probably need to settle on an identifier pattern first. Welcome aboard Jianhan Jnr.
+We're delighted to announce that the break of dawn on Saturday coincided with the [soft and gentle cries](https://www.youtube.com/watch?v=Su_l0d-st1k) of a new born baby. And [Jianhan](https://twitter.com/jianhanzhu) Jnr. entered the world. No name as yet, we're sure it will follow along soon. Because our Jianhan is a [great computer scientist](https://martinfowler.com/bliki/TwoHardThings.html). And we probably need to settle on an identifier pattern first. Welcome aboard Jianhan Jnr.
 
-In the very same week [Samu](https://twitter.com/langsamu) was also delivered of a new baby in the shape of a [public SPARQL endpoint](https://api.parliament.uk/sparql). Tears were shed. Samu has since been spotted wandering round the office with a rictus grin, 1000 yard stare and a cigar clamped between his lips. At least we think it's a cigar. We're told that mother and baby are both doing well.
+In the very same week [Samu](https://twitter.com/langsamu) was also delivered of a new baby, in the shape of a [public SPARQL endpoint](https://api.parliament.uk/sparql). Joyful tears were shed. Samu has since been spotted wandering round the office with a rictus grin, 1000 yard stare and a cigar clamped between his lips. At least we think it's a cigar. We're told that mother and baby are both doing well.
 
 ### About that
 
@@ -12,11 +12,11 @@ As we've been building out the new data platform, we've prioritised the use of o
 
 We've also taken the approach that our website is our API. Or at least that data views should be available to match every page type. Try browsing [beta.parliament.uk](https://beta.parliament.uk/), view the page source and check out the [rel-alternate](http://microformats.org/wiki/rel-alternate) links. Truly beautiful. Brings tears to your eyes. We think.
 
-The problem with limiting ourselves to this pattern is we can only build what we can think of and what we have time to get round to. As the graph of data expands, new ways of querying it become possible. And somebody, somewhere out there might want to query across the data in a way that we haven't exposed as a URL on the website. The word librarian springs to mind here.
+The problem with this pattern is that it limits us to building the things we think of and have time for. As the graph of data expands, new ways of querying it become possible. And somebody, somewhere out there might want to query across the data in a way that we haven't exposed as a URL on the website. The word librarian springs to mind here.
 
-So rather than restrict data access to pre-canned SPARQL queries and rather than restricting access to people inside Parliament, we now have a public SPARQL endpoint. Which means that anyone, anywhere can query our data in any way they find useful. And if we find common patterns we can roll them back into the website.
+So rather than restricting data access to pre-canned SPARQL queries and rather than restricting access to people inside Parliament, we now have a public SPARQL endpoint. Which means that anyone, anywhere can query our data in any way they find useful. And if we find common patterns we can roll them back into the website.
 
-Team:Samu have been beavering away at this for a while and finally [announced it on Wednesday](https://twitter.com/langsamu/status/1039950343088615425). Samu also [encourages people to give it a try and kick its tyres](https://twitter.com/langsamu/status/1039950348901916674). For now queries time out after 5 seconds and are rate limited to 10 per second per IP address. So no matter how ham-fisted you are, you can't do too much damage. Give it a whirl. [Let us know](mailto:data@parliament.uk) what you think.
+Team:Samu have been beavering away at this for a while, and [announced it on Wednesday](https://twitter.com/langsamu/status/1039950343088615425). Samu [encourages people to give it a try and kick its tyres](https://twitter.com/langsamu/status/1039950348901916674). For now, queries time out after 5 seconds and are rate limited to 10 per second per IP address. So no matter how ham-fisted you are, you can't do too much damage. Give it a whirl. [Let us know](mailto:data@parliament.uk) what you think.
 
 [Matthieu](https://twitter.com/cognithive) has already started hacking around and made a quick [MP name lookup service](https://mp-names.cognithive.com/?name=Mouse) last night. You'd think he'd have enough of this stuff in his day job. Keen as mustard that lad.
 
@@ -24,25 +24,25 @@ Team:Samu have been beavering away at this for a while and finally [announced it
 
 [Dan](https://twitter.com/dasbarrett) ran another data strategy open session. Which we're told attracted a good audience. He thinks it would be great if things continued in this fashion. You can [see Dan and his beard talking about it here](https://twitter.com/dasbarrett/status/1040238433627791360).
 
-Dan also logged a call with the service desk to unblock [thebridalfile.co.uk](https://en.wikipedia.org/wiki/Binders_full_of_women) website. Which means we can now unsubscribe from their marketing spam to the [data@parliament.uk](mailto:data@parliament.uk) inbox. And also maybe check out canape trends and what have you.
+Dan also logged a call with the service desk to unblock [thebridalfile.co.uk](https://en.wikipedia.org/wiki/Binders_full_of_women) website. Which means we can unsubscribe from their marketing spam to the [data@parliament.uk](mailto:data@parliament.uk) inbox. And also maybe check out the latest in canapé trends and what have you.
 
 ### Community
 
-Over in library land, work continued to decant [Michael Rush](https://socialsciences.exeter.ac.uk/politics/staff/rush/)'s card index files into spreadsheets. Although it did almost come to a grinding halt. [Michael](https://twitter.com/fantasticlife) realised he'd made a schoolboy error with his original export of reference data. And that quite a lot of it was missing. He crept back to Tothill Street expecting only the disapprobation of librarians. But [Anya](https://twitter.com/bitten_) stepped in to help. And promptly ballsed things up to a completely new level. There was some sitting in silence. It was not companionable. Tuesday passed. But no strong words were issued and no punches thrown. They combined all of their brains and all of their computational skills and pulled off yet another audacious goalline clearance. From zeroes to heroes.
+Over in library land, work continued to decant [Michael Rush](https://socialsciences.exeter.ac.uk/politics/staff/rush/)'s card index files into spreadsheets. That said, it did almost come to a grinding halt. [Michael](https://twitter.com/fantasticlife) realised he'd made a schoolboy error with his original export of reference data. And that quite a lot of it was missing. He crept back to Tothill Street expecting only the disapprobation of librarians. But [Anya](https://twitter.com/bitten_) stepped in to help. And promptly ballsed things up to a completely new level. There was some sitting in silence. It was not companionable. Tuesday passed. But no strong words were issued and no punches thrown. They combined all of their brains and all of their computational skills and pulled off yet another audacious goalline clearance. From zeroes to heroes.
 
-Anya and Michael met with [Lorna](https://twitter.com/laurnarobertson) from the Scottish Parliament to talk all things taxonomy and search and data. The subject of SEO came up but Michael was strong. And did not flinch. Or froth. He did ask for a trip to Edinburgh though.
+Anya and Michael met with [Lorna](https://twitter.com/laurnarobertson) from the Scottish Parliament to talk all things taxonomy and search and data. The subject of SEO came up but Michael was strong. He did not flinch. Or froth. He did ask for a trip to Edinburgh though.
 
 ### One world, one web, one team
 
 Anya and Michael trotted off to the House of Commons Journal Office to see Mark Hutton, Clerk of Journals. They chatted about web analytics and user data and privacy. Particularly in the context of [online petitions](https://petition.parliament.uk/). More chats to follow.
 
-[Sara](https://twitter.com/sarafreis) and Matt have been looking further into the use of [natural language processing](https://en.wikipedia.org/wiki/Natural_language_processing) to classify calls made to the helpdesk. They've been borrowing ideas from the work done by the Ministry of Justice analytical services with their [Parliamentary questions tool](https://github.com/moj-analytical-services/pq-tool) and taken a turn toward [Latent Semantic Analysis](https://en.wikipedia.org/wiki/Latent_semantic_analysis). Sara and Matt got a proof of concept running, then Matt worked on it alone. And broke it. Luckily, Matt's also been chatting to Sam Tazzyman who was responsible for the MoJ work. Who helped Matt get it working again. Thanks Sam.
+[Sara](https://twitter.com/sarafreis) and Matt have been looking further into the use of [natural language processing](https://en.wikipedia.org/wiki/Natural_language_processing) to classify calls made to the helpdesk. They've been borrowing ideas from work by the Ministry of Justice analytical services on their [parliamentary questions tool](https://github.com/moj-analytical-services/pq-tool) and taken a turn toward [Latent Semantic Analysis](https://en.wikipedia.org/wiki/Latent_semantic_analysis). Sara and Matt got a proof of concept running, then Matt worked on it alone. And broke it. Luckily, Matt's also been chatting to Sam Tazzyman who was responsible for the MoJ work. Sam helped Matt get it working again. Thanks Sam.
 
-In simple terms, it looks at how often words are used together in sentences, as well as the words *those* words are used with, and so on, to group sentences by common topics. We're hoping that we can then use common topic-ness to help with assigning calls to teams. Sam also provided [a link to the more recent work](https://moj-analytical-services.github.io/NLP-guidance/) they've been doing, which has some very good write ups on what this stuff actually is.
+In simple terms, Sara and Matt are looking at how often words are used together in sentences, as well as the words *those* words are used with, and so on, to group sentences by common topics. We're hoping that we can then use common topic-ness to help with assigning calls to teams. Sam also provided [a link to the more recent work](https://moj-analytical-services.github.io/NLP-guidance/) they've been doing, where you'll find some very good write ups on what this stuff actually is.
 
 ### Domain modelling
 
-Anya, Robert and Michael continued with the long hard slog of editing model comments. It's like chipping away at a block of rock and failing to see a figure emerge. Anya and Michael get the feeling that Robert is trying to train them in the art of comment writing here. But they'd probably prefer it if he just rewrote them. Their trust is implicit.
+Anya, Robert and Michael continued with the long hard slog of editing model comments. It's like chipping away at a block of rock and failing to see a figure emerge. Anya and Michael get the feeling that Robert is trying to train them in the art of comment writing. Or English. They'd probably prefer it if he just rewrote them. Their trust is implicit.
 
 #### September [spawned a monster](https://www.youtube.com/watch?v=Xv8LdKp2Y-8)...
 
@@ -54,7 +54,7 @@ Mike found some server errors in the Search Service telemetry and had a hunch th
 
 Samu's grin temporarily disappeared when he thought he might have made the noobest possible programming mistake and not checked for nulls. But he soldiered on and did not [think badly of Sir Tony Hoare](https://en.wikipedia.org/wiki/Tony_Hoare#Apologies_and_retractions). A [fix was deployed](https://github.com/ukparliament/Search/compare/62a8797e22c12ba47bb5c28e71d76f71f65dce6b...a509da1ccabfbbf1570b4a456ac1e5c130f771b8?diff=split#diff-54a72b6692c682e402df897d42ada6c9R25) within the hour.
 
-Mike continued to peer at the usage statistics for the Search Service, and found that only 1.38% of searches were affected since we introduced the fault. And that it wouldn't have been noticed by users because the search page just says no results when the underlying service fails. Which in this case was actually true. So really 0% of searches were affected.
+Mike continued to peer at the usage statistics for the Search Service and found that since the fault was introduced, only 1.38% of searches were affected. And that it wouldn't have been noticed by users because the search page just says 'no results' when the underlying service fails. Which in this case was actually true. So really 0% of searches were affected.
 
 ### On search. And indeed indexing
 
