@@ -20,7 +20,9 @@ Librarians Anya and Jayne met with Computational Section types [Samu](https://tw
 
 [Sara](http://twitter.com/sarafreis) met with folks from the Employee Pay and Pension Service and the Governance Office to discuss digital forms and the reporting thereof. She gave a brief tutorial on connecting to the data using [Power Query](https://en.wikipedia.org/wiki/Power_Pivot#M_Formula_language). She also wrote some instructions to share with the wider team. She tells us they seemed satisfied. 
 
-[Alison](http://twitter.com/oliala) ran a second workshop looking at models for measurement, this time expanding horizons beyond our immediate data analysing friends. She says it went well.
+[Alison](http://twitter.com/oliala) ran a second workshop looking at models for measurement, this time expanding horizons beyond our immediate data analysing friends to include creators, consumers and capturers of KPIs. New joiner Jamie R, Rosie, Glenn and Krzystof all went along. Alison says thanks all for being such active participants.
+
+Alison ploughed through a fair few meetings. She met with Philippa to talk about [All-Party Parliamentary Groups](https://www.parliament.uk/about/mps-and-lords/members/apg/), informal groups for which Parliament doesn't keep membership lists. These lists are sometimes published by the APPGs on their own websites. She met with Kate to understand what information is captured and retained on catered events bookings on the Parliamentary estate and envisages a small domain model in due course. Together with Bridget she met Janis McAnallen from Strategic Estates to discuss space and location data. They're planning to [facilitate a workshop](https://www.youtube.com/watch?v=sv3LG6VVo8o) with Andy from [Restoration and Renewal](https://restorationandrenewal.parliament.uk/) to ensure alignment with the Data Strategy.
 
 ### Domain modelling
 
@@ -53,6 +55,12 @@ Lew went to a meeting about corporate systems integration and the data strategy.
 No baby news this week although, after some time away, [Chris](https://twitter.com/chrisalcockdev) has returned to us. Welcome back Chris.
 
 And Jamie has joined our Liz's team as a new data analyst. There is almost no data we can't analyse now. Welcome aboard Jamie.
+
+### Aidan's truly terrible week (slight return)
+
+[Aidan](https://twitter.com/aidan_morgan) has left the Data and Search team to plough a new delivery management furrow in development land. So we have a (relatively new) arrival in the shape of [Paul](https://twitter.com/paulwakely). Following in [Aidan's footsteps](/weeknotes.data-search/12/#aidans-truly-terrible-week), Paul has had a truly terrible week.
+
+He continued meeting his new colleagues, trying to understand everything they are working on. He met with Rosie Hatton to talk about how the Data Strategy aligns with the wider Digital Strategy. He discussed some PowerBI needs with Frederico Maia, the Head of HR Shared Services. He spent a lot of time reading strategy documents and Restoration and Renewal slides. Paul used to work for the BBC so uses the word 'deck' here. He attended an all-day course on preparing business cases. A whole actual day. And then he had two of his front teeth pulled out. Poor lad.
 
 ### Capability
 
