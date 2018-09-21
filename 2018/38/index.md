@@ -68,12 +68,12 @@ And Jamie has joined our Liz's team as a new data analyst. There is almost no da
 
 ### Strolls
 
-Anya, Robert and Michael took a much needed break from comment editing and headed across St James's Park in the general direction of Soho. Where they found an arcade and played air hockey. Michael beat Anya, Robert beat Michael and [Anya whipped Robert's arse 7-0](https://twitter.com/fantasticlife/status/1042448972483186688). So it was all quite inconclusive. Then they went for a milkshake. As they frequently do. The milshake was superb, though they found the [outlet somewhat clinical](http://snowflakegelato.co.uk/boutique-page/soho/).
+Anya, Robert and Michael took a much needed break from comment editing and headed across St James's Park in the general direction of Soho. Where they found an arcade and played air hockey. Michael beat Anya, Robert beat Michael and [Anya whipped Robert's arse 7-0](https://twitter.com/fantasticlife/status/1042448972483186688). So it was all quite inconclusive. Then they went for a milkshake. As they frequently do. The milkshake was superb, though they found the [outlet somewhat clinical](http://snowflakegelato.co.uk/boutique-page/soho/).
 
 ### Things that caught our eye
 
 * Silver sent over [The quality of a design will not exceed the knowledge of its designer;
-an analysis based on Axiomatic Information and the Cynefin Framework ](https://ac.els-cdn.com/S2212827115007994/1-s2.0-S2212827115007994-main.pdf) [PDF].
+an analysis based on Axiomatic Information and the Cynefin Framework ](https://www.sciencedirect.com/science/article/pii/S2212827115007994) [PDF].
 
 * Michael read [The Rise and Demise of RSS](https://twobithistory.org/2018/09/16/the-rise-and-demise-of-rss.html) and pined for the past.
 
