@@ -50,12 +50,6 @@ All quiet this week. There were [no alarms and few surprises](https://www.youtub
 
 Lew went to a meeting about corporate systems integration and the data strategy. Not having to carry fire extinguishers around freed up his hands for long enough to fix a reporting integration for our support software. And he even managed to fit in some investigative work into some test failures in a new finance integration. Splendid stuff Lew.
 
-### Leavers and joiners
-
-No baby news this week although, after some time away, [Chris](https://twitter.com/chrisalcockdev) has returned to us. Welcome back Chris.
-
-And Jamie has joined our Liz's team as a new data analyst. There is almost no data we can't analyse now. Welcome aboard Jamie.
-
 ### Aidan's truly terrible week (slight return)
 
 [Aidan](https://twitter.com/aidan_morgan) has left the Data and Search team to plough a new delivery management furrow in development land. So we have a (relatively new) arrival in the shape of [Paul](https://twitter.com/paulwakely). Following in [Aidan's footsteps](/weeknotes.data-search/12/#aidans-truly-terrible-week), Paul has had a truly terrible week.
@@ -65,6 +59,12 @@ He continued meeting his new colleagues, trying to understand everything they ar
 ### Capability
 
 Our small but ever growing family of data analysts attended a [career path](https://www.youtube.com/watch?v=8JM8C49pf40) workshop run by [Julie](https://twitter.com/julietouring). They talked about possible [opportunities](https://www.youtube.com/watch?v=di60NYGu03Y) for people working with data stuff.
+
+### Leavers and joiners
+
+No baby news this week although, after some time away, [Chris](https://twitter.com/chrisalcockdev) has returned to us. Welcome back Chris.
+
+And Jamie has joined our Liz's team as a new data analyst. There is almost no data we can't analyse now. Welcome aboard Jamie.
 
 ### Strolls
 
