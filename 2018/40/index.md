@@ -42,7 +42,7 @@ At some point they really need to bite the bullet and think about adding [logic 
 
 [Matthieu](https://twitter.com/cognithive) worked on automating our deployment of [VocBench](http://vocbench.uniroma2.it/). He also wrote [a post](https://medium.com/@neiges/using-a-sparql-endpoint-to-generate-bash-scripts-5d8e6609d6da) about generating [bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) scripts using our [public SPARQL endpoint](https://api.parliament.uk/sparql) to help a [BBC](https://en.wikipedia.org/wiki/Blockbuster_LLC) person grab a bunch of our Member portraits more easily. And for anyone else wanting similar tips.
 
-### Dashboarding all the measurements
+#### Dashboarding all the measurements
 
 Mike's been hard at work creating a dashboard view of our data platform API. It's fed by data from our analytics software and lists each endpoint by the percentage of failed requests, a breakdown of response codes per environment and the request URL of all responses tagged as failed over the last hour. It also shows the total number of API requests for all endpoints or per environment or per endpoint. Again with a breakdown by response. Top dashboarding Mike.
 
