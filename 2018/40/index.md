@@ -52,7 +52,7 @@ Following the recent deployment of new analytics software to the [website search
 
 ### Corporate data
 
-Bridget spent most of the week working on the upgrade of Dynamics CRM 2011 to Dynamics 364. There are plans to merge the three instances used by [POST](https://www.parliament.uk/post), Participation and the House of Lords Enquiry service into a single instance on what we are told is an 'evergreen platform'. She had a productive meeting with our third party supplier and is now able to put the finishing touches to a data migration framework for the project. She's hoping the migration framework might be reusable across other projects and is hoping to tap into our Liz's skills for data profiling.
+Bridget spent most of the week working on the upgrade of Dynamics CRM 2011 to Dynamics 364. There are plans to merge the three instances used by [POST](https://www.parliament.uk/post), Participation and the House of Lords Enquiry service into a single instance on what we are told is an 'evergreen platform'. She had a productive meeting with our third party supplier and is now able to put the finishing touches to a data migration framework for the project. She's hoping the migration framework might be reusable across other projects and that she might tap into our Liz's skills for data profiling.
 
 ### Paul's truly terrible week (slight return)
 
