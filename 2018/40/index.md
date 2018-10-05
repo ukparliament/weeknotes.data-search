@@ -64,7 +64,7 @@ No award this week. Nobody has been good enough to justify the cost of printing 
 
 ### Strolls
 
-Robert and Dan took a stroll to the finest coffee stall in SW1. Robert and Michael did similar. There was a shortage of any real adventure and a lack of real spice in our lives.
+Robert and Dan took a stroll to the [finest coffee stall in SW1](https://twitter.com/flatcapvictoria). Robert and Michael did similar. There was a shortage of any real adventure and a lack of real spice in our lives.
 
 ### Bridal news
 
