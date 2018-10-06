@@ -26,15 +26,15 @@ Our Liz has been watching stuff on [reproducible analysis](https://lib.colostate
 
 ### Domain modelling
 
-The week started with a poorly Anya. Her nose and chest exploded almost simultaneously. We started to worry that she may not be smoking enough. Nevertheless, even with a librarian down, team:whiteboard ploughed on regardless.
+The week started with a poorly Anya. Her nose and chest exploded almost simultaneously. We occasionally worry that she may not be smoking enough. Nevertheless, despite being a librarian down, team:whiteboard ploughed bravely on.
 
-Michael spent a chunk of Monday morning with [Martyn](https://twitter.com/martynpatrick), clerk bloke for the House of Commons [Procedure Committee](https://www.parliament.uk/business/committees/committees-a-z/commons-select/procedure-committee/). They talked through the [legislation model](https://ukparliament.github.io/ontologies/legislation/legislation-ontology.html) and feedback they’ve received from [David](https://twitter.com/clerkly) and [John](https://twitter.com/johnlsheridan) around powers and duties. Some words got nudged around.
+Michael spent a chunk of Monday morning with [Martyn](https://twitter.com/martynpatrick), clerk bloke for the House of Commons [Procedure Committee](https://www.parliament.uk/business/committees/committees-a-z/commons-select/procedure-committee/). They talked through the [legislation model](https://ukparliament.github.io/ontologies/legislation/legislation-ontology.html) and feedback they’ve received from [David](https://twitter.com/clerkly) and [John](https://twitter.com/johnlsheridan) in the area of powers and duties. Some words got nudged around.
 
-Robert and Michael spent a large chunk of Tuesday diving back into the legislation model, tweaking some of the shape, some of the labels and some of the comments. They spotted [Nerys](https://twitter.com/Nerys_d) across Tothill Street cafe and managed to grab her to idiot check some words. It feels like the legislation model is getting to a stage where they're almost happy with it. At least for now. Thanks Martyn. And David. And John. And Nerys.
+Robert and Michael spent much of Tuesday diving back into the legislation model, tweaking some of the shape, some of the labels and some of the comments. They spotted [Nerys](https://twitter.com/Nerys_d) across Tothill Street cafe and managed to grab her to idiot check some words. It feels like the legislation model is getting to a stage where they're almost happy with it. At least for now. Thanks Martyn. And David. And John. And Nerys.
 
 Luckily Anya picked up her smoking and returned to work on Wednesday. Still spluttering slightly. But able to attend a meeting with librarian Jayne and [Computational Section](https://pds.blog.parliament.uk/) representatives [Bex](https://twitter.com/rklappleyard) and [Chris](https://twitter.com/chrisalcockdev). They began to crack apart what it means for a statutory instrument to be 'current', in a currently before Parliament sense. And thought they'd cracked it. They hadn't.
 
-Luckily Robert's brain was available for a large chunk of Thursday, so Anya and Michael sat down with him and rewrote the rules, checked them three times and started to add 'no longer before the House' steps to the [procedural flowcharts](https://ukparliament.github.io/ontologies/procedure/procedure-ontology.html#examples). So far they've covered proposed negative statutory instruments and both of the negative procedures. Affirmatives to follow.
+Luckily Robert’s brain was available on Thursday, so Anya and Michael sat down with him and rewrote the rules, checked them three times and started to add 'no longer before the House' steps to the [procedural flowcharts](https://ukparliament.github.io/ontologies/procedure/procedure-ontology.html#examples). So far they've covered proposed negative statutory instruments and both of the negative procedures. Affirmatives to follow.
 
 At some point they really need to bite the bullet and think about adding [logic gates](https://en.wikipedia.org/wiki/Logic_gate) to the [procedure model](https://ukparliament.github.io/ontologies/procedure/procedure-ontology.html). But they're comforted by the sound of Robert's brain grinding into gear on this.
 
@@ -48,7 +48,7 @@ Mike's been hard at work creating a dashboard view of our data platform API. It'
 
 ### On search. And indeed indexing
 
-Following the recent deployment of new analytics software to the [website search service](https://beta.parliament.uk/search), our Liz took a look at the referrer info we're getting back. For any view of a search result page we can now see the page the user was on when the search was performed. Perhaps unsurprisingly, the top locations for users starting searches are the Member biography pages. Information about MPs and Peers accounts for a large proportion of our traffic. Which means we probably need to consider referrer page counts in the context of views of those pages.
+Following the recent deployment of new analytics software to the [website search service](https://beta.parliament.uk/search), our Liz took a look at the referrer info. For any view of a search result page we can now see the page the user was on when the search was performed. Perhaps unsurprisingly, the top locations for users starting searches are the Member biography pages. Information about MPs and Peers accounts for a large proportion of our traffic. Which means we probably need to consider referrer page counts in the context of views of those pages.
 
 ### Corporate data
 
