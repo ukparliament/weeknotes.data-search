@@ -34,7 +34,7 @@ Robert and Michael spent much of Tuesday diving back into the legislation model,
 
 Luckily Anya picked up her smoking and returned to work on Wednesday. Still spluttering slightly. But able to attend a meeting with librarian Jayne and [Computational Section](https://pds.blog.parliament.uk/) representatives [Bex](https://twitter.com/rklappleyard) and [Chris](https://twitter.com/chrisalcockdev). They began to crack apart what it means for a statutory instrument to be 'current', in a currently before Parliament sense. And thought they'd cracked it. They hadn't.
 
-Luckily Robert’s brain was available on Thursday, so Anya and Michael sat down with him and rewrote the rules, checked them three times and started to add 'no longer before the House' steps to the [procedural flowcharts](https://ukparliament.github.io/ontologies/procedure/procedure-ontology.html#examples). So far they've covered proposed negative statutory instruments and both of the negative procedures. Affirmatives to follow.
+In a second stroke of luck, Robert’s brain was available on Thursday, so Anya and Michael sat down with him and rewrote the rules, checked them three times and started to add 'no longer before the House' steps to the [procedural flowcharts](https://ukparliament.github.io/ontologies/procedure/procedure-ontology.html#examples). So far they've covered proposed negative statutory instruments and both of the negative procedures. Affirmatives to follow.
 
 At some point they really need to bite the bullet and think about adding [logic gates](https://en.wikipedia.org/wiki/Logic_gate) to the [procedure model](https://ukparliament.github.io/ontologies/procedure/procedure-ontology.html). But they're comforted by the sound of Robert's brain grinding into gear on this.
 
